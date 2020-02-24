@@ -1,0 +1,188 @@
+<html>
+<head>
+    <script src="/public/javascript/jquery_1.8.3.min.js"></script>
+    <script src="/socket.io/socket.io.js"></script>
+    <script type="text/javascript" src="/public/javascript/thread.min.js"></script>
+    <script type="text/javascript" src="/public/javascript/runnable.min.js"></script>
+    <script type="text/javascript" src="/public/javascript/movingUsers.js"></script>
+    <script type="text/javascript" src="/public/javascript/distritos.js"></script>
+    <script>
+        $(function(){
+            /*var iosocket = io.connect();
+    
+            iosocket.on('handshakeCompleted', function() {
+                console.log("handshake completed");
+                $('#handS').html("handshake completed");
+                startMoving();
+            });
+            iosocket.on('connect', function () {
+                iosocket.emit('handshake',{'username':'username3','hashKey':'715dc8f36ab7750676e38d4e12cd7d7d'});
+                $('#incomingSocket').append($('<li>Connected</li>'));
+            });
+            iosocket.on('message', function(message) {
+                $('#incomingChatMessages').append($('<li></li>').text(message));
+            });
+            $('#outgoingChatMessage').keypress(function(event) {
+                
+                iosocket.send($('#outgoingChatMessage').val());
+                $('#incomingChatMessages').append($('<li></li>').text($('#outgoingChatMessage').val()));
+                $('#outgoingChatMessage').val('');
+                
+            });*/
+            
+            /*function startMoving(){
+                setInterval(function() {
+                    var districtNumber = Math.floor((Math.random()*distritosNumber.length)+1);
+                    newMsg = {
+                            username:'username3',
+                            message:'Go to '+distritosNumber[districtNumber],
+                            latitude:distritos[distritosNumber[districtNumber]].latitude,
+                            longitude:distritos[distritosNumber[districtNumber]].longitude
+                        };
+                    iosocket.emit('geoLocation', newMsg);
+                    $('#incomingChatMessages').append($('<li></li>').text(newMsg.message));
+                    
+                }, 10000);
+            }*/
+            //console.log(movingUsers.length);
+            for(var i=0;i<movingUsers1.length;i++){
+                $('#howManyClients1').append($("<option></option>").attr("value",i+1).text(i+1)); 
+            }
+            for(var i=0;i<movingUsers2.length;i++){
+                $('#howManyClients2').append($("<option></option>").attr("value",i+1).text(i+1)); 
+            }
+            for(var i=0;i<movingUsers3.length;i++){
+                $('#howManyClients3').append($("<option></option>").attr("value",i+1).text(i+1)); 
+            }
+            
+            
+            
+            
+            
+            
+            $("#submit").click(function(){
+                var increment = 0.00010;
+                for(var i=0;i<$('#howManyClients1').val();i++){
+                    $('#resultOutput1').append($('<div class="color1"></div>').html('<ol id="incomingChatMessages1'+i+'"></ol>'));
+                    var distrito1 = $('#distritos1').val();
+                    //console.log(distritos[distrito].latitude+(i*increment) +" | "+(distritos[distrito].longitude+(i*increment)));
+                    var runnable = new Runnable('/public/javascript/worker.js'),
+                        event = {
+                            data:{lat:distritos1[distrito1].latitude+(i*increment),lon:distritos1[distrito1].longitude+(i*increment), userData:movingUsers1[i], userPosition:i},
+                            onsuccess: (function(e) {
+                              //document.getElementById('handS').innerHTML = e.data;
+                              var ul = "#incomingChatMessages1"+e.data.userPosition;
+                              //console.log(ul);
+                              $(ul).append($('<li>').text(e.data.message));
+                            }),
+                            onerror: (function(e) {
+                              alert(e.message);
+                            })
+                        };
+                    // method #1 - w/ a Runnable object
+                    (new Thread(runnable, i+'Thread')).start(event);
+                    
+                }
+                
+                for(var i=0;i<$('#howManyClients2').val();i++){
+                    $('#resultOutput2').append($('<div class="color2"></div>').html('<ol id="incomingChatMessages2'+i+'"></ol>'));
+                    var distrito2 = $('#distritos2').val();
+                    //console.log(distritos[distrito].latitude+(i*increment) +" | "+(distritos[distrito].longitude+(i*increment)));
+                    var runnable = new Runnable('/public/javascript/worker.js'),
+                        event = {
+                            data:{lat:distritos2[distrito2].latitude+(i*increment),lon:distritos2[distrito2].longitude+(i*increment), userData:movingUsers2[i], userPosition:i},
+                            onsuccess: (function(e) {
+                              //document.getElementById('handS').innerHTML = e.data;
+                              var ul = "#incomingChatMessages2"+e.data.userPosition;
+                              //console.log(ul);
+                              $(ul).append($('<li>').text(e.data.message));
+                            }),
+                            onerror: (function(e) {
+                              alert(e.message);
+                            })
+                        };
+                    // method #1 - w/ a Runnable object
+                    (new Thread(runnable, i+'Thread')).start(event);
+                    
+                }
+                for(var i=0;i<$('#howManyClients3').val();i++){
+                    $('#resultOutput3').append($('<div class="color3"></div>').html('<ol id="incomingChatMessages3'+i+'"></ol>'));
+                    var distrito3 = $('#distritos3').val();
+                    //console.log(distritos[distrito].latitude+(i*increment) +" | "+(distritos[distrito].longitude+(i*increment)));
+                    var runnable = new Runnable('/public/javascript/worker.js'),
+                        event = {
+                            data:{lat:distritos3[distrito3].latitude+(i*increment),lon:distritos3[distrito3].longitude+(i*increment), userData:movingUsers3[i], userPosition:i},
+                            onsuccess: (function(e) {
+                              //document.getElementById('handS').innerHTML = e.data;
+                              var ul = "#incomingChatMessages3"+e.data.userPosition;
+                              //console.log(ul);
+                              $(ul).append($('<li>').text(e.data.message));
+                            }),
+                            onerror: (function(e) {
+                              alert(e.message);
+                            })
+                        };
+                    // method #1 - w/ a Runnable object
+                    (new Thread(runnable, i+'Thread')).start(event);
+                    
+                }
+            });
+        });
+    </script>
+    <style>
+        #resultOutput1 div,#resultOutput2 div,#resultOutput3 div{
+            float:left;
+        }
+        .color1{
+            background:#CCFF00;
+        }
+        .color2{
+            background:#FF9999;
+        }
+        .color3{
+            background:#99FFFF;
+        }
+    </style>
+</head>
+<body>
+<div id="task1" class="color1">
+Quantos clientes <select id="howManyClients1" name="howManyClients1" tabindex="1"></select><br\>
+Em que distrito <select id="distritos1" name="distrito1" tabindex="1">
+    <option value="Aveiro">Aveiro</option>
+    <option value="Beja">Beja</option>
+    <option value="Braga">Braga</option>
+    <option value="Braganca">Bragança</option>
+    <option value="CasteloBranco">Castelo Branco</option>
+    <option value="Coimbra">Coimbra</option>
+</select>
+</div>
+
+<div id="task2" class="color2">
+Quantos clientes <select id="howManyClients2" name="howManyClients2" tabindex="1"></select><br\>
+Em que distrito <select id="distritos2" name="distrito2" tabindex="1">
+    <option value="Evora">Évora</option>
+    <option value="Faro">Faro</option>
+    <option value="Guarda">Guarda</option>
+    <option value="Leiria">Leiria</option>
+    <option value="Lisboa">Lisboa</option>
+    <option value="Portalegre">Portalegre</option>
+</select>
+</div>
+
+<div id="task3" class="color3">
+Quantos clientes <select id="howManyClients3" name="howManyClients3" tabindex="1"></select><br\>
+Em que distrito <select id="distritos3" name="distrito3" tabindex="1">
+    <option value="Porto">Porto</option>
+    <option value="Santarem">Santarém</option>
+    <option value="Setubal">Setúbal</option>
+    <option value="VianadoCastelo">Viana do Castelo</option>
+    <option value="VilaReal">Vila Real</option>
+    <option value="Viseu">Viseu</option>
+</select>
+</div>
+<button id="submit">Iniciar movimentos </button>
+<div id="resultOutput1"></div>
+<div id="resultOutput2"</div>
+<div id="resultOutput3"></div>
+</body>
+</html> 

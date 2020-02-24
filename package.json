@@ -1,0 +1,14 @@
+{
+  "name": "WTF",
+  "description": "Where's The Fire",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "express": "3.0.3",
+    "ejs": ">= 0.0.1",
+    "mysql": ">= 2.0.0-alpha4",
+    "pwd": ">=0.0.2",
+    "i18n": ">=0.3.5",
+    "socket.io":">=0.9.11"
+  }
+}

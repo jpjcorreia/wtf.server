@@ -1,0 +1,12 @@
+
+<div class="group">
+    <h3><%= h3title %></h3>
+    <div>
+        <form method="post" action="/new-user">
+    	<div><label><%= usernameLabel %></label><input type="text" name="user[name]" id="username" value=""/></div>
+    	<div><label><%= passwordLabel %></label><input type="password" name="user[pass]" id="password" value=""/></div>
+    	<div><label><%= emailLabel %></label><input type="text" name="user[email]" id="email" value=""/></div>
+    	<div><input type="submit" value="<%= createUserLabel %>"></div>
+        </form>
+    </div>
+</div>

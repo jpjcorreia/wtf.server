@@ -1,0 +1,54 @@
+<html>
+<head>
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+    <script src="/socket.io/socket.io.js"></script>
+    <script>
+        $(function(){
+            //var iosocket = io.connect('?teste=XPTO');
+            var conn_options = {
+              'sync disconnect on unload':false
+            };
+            var iosocket = io.connect('', conn_options);
+            for(var i in iosocket){
+                console.log(i+"->"+iosocket[i]);
+            }
+            //iosocket.emit('doAuth','theKEY');
+            iosocket.on('connect', function (teste) {
+                //console.log(teste);
+                //iosocket.emit('doAuth','theKEY');
+                
+                $('#incomingChatMessages').append($('<li>Connected</li>'));
+                
+            });
+            iosocket.on('message', function(message) {
+                $('#incomingChatMessages').append($('<li></li>').text(message));
+            });
+            iosocket.on('geoLocation', function(message) {
+                $('#incomingChatMessages').append($('<li></li>').text("GEOLOCATION"));
+            });
+            iosocket.on('disconnect', function() {
+                $('#incomingChatMessages').append('<li>Disconnected</li>');
+            });
+ 
+            $('#outgoingChatMessage').keypress(function(event) {
+                if(event.which == 13) {
+                    event.preventDefault();
+                    iosocket.send($('#outgoingChatMessage').val());
+                    $('#incomingChatMessages').append($('<li></li>').text($('#outgoingChatMessage').val()));
+                    $('#outgoingChatMessage').val('');
+                }
+            });
+        });
+    </script>
+</head>
+<body>
+ <a href="/map">map view</a><br/>
+
+Incoming Chat: <ul id="incomingChatMessages"></ul>
+
+
+<input type="text" id="outgoingChatMessage">
+<% include teste.ejs %>
+    
+</body>
+</html> 

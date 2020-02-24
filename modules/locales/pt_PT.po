@@ -1,0 +1,2292 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WTF\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-12-02 04:03+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Cláudio Esperança <cesperanc@gmail.com>\n"
+"Language-Team: Cláudio Esperança <cesperanc+e-fer@gmail.com>\n"
+"Language: pt_PT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;esc_attr__\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-SearchPath-0: ../..\n"
+
+#: ../../server.js:118
+msgid "Session terminated!"
+msgstr "Sessão terminada!"
+
+#: ../../server.js:121
+msgid "<strong>Session terminated!</strong> <a href=\"/\">Go back</a>"
+msgstr "<strong>Sessão terminada!</strong> <a href=\"/\">Voltar</a>"
+
+#: ../../server.js:135
+msgid "Map view"
+msgstr "Vista de mapa"
+
+#: ../../server.js:136
+#, perl-format
+msgid "Hello, %s."
+msgstr "Olá, %s"
+
+#: ../../server.js:137
+msgid "Logout?"
+msgstr "Terminar sessão?"
+
+#: ../../node_modules/i18n/test/i18n.configure.js:24
+#: ../../node_modules/i18n/test/i18n.test.js:27
+#: ../../node_modules/i18n/test/i18n.test.js:32
+#: ../../node_modules/i18n/vows/i18n.configure.vows.js:26
+msgid "Hello"
+msgstr ""
+
+#: ../../node_modules/i18n/test/i18n.configure.js:25
+#: ../../node_modules/i18n/test/i18n.test.js:28
+#: ../../node_modules/i18n/test/i18n.test.js:33
+#: ../../node_modules/i18n/vows/i18n.configure.vows.js:27
+#, perl-format
+msgid "Hello %s, how are you today?"
+msgstr ""
+
+#: ../../node_modules/i18n/test/i18n.configure.js:26
+#: ../../node_modules/i18n/test/i18n.test.js:29
+#: ../../node_modules/i18n/test/i18n.test.js:34
+#: ../../node_modules/i18n/vows/i18n.configure.vows.js:28
+#, perl-format
+msgid "Hello %s, how are you today? How was your %s."
+msgstr ""
+
+#: ../../node_modules/i18n/test/i18n.configure.js:26
+#: ../../node_modules/i18n/test/i18n.test.js:29
+#: ../../node_modules/i18n/test/i18n.test.js:34
+#: ../../node_modules/i18n/vows/i18n.configure.vows.js:28
+msgid "weekend"
+msgstr ""
+
+#: ../../node_modules/i18n/test/i18n.test.js:54
+#: ../../node_modules/i18n/test/i18n.test.js:55
+#: ../../node_modules/i18n/test/i18n.test.js:60
+#: ../../node_modules/i18n/test/i18n.test.js:61
+msgid "tree"
+msgstr ""
+
+#: ../../node_modules/gettext/test/gettext.test.js:27
+#: ../../node_modules/gettext/test/gettext.test.js:39
+msgid "not present"
+msgstr ""
+
+#: ../../node_modules/gettext/test/gettext.test.js:28
+#: ../../node_modules/gettext/test/gettext.test.js:31
+#: ../../node_modules/gettext/test/gettext.test.js:40
+#: ../../node_modules/gettext/test/gettext.test.js:42
+msgid "test"
+msgstr ""
+
+#: ../../node_modules/gettext/test/gettext.test.js:29
+#: ../../node_modules/gettext/test/gettext.test.js:32
+#: ../../node_modules/gettext/test/gettext.test.js:34
+#: ../../node_modules/gettext/test/gettext.test.js:41
+#: ../../node_modules/gettext/test/gettext.test.js:43
+#: ../../node_modules/gettext/test/gettext.test.js:44
+msgid "test with \"embedded\" quotes"
+msgstr ""
+
+#: ../../node_modules/gettext/test/gettext.test.js:53
+#: ../../node_modules/gettext/test/gettext.test.js:54
+#: ../../node_modules/gettext/test/gettext.test.js:55
+#: ../../node_modules/gettext/test/gettext.test.js:56
+#: ../../node_modules/gettext/test/gettext.test.js:57
+#: ../../node_modules/gettext/test/gettext.test.js:59
+msgid "Singular"
+msgid_plural "Plural"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../../node_modules/gettext/test/gettext.test.js:65
+#: ../../node_modules/gettext/test/gettext.test.js:67
+#: ../../node_modules/gettext/test/gettext.test.js:69
+#: ../../node_modules/gettext/test/gettext.test.js:71
+msgid "language"
+msgstr "idioma"
+
+#~ msgid "Error occorred: %s"
+#~ msgstr "Ocorreu um erro: %s"
+
+#~ msgid "Welcome"
+#~ msgstr "Bem vindo"
+
+#~ msgid "The authentication was completed with success"
+#~ msgstr "A autenticação foi concluída com sucesso"
+
+#~ msgid "Error"
+#~ msgstr "Erro"
+
+#~ msgid "The authentication has failed"
+#~ msgstr "A autenticação falhou"
+
+#~ msgid "Thank you"
+#~ msgstr "Obrigado"
+
+#~ msgid "Unable to destroy the session"
+#~ msgstr "Não foi possível terminar a sessão"
+
+#~ msgid "The user has login"
+#~ msgstr "O utilizador autenticou-se"
+
+#~ msgid "The user has logout"
+#~ msgstr "O utilizador terminou a sessão"
+
+#~ msgid ""
+#~ " %2$s from %3$s version %4$s %1$s Date: %5$s %1$s URL: %6$s %1$s File: "
+#~ "%7$s %1$s %8$s%2$s: %9$s"
+#~ msgstr ""
+#~ " %2$s de %3$s versão %4$s %1$s Data: %5$s %1$s URL: %6$s %1$s Ficheiro: "
+#~ "%7$s %1$s %8$s%2$s: %9$s"
+
+#~ msgid "User %2$s %1$s "
+#~ msgstr "Utilizador %2$s %1$s "
+
+#~ msgid "Permalinks"
+#~ msgstr "Ligações permanentes"
+
+#~ msgid "Enable pretty links"
+#~ msgstr "Ativar endereços bonitos"
+
+#~ msgid "URL rewrite definitions"
+#~ msgstr "Definições de reescrita de URL"
+
+#~ msgid "System configuration file"
+#~ msgstr "Ficheiro de configuração da plataforma"
+
+#~ msgid "Date %s"
+#~ msgstr "Data %s"
+
+#~ msgid "Configuration completed"
+#~ msgstr "Configuração concluída"
+
+#~ msgid ""
+#~ "The configuration was completed with success. You may now visit the %s."
+#~ msgstr "A configuração foi concluída com sucesso. Pode agora visitar o %s."
+
+#~ msgid "Click to visit the website"
+#~ msgstr "Clique para visitar o sítio"
+
+#~ msgid "site"
+#~ msgstr "sítio"
+
+#~ msgid ""
+#~ "The wizard was unable to create the configuration (%s). Please, verify "
+#~ "the file/directory permissions."
+#~ msgstr ""
+#~ "O assistente não conseguiu criar o ficheiro de configuração (%s). Por "
+#~ "favor, verifique as permissões do diretório/ficheiro."
+
+#~ msgid "Platform configuration"
+#~ msgstr "Configuração da plataforma"
+
+#~ msgid "Configuration:"
+#~ msgstr "Configuração:"
+
+#~ msgid "Save"
+#~ msgstr "Guardar"
+
+#~ msgid "Reset"
+#~ msgstr "Repor"
+
+#~ msgid "Messages:"
+#~ msgstr "Mensagens:"
+
+#~ msgid "Database"
+#~ msgstr "Base de dados"
+
+#~ msgid "Data Source Name for the database:"
+#~ msgstr "Endereço do Data Source para a base de dados:"
+
+#~ msgid "Available drivers: %s"
+#~ msgstr "Controladores disponíveis: %s"
+
+#~ msgid "Username:"
+#~ msgstr "Nome de utilizador:"
+
+#~ msgid "Password:"
+#~ msgstr "Senha:"
+
+#~ msgid "Database access definitions"
+#~ msgstr "Definições de acesso à base de dados"
+
+#~ msgid ""
+#~ "The link to the datasource <strong>%s</strong> with the user <strong>%s</"
+#~ "strong> failed (%s)."
+#~ msgstr ""
+#~ "A ligação ao datasource <strong>%s</strong> com o nome de utilizador "
+#~ "<strong>%s</strong> falhou (%s)."
+
+#~ msgid "The data submitted is invalid."
+#~ msgstr "Os dados enviados são inválidos."
+
+#~ msgid "Harcoded authentication"
+#~ msgstr "Autenticação secundária"
+
+#~ msgid "User login:"
+#~ msgstr "Nome de utilizador:"
+
+#~ msgid "Email:"
+#~ msgstr "Endereço de correio electrónico:"
+
+#~ msgid "Name:"
+#~ msgstr "Nome:"
+
+#~ msgid "Failsafe authentication definitions"
+#~ msgstr "Definições de autenticação de segurança"
+
+#~ msgid "Invalid username and/or password."
+#~ msgstr "Nome de utilizador e/ou senha inváido"
+
+#~ msgid "%2$s from %3$s version %4$s%7$s%8$s%9$s: %10$s"
+#~ msgstr "%2$s de %3$s versão %4$s%7$s%8$s%9$s: %10$s"
+
+#~ msgid ", file %s"
+#~ msgstr ", ficheiro %s"
+
+#~ msgid ", line %s"
+#~ msgstr ", linha %s"
+
+#~ msgid ", user %2$s "
+#~ msgstr ", utilizador %2$s "
+
+#~ msgid ""
+#~ " %2$s from %3$s version %4$s %1$s Date: %5$s %1$s URL: %6$s %1$s File: "
+#~ "%7$s %1$s %8$s%9$s"
+#~ msgstr ""
+#~ " %2$s de %3$s versão %4$s %1$s Data: %5$s %1$s URL: %6$s %1$s Ficheiro: "
+#~ "%7$s %1$s %8$s%9$s"
+
+#~ msgid "%1$s %2$s, all rights reserved"
+#~ msgstr "%1$s %2$s, todos os direitos reservados"
+
+#~ msgid "Unable to load the file %s"
+#~ msgstr "Não foi possível carregar o ficheiro %s"
+
+#~ msgid "The file for the class %s was not found in the path"
+#~ msgstr "O ficheiro para a classe %s não foi encontrado na PATH"
+
+#~ msgid "error"
+#~ msgstr "erro"
+
+#~ msgid ""
+#~ "Fatal error: %1$s - %2$s. Line %3$s on file %4$s. PHP version %5$s "
+#~ "running on %6$s."
+#~ msgstr ""
+#~ "Erro fatal: %1$s - %2$s. Linha %3$s no ficheiro %4$s. Versão PHP %5$s em "
+#~ "execução no %6$s."
+
+#~ msgid "Warning: %1$s - %2$s."
+#~ msgstr "Aviso: %1$s - %2$s."
+
+#~ msgid "Notice: %1$s - %2$s."
+#~ msgstr "Notificação: %1$s - %2$s."
+
+#~ msgid ""
+#~ "Error: %1$s - %2$s. Line %3$s on file %4$s. PHP version %5$s running on "
+#~ "%6$s."
+#~ msgstr ""
+#~ "Erro: %1$s - %2$s. Linha %3$s no ficheiro %4$s. Versão PHP %5$s em "
+#~ "execução em %6$s."
+
+#~ msgid ""
+#~ "Please use the form below to specify the database access definitions."
+#~ msgstr ""
+#~ "Por favor, utilize o formulário abaixo para especificar as definições de "
+#~ "acesso à base de dados."
+
+#~ msgid ""
+#~ "Unable to access the system file %s. Please verify if such file exists "
+#~ "and their permissions"
+#~ msgstr ""
+#~ "Não foi possível aceder ao ficheiro de sistema. Por favor verifique se o "
+#~ "ficheiro %s existe e as respectivas permissões."
+
+#~ msgid ""
+#~ "Unable to access to the directory %s. Please verify if such directory "
+#~ "exists or is accessible to the Web server."
+#~ msgstr ""
+#~ "Não é possível aceder ao directório %s. Por favor verifique se o "
+#~ "directório existe e/ou se é acessível ao serviço Web."
+
+#~ msgid "Name or address of the server:"
+#~ msgstr "Nome ou endereço do servidor da base de dados:"
+
+#~ msgid "Edit"
+#~ msgstr "Editar"
+
+#~ msgid "Pages:"
+#~ msgstr "Páginas:"
+
+#~ msgid "Permanent Link to %s"
+#~ msgstr "Ligação permanente para %s"
+
+#~ msgid "Continue reading %s"
+#~ msgstr "Continuar a ler %s"
+
+#~ msgid "Not Found"
+#~ msgstr "Não encontrado"
+
+#~ msgid "Sorry, but you are looking for something that isn't here."
+#~ msgstr "Desculpe, o que procura não se encontra aqui."
+
+#~ msgid "Search"
+#~ msgstr "Pesquisar"
+
+#~ msgid "%s version %s"
+#~ msgstr "%s versão %s"
+
+#~ msgid "About the site"
+#~ msgstr "Sobre o site"
+
+#~ msgid "Site information:"
+#~ msgstr "Informações sobre o site:"
+
+#~ msgid "Coordination:"
+#~ msgstr "Coordenação:"
+
+#~ msgid "Design:"
+#~ msgstr "Imagem:"
+
+#~ msgid "Development:"
+#~ msgstr "Desenvolvimento:"
+
+#~ msgid "Contents:"
+#~ msgstr "Conteúdos:"
+
+#~ msgid "Operating system:"
+#~ msgstr "Sistema operativo:"
+
+#~ msgid "Web Server:"
+#~ msgstr "Servidor Web:"
+
+#~ msgid "PHP version:"
+#~ msgstr "Versão PHP:"
+
+#~ msgid "Platform:"
+#~ msgstr "Plataforma:"
+
+#~ msgid "Wordpress"
+#~ msgstr "Wordpress"
+
+#~ msgid "Wordpress information:"
+#~ msgstr "Informações sobre o Wordpress:"
+
+#~ msgid "Version:"
+#~ msgstr "Versão"
+
+#~ msgid "Theme:"
+#~ msgstr "Tema:"
+
+#~ msgid "Plugins:"
+#~ msgstr "Extensões:"
+
+#~ msgid "%s Previous"
+#~ msgstr "%s Anteriores"
+
+#~ msgid "Next %s"
+#~ msgstr "Seguintes %s"
+
+#~ msgid "View %s member page"
+#~ msgstr "Ver a página de membro de %s"
+
+#~ msgid "media, all, accessibility"
+#~ msgstr "media, todos, acessibilidade"
+
+#~ msgid "Skip to content"
+#~ msgstr "Ir para o conteúdo"
+
+#~ msgid "Main menu"
+#~ msgstr "Menu principal"
+
+#~ msgid "Sitemap"
+#~ msgstr "Mapa do site"
+
+#~ msgid "Search Results:"
+#~ msgstr "Resultados da pesquisa:"
+
+#~ msgid "No posts found. Try a different search?"
+#~ msgstr "Não foram encontrados artigos. Fazer nova pesquisa?"
+
+#~ msgid "ColorBox"
+#~ msgstr "ColorBox"
+
+#~ msgid "Login"
+#~ msgstr "Iniciar sessão"
+
+#~ msgid "Right widget area"
+#~ msgstr "Área de widgets à direita"
+
+#~ msgid "The right site widget area"
+#~ msgstr "A área de widgets à direita do site"
+
+#~ msgid "The most recent posts under a category on your site"
+#~ msgstr "Os artigos mais recentes sob uma determinada categoria no seu site"
+
+#~ msgid "Recent Posts by Category"
+#~ msgstr "Artigos Recentes por Categoria"
+
+#~ msgid "Recent Posts"
+#~ msgstr "Artigos Recentes"
+
+#~ msgid "Title:"
+#~ msgstr "Título:"
+
+#~ msgid "Select Post Category"
+#~ msgstr "Selecione a categoria"
+
+#~ msgid "Number of posts to show:"
+#~ msgstr "Número de artigos por categoria a apresentar:"
+
+#~ msgid "%s XML Sitemap Feed"
+#~ msgstr "Mapa XML do sítio %s"
+
+#~ msgid "This is the XML Sitemap to aid search engines."
+#~ msgstr ""
+#~ "Este é o mapa do sítio em XML para ajudar os motores de busca a indexar "
+#~ "os conteúdos do site."
+
+#~ msgid "#"
+#~ msgstr "#"
+
+#~ msgid "URL"
+#~ msgstr "Endereço"
+
+#~ msgid "Priority"
+#~ msgstr "Prioridade"
+
+#~ msgid "Generated by %s."
+#~ msgstr "Gerado por %s"
+
+#~ msgid "Increase zoom"
+#~ msgstr "Aumentar o zoom"
+
+#~ msgid "Decrease zoom"
+#~ msgstr "Diminuir o zoom"
+
+#~ msgid "Switch contrast mode"
+#~ msgstr "Alterar o contraste"
+
+#~ msgid "Change text justification"
+#~ msgstr "Modificar justificação do texto"
+
+#~ msgid "A widget to enable some accessibility options to the front end user"
+#~ msgstr ""
+#~ "Um widget para disponibilizar algumas opções de acessibilidade para os "
+#~ "utilizadores do site"
+
+#~ msgid "Accessibility options"
+#~ msgstr "Opções de Acessibilidade"
+
+#~ msgid "Accessible Portugal"
+#~ msgstr "Accessible Portugal"
+
+#~ msgid "Heading"
+#~ msgstr "Cabeçalho"
+
+#~ msgid "Posted %1$s %2$s %3$s %4$s"
+#~ msgstr "Colocado %1$s %2$s %3$s %4$s"
+
+#~ msgid "in %s"
+#~ msgstr "em %s"
+
+#~ msgid "at %s"
+#~ msgstr "às %s"
+
+#~ msgid "by %s"
+#~ msgstr "por %s"
+
+#~ msgid "View all posts by %s"
+#~ msgstr "Ver todos os artigos de %s"
+
+#~ msgid "with the tags"
+#~ msgstr "com as tags"
+
+#~ msgid "Members"
+#~ msgstr "Membros"
+
+#~ msgid "Member"
+#~ msgstr "Membro"
+
+#~ msgid "Add new"
+#~ msgstr "Adicionar novo"
+
+#~ msgid "Add new member"
+#~ msgstr "Adicionar um novo membro"
+
+#~ msgid "Edit member"
+#~ msgstr "Editar membro"
+
+#~ msgid "New member"
+#~ msgstr "Novo membro"
+
+#~ msgid "View member"
+#~ msgstr "Ver membro"
+
+#~ msgid "Search members"
+#~ msgstr "Pesquisar membros"
+
+#~ msgid "No member found"
+#~ msgstr "Não foram encontrados membros"
+
+#~ msgid "No members were found on the recycle bin"
+#~ msgstr "Não foram encontrados membros na reciclagem"
+
+#~ msgid "Team members"
+#~ msgstr "Membros da equipa"
+
+#~ msgid "Group"
+#~ msgstr "Grupo"
+
+#~ msgid "Member groups"
+#~ msgstr "Grupos de membros"
+
+#~ msgid "Member group"
+#~ msgstr "Grupo de membros"
+
+#~ msgid "Add new member group"
+#~ msgstr "Adicionar um novo grupo de membros"
+
+#~ msgid "Edit member group"
+#~ msgstr "Editar grupo de membros"
+
+#~ msgid "New member group"
+#~ msgstr "Novo grupo de membros"
+
+#~ msgid "View member group"
+#~ msgstr "Ver o grupo de membros"
+
+#~ msgid "Search member groups"
+#~ msgstr "Pesquisar grupos de membros"
+
+#~ msgid "Popular member groups"
+#~ msgstr "Tipos de grupos mais populares"
+
+#~ msgid "All member groups"
+#~ msgstr "Todos os grupos"
+
+#~ msgid "No member group found"
+#~ msgstr "Não foram encontrados membros"
+
+#~ msgid "No member groups were found on the recycle bin"
+#~ msgstr "Não foram encontrados membros na reciclagem"
+
+#~ msgid "Choose from the most used member groups"
+#~ msgstr "Escolha dos grupos mais utilizados"
+
+#~ msgid "Member information"
+#~ msgstr "Informações do membro"
+
+#~ msgid "Contacts:"
+#~ msgstr "Contatos:"
+
+#~ msgid "Visit plugin site"
+#~ msgstr "Visitar o site da extensão"
+
+#~ msgid "Text to search"
+#~ msgstr "Texto a pesquisar"
+
+#~ msgid "Permalink to %s"
+#~ msgstr "Ligação permanente para %s"
+
+#~ msgid "Primary Navigation"
+#~ msgstr "Navegação principal"
+
+#~ msgid "View content from %s"
+#~ msgstr "Ver o conteúdo de %s"
+
+#~ msgid "Enable/disable high Contrast"
+#~ msgstr "Activar/Desactivar o alto contraste"
+
+#~ msgid ""
+#~ "Sorry, but nothing matched your search criteria. Please try again with "
+#~ "some different keywords."
+#~ msgstr ""
+#~ "Lamentamos, mas nada foi encontrado segundo o critério de pesquisa. Por "
+#~ "favor tente novamente com palavras chave diferentes."
+
+#~ msgid "Error occurred while loading this video"
+#~ msgstr "Ocorreu um erro ao carregar este vídeo"
+
+#~ msgid "Team member"
+#~ msgstr "Membro da equipa"
+
+#~ msgid "Edit team member"
+#~ msgstr "Editar membro da equipa"
+
+#~ msgid "C3 team members"
+#~ msgstr "Membros da equipa da C3"
+
+#~ msgid "Department"
+#~ msgstr "Departametno"
+
+#~ msgid "Member departments"
+#~ msgstr "Departamentos dos membros"
+
+#~ msgid "Member department"
+#~ msgstr "Departamento do membro"
+
+#~ msgid "Add new member department"
+#~ msgstr "Adicionar um novo departamento"
+
+#~ msgid "Edit member department"
+#~ msgstr "Editar departamento"
+
+#~ msgid "New member department"
+#~ msgstr "Novo departamento"
+
+#~ msgid "View member department"
+#~ msgstr "Ver departamento"
+
+#~ msgid "Search member departments"
+#~ msgstr "Pesquisar por tipos departamentos"
+
+#~ msgid "No member department found"
+#~ msgstr "Não foram encontrados departamentos"
+
+#~ msgid "No member departments were found on the recycle bin"
+#~ msgstr "Não foram encontrados departamentos na reciclagem"
+
+#~ msgid "Moodle Courses"
+#~ msgstr "Cursos Moodle"
+
+#~ msgid "Start date: %s"
+#~ msgstr "Data de inicio: %s"
+
+#~ msgid "available"
+#~ msgstr "inscrições abertas"
+
+#~ msgid "unavailable"
+#~ msgstr "inscrições encerradas"
+
+#~ msgid "Moodle Webservice settings"
+#~ msgstr "Definições para o Web Service Moodle"
+
+#~ msgid "Settings for the Moodle Webservice"
+#~ msgstr "Definições para o Web Service do Moodle"
+
+#~ msgid "WSDL URL"
+#~ msgstr "URL WSDL"
+
+#~ msgid "The WSDL for the Moodle Webservice"
+#~ msgstr "A WSDL URL para o Web Service Moodle"
+
+#~ msgid "The Webservice username for this site"
+#~ msgstr "O nome de utilizador do Web Service para este site"
+
+#~ msgid "The Webservice username password for this site"
+#~ msgstr "A senha para o utilizador do Web Service para este site"
+
+#~ msgid "Youtube settings"
+#~ msgstr "Definições do YouTube:"
+
+#~ msgid "Youtube plugin settings"
+#~ msgstr "Definições da extensão para o YouTube"
+
+#~ msgid "YouTube enabled"
+#~ msgstr "YouTube ativo"
+
+#~ msgid "Enable the YouTube video content type"
+#~ msgstr "Activar o conteúdo vídeos do YouTube"
+
+#~ msgid "Developer Key"
+#~ msgstr "Chave do programador"
+
+#~ msgid "The YouTube developer key for this site"
+#~ msgstr "A chave de programador para o YouTube para este site"
+
+#~ msgid "The YouTube username for this site"
+#~ msgstr "O nome de utilizador YouTube para este site"
+
+#~ msgid "The YouTube username password for this site"
+#~ msgstr "A senha para o utilizador do YouTube"
+
+#~ msgid "YouTube Videos"
+#~ msgstr "Vídeos do YouTube"
+
+#~ msgid "Manage YouTube Videos"
+#~ msgstr "Gerir Vídeos do YouTube"
+
+#~ msgid "YouTube Video (%s)"
+#~ msgstr "Vídeo do YouTube (%s)"
+
+#~ msgid "YouTube Videos (%s)"
+#~ msgstr "Vídeos do YouTube (%s)"
+
+#~ msgid "Featured video"
+#~ msgstr "Vídeo de destaque"
+
+#~ msgid "Set featured video"
+#~ msgstr "Definir vídeo de destaque"
+
+#~ msgid "Remove featured video"
+#~ msgstr "Remover o vídeo em destaque"
+
+#~ msgid "Upload Video to YouTube"
+#~ msgstr "Carregar vídeo para o YouTube"
+
+#~ msgid "Saving..."
+#~ msgstr "A guardar..."
+
+#~ msgid "Done"
+#~ msgstr "Feito"
+
+#~ msgid "Featured Video"
+#~ msgstr "Vídeo de Destaque"
+
+#~ msgid "YouTube videos synchronization"
+#~ msgstr "Sincronização de vídeos do YouTube"
+
+#~ msgid "YouTube Sync"
+#~ msgstr "YouTube Sync"
+
+#~ msgid "Video %s was added to the Wordpress library"
+#~ msgstr "O vídeo %s foi adicionado à biblioteca do Wordpress"
+
+#~ msgid "No new videos found to add to the Wordpress library."
+#~ msgstr ""
+#~ "Não foram encontrados vídeos novos a adicionar à biblioteca do Wordpress."
+
+#~ msgid "Please, fill all the required fields"
+#~ msgstr "Por favor, preencha os campos obrigatórios"
+
+#~ msgid " %s years"
+#~ msgstr "%s anos"
+
+#~ msgid " %s days"
+#~ msgstr "%s dias"
+
+#~ msgid " %s hours"
+#~ msgstr " %s horas"
+
+#~ msgid " %s minutes"
+#~ msgstr "%s minutos"
+
+#~ msgid "and"
+#~ msgstr "e"
+
+#~ msgid " %s seconds"
+#~ msgstr "%s segundos"
+
+#~ msgid "Title: %s"
+#~ msgstr "Título: %s"
+
+#~ msgid "Description: %s"
+#~ msgstr "Descrição: %s"
+
+#~ msgid "Duration: %s"
+#~ msgstr "Duração: %s"
+
+#~ msgid ""
+#~ "Error occurred while getting information about the uploaded video (%s)"
+#~ msgstr "Ocorreu um erro ao obter a informação sobre o vídeo carregado (%s)"
+
+#~ msgid "Select video to upload"
+#~ msgstr "Seleccione o vídeo a carregar"
+
+#~ msgid "Upload"
+#~ msgstr "Carregar"
+
+#~ msgid "Cancel"
+#~ msgstr "Cancelar"
+
+#~ msgid "Error occurred while establishing a connection with YouTube (%s)"
+#~ msgstr "Ocorreu um erro ao estabelecer a ligação com o YouTube (%s)"
+
+#~ msgid "Upload video to %s account"
+#~ msgstr "Carregar o vídeo para a conta %s"
+
+#~ msgid "Title"
+#~ msgstr "Título"
+
+#~ msgid "Description"
+#~ msgstr "Descrição"
+
+#~ msgid "Tags"
+#~ msgstr "Tags"
+
+#~ msgid "Categories"
+#~ msgstr "Categorias"
+
+#~ msgid "Error occurred while obtaining the category list from YouTube (%s)"
+#~ msgstr "Ocorreu um erro ao procurar a lista de categorias do YouTube (%s)"
+
+#~ msgid "Next"
+#~ msgstr "Seguinte"
+
+#~ msgid "C3 Recent Posts"
+#~ msgstr "Artigos mais recentes (C3)"
+
+#~ msgid "Green Sidebar area"
+#~ msgstr "Área da barra lateral verde"
+
+#~ msgid "Main Sidebar area"
+#~ msgstr "Área da barra lateral principal"
+
+#~ msgid "The main site sidebar"
+#~ msgstr "A barra lateral principal do site"
+
+#~ msgid "General settings"
+#~ msgstr "Definições gerais"
+
+#~ msgid "General settings for the theme"
+#~ msgstr "Definições gerais para este tema"
+
+#~ msgid "Theme settings:"
+#~ msgstr "Definições do tema:"
+
+#~ msgid "This page can be used to set theme settings."
+#~ msgstr "Esta página pode ser utilizada para definir as opções do tema."
+
+#~ msgid "Theme settings updated successfully"
+#~ msgstr "A definições do tema foram actualizadas com sucesso"
+
+#~ msgid "Theme options"
+#~ msgstr "Opções do tema"
+
+#~ msgid "Testimonials"
+#~ msgstr "Testemunhos"
+
+#~ msgid "testimonial"
+#~ msgstr "testemunho"
+
+#~ msgid "Add new testimonial"
+#~ msgstr "Adicionar novo testemunho"
+
+#~ msgid "Edit testimonial"
+#~ msgstr "Editar testemunho"
+
+#~ msgid "New testimonial"
+#~ msgstr "Novo testemunho"
+
+#~ msgid "View testimonial"
+#~ msgstr "Ver testemunho"
+
+#~ msgid "Search testimonials"
+#~ msgstr "Pesquisar testemunhos"
+
+#~ msgid "No testimonial found"
+#~ msgstr "Não foi encontrada nenhum testemunho"
+
+#~ msgid "No testimonials were found on the recycle bin"
+#~ msgstr "Não foram encontrados testemunhos na reciclagem"
+
+#~ msgid "C3 testimonials"
+#~ msgstr "Testemunhos da C3"
+
+#~ msgid "Testimonial Group"
+#~ msgstr "Grupo de Testemunhos"
+
+#~ msgid "Testimonial groups"
+#~ msgstr "Grupos de testemunhos"
+
+#~ msgid "Testimonial group"
+#~ msgstr "Grupo de testemunhos"
+
+#~ msgid "Add new testimonial group"
+#~ msgstr "Adicionar novo grupo de testemunhos"
+
+#~ msgid "Edit testimonial group"
+#~ msgstr "Editar grupo de testemunhos"
+
+#~ msgid "New testimonial group"
+#~ msgstr "Novo grupo de testemunhos"
+
+#~ msgid "View testimonial group"
+#~ msgstr "Ver grupo de testemunhos"
+
+#~ msgid "Search testimonial groups"
+#~ msgstr "Pesquisar grupos de testemunhos"
+
+#~ msgid "Popular testimonial groups"
+#~ msgstr "Grupos de testemunhos populares"
+
+#~ msgid "All testimonial groups"
+#~ msgstr "Todos os grupos de testemunhos"
+
+#~ msgid "No testimonial group found"
+#~ msgstr "Não foi encontrado nenhum grupo de testemunho"
+
+#~ msgid "No testimonial groups were found on the recycle bin"
+#~ msgstr "Não foram encontrados grupos de testemunhos na reciclagem"
+
+#~ msgid "Choose from the most used testimonial groups"
+#~ msgstr "Escolha dos grupos de testemunhos mais utilizados"
+
+#~ msgid "%s video thumbnail"
+#~ msgstr "%s miniatura de vídeo"
+
+#~ msgid "Slogan"
+#~ msgstr "Frase chave"
+
+#~ msgid "The slogan for this site"
+#~ msgstr "A frase chave para este sítio"
+
+#~ msgid "IPL"
+#~ msgstr "IPL"
+
+#~ msgid "A widget with the C3 social buttons"
+#~ msgstr "Uma widget com os botões sociais da C3"
+
+#~ msgid "C3 Social options"
+#~ msgstr "Opções Sociais da C3"
+
+#~ msgid "C3 on Twitter"
+#~ msgstr "C3 no Twitter"
+
+#~ msgid "C3 on Facebook"
+#~ msgstr "C3 no Facebook"
+
+#~ msgid "C3 on flickr"
+#~ msgstr "C3 on Flickr"
+
+#~ msgid "C3 on YouTube"
+#~ msgstr "C3 no YouTube"
+
+#~ msgid "C3 on iTunes"
+#~ msgstr "C3 no iTunes"
+
+#~ msgid "Password Protected"
+#~ msgstr "Protegido por Senha"
+
+#~ msgid "Enter the password to view comments."
+#~ msgstr "Especifique a senha para visualizar os comentários."
+
+#~ msgid "Leave a Reply"
+#~ msgstr "Deixar uma Resposta"
+
+#~ msgid "Leave a Reply to %s"
+#~ msgstr "Deixar uma resposta a %s"
+
+#~ msgid "Click here to cancel reply."
+#~ msgstr "Carregar aqui para cancelar a resposta."
+
+#~ msgid "You must be %1$s to post a comment."
+#~ msgstr "Tem de estar %s para enviar um comentário."
+
+#~ msgid "Log in"
+#~ msgstr "Iniciar Sessão"
+
+#~ msgid "logged in"
+#~ msgstr "autenticado"
+
+#~ msgid "Logged in as %1$s."
+#~ msgstr "Autenticado como %s."
+
+#~ msgid "Log out of this account"
+#~ msgstr "Terminar sessão"
+
+#~ msgid "Log out &rarr;"
+#~ msgstr "Terminar sessão &rarr;"
+
+#~ msgid "*"
+#~ msgstr "*"
+
+#~ msgid "Comment"
+#~ msgstr "Comentário"
+
+#~ msgid "Submit"
+#~ msgstr "Enviar"
+
+#~ msgid "%d Trackback"
+#~ msgstr "%d Citação"
+
+#~ msgid "%d Trackbacks"
+#~ msgstr "%d Citações"
+
+#~ msgid "iACT - Polytechnic Institute of Leiria, all rights reserved"
+#~ msgstr ""
+#~ "iACT - Instituto Politécnico de Leiria, todos os direitos reservados"
+
+#~ msgid "Keywords"
+#~ msgstr "Palavras-chave"
+
+#~ msgid "Participants"
+#~ msgstr "Participantes"
+
+#~ msgid "Summary"
+#~ msgstr "Sumário"
+
+#~ msgid "Publications"
+#~ msgstr "Publicações"
+
+#~ msgid "Presentations"
+#~ msgstr "Apresentações"
+
+#~ msgid "Press"
+#~ msgstr "Imprensa"
+
+#~ msgid "Image of the project %s"
+#~ msgstr "Imagem do projecto %s"
+
+#~ msgid "Link to %s"
+#~ msgstr "Ligação para %s"
+
+#~ msgid "View %s profile"
+#~ msgstr "Ver perfil %s"
+
+#~ msgid "Photo of %s"
+#~ msgstr "Foto de %s"
+
+#~ msgid "Image of the publication %s"
+#~ msgstr "Imagem da publicação %s"
+
+#~ msgid "Press to switch the site language to %s"
+#~ msgstr "Pressione para mudar o idioma do site para %s"
+
+#~ msgid "Page Not Found"
+#~ msgstr "Página Não Encontrada"
+
+#~ msgid "The page you were looking for was not found."
+#~ msgstr "Não encontrámos a página que procura"
+
+#~ msgid "Publications:"
+#~ msgstr "Publicações:"
+
+#~ msgid "Activity"
+#~ msgstr "Actividade"
+
+#~ msgid "Forums"
+#~ msgstr "Fóruns"
+
+#~ msgid "Blogs"
+#~ msgstr "Blogues"
+
+#~ msgid "Buddypress menu items:"
+#~ msgstr "Opções dos itens Buddypress para o menu:"
+
+#~ msgid ""
+#~ "You can add custom links buddypress links with the format %s where slug "
+#~ "can have one of the following values: %s"
+#~ msgstr ""
+#~ "Pode adicionar ligações personalizadas do buddypress com o formato %s "
+#~ "onde slug pode ser substituído por um dos seguintes valores: %s"
+
+#~ msgid ""
+#~ "To use the default title for the menu entry, label the entry with the "
+#~ "char "
+#~ msgstr ""
+#~ "Para utilizar o título por omissão para a entrada do menu, denomine a "
+#~ "entrada com o caractere "
+
+#~ msgid "LGP videos"
+#~ msgstr "Vídeos em LGP"
+
+#~ msgid "YouTube password"
+#~ msgstr "Senha do Youtube"
+
+#~ msgid "iACT"
+#~ msgstr "iACT"
+
+#~ msgid "Posted in %1$s at %2$s %3$s"
+#~ msgstr "Colocado em %1$s às %2$s por %3$s"
+
+#~ msgid "(Your comment is awaiting moderation.)"
+#~ msgstr "(O seu comentário está à espera de moderação.)"
+
+#~ msgid "A widget to show the youtube featured videos"
+#~ msgstr "Uma widget para mostrar vídeos de destaque a partir do YouTube"
+
+#~ msgid "Skip %s"
+#~ msgstr "Saltar %s"
+
+#~ msgid "Member of the project"
+#~ msgstr "Membro do projecto"
+
+#~ msgid "Edit member type"
+#~ msgstr "Editar tipo de membro"
+
+#~ msgid "Projects"
+#~ msgstr "Projectos"
+
+#~ msgid "Project"
+#~ msgstr "Projecto"
+
+#~ msgid "Add new project"
+#~ msgstr "Adicionar novo projecto"
+
+#~ msgid "Edit project"
+#~ msgstr "Editar projecto"
+
+#~ msgid "New project"
+#~ msgstr "Novo projecto"
+
+#~ msgid "View project"
+#~ msgstr "Ver projecto"
+
+#~ msgid "Search projects"
+#~ msgstr "Pesquisar projectos"
+
+#~ msgid "No project found"
+#~ msgstr "Não foram encontrados projectos"
+
+#~ msgid "No projects were found on the recycle bin"
+#~ msgstr "Não foram encontrados estados de projecto na reciclagem"
+
+#~ msgid "Projects developed by the iAct team"
+#~ msgstr "Projectos desenvolvidos pela equipa do iACT"
+
+#~ msgid "Project State"
+#~ msgstr "Estado do Projecto"
+
+#~ msgid "Project States"
+#~ msgstr "Estados dos Projectos"
+
+#~ msgid "Add new project state"
+#~ msgstr "Adicionar novo estado de projecto"
+
+#~ msgid "Edit project state"
+#~ msgstr "Editar estado de projecto"
+
+#~ msgid "New project state"
+#~ msgstr "Novo estado de projecto"
+
+#~ msgid "View project state"
+#~ msgstr "Ver estado de projecto"
+
+#~ msgid "Search project states"
+#~ msgstr "Pesquisar estados de projecto"
+
+#~ msgid "Popular project states"
+#~ msgstr "Estados de projecto populares"
+
+#~ msgid "All project states"
+#~ msgstr "Todos os estados de projecto"
+
+#~ msgid "No project state found"
+#~ msgstr "Não foram encontrados estados de projecto"
+
+#~ msgid "No project states were found on the recycle bin"
+#~ msgstr "Não foram encontrados estados de projecto na reciclagem"
+
+#~ msgid "Choose from the most used project states"
+#~ msgstr "Escolha a partir dos estados de projecto mais utilizados"
+
+#~ msgid "Trainings"
+#~ msgstr "Formações"
+
+#~ msgid "Training"
+#~ msgstr "Formação"
+
+#~ msgid "New training"
+#~ msgstr "Nova formação"
+
+#~ msgid "Trainings of iAct team"
+#~ msgstr "Formações da equipa do iAct"
+
+#~ msgid "Training Type"
+#~ msgstr "Tipo de formação"
+
+#~ msgid "Training Types"
+#~ msgstr "Tipos de formação"
+
+#~ msgid "Add new training type"
+#~ msgstr "Novo tipo de formação"
+
+#~ msgid "Edit training type"
+#~ msgstr "Editar tipo de formação"
+
+#~ msgid "New training type"
+#~ msgstr "Novo tipo de formação"
+
+#~ msgid "View training type"
+#~ msgstr "Ver tipo de formação"
+
+#~ msgid "Search training types"
+#~ msgstr "Procurar por tipos de formações"
+
+#~ msgid "All training types"
+#~ msgstr "Todos os tipos de formações"
+
+#~ msgid "No training type found"
+#~ msgstr "Nenhum tipo de formação encontrado"
+
+#~ msgid "No training types were found on the recycle bin"
+#~ msgstr "Não foram encontrados tipos de formação na reciclagem"
+
+#~ msgid "Publication"
+#~ msgstr "Publicação"
+
+#~ msgid "Add new publication"
+#~ msgstr "Adicionar nova publicação"
+
+#~ msgid "Edit publication"
+#~ msgstr "Editar publicação"
+
+#~ msgid "New publication"
+#~ msgstr "Nova publicação"
+
+#~ msgid "View publication"
+#~ msgstr "Ver publicação"
+
+#~ msgid "Search publications"
+#~ msgstr "Pesquisar publicações"
+
+#~ msgid "No publication found"
+#~ msgstr "Não foi encontrada nenhuma publicação"
+
+#~ msgid "No publications were found on the recycle bin"
+#~ msgstr "Não foram encontradas publicações na reciclagem"
+
+#~ msgid "Publications of the project"
+#~ msgstr "Publicações do projecto"
+
+#~ msgid "Publication Keywords"
+#~ msgstr "Palavras-Chave de Publicações"
+
+#~ msgid "Publication Keyword"
+#~ msgstr "Palavra-Chave de Publicações"
+
+#~ msgid "Add new publication keyword"
+#~ msgstr "Adicionar palavra-chave de publicações"
+
+#~ msgid "Edit publication keyword"
+#~ msgstr "Editar palavra-chave de publicações"
+
+#~ msgid "New publication keyword"
+#~ msgstr "Nova palavra-chave de publicações"
+
+#~ msgid "View publication keyword"
+#~ msgstr "Ver palavra-chave de publicações"
+
+#~ msgid "Search publication keywords"
+#~ msgstr "Consultar palavras-chave de publicações"
+
+#~ msgid "Popular publication keywords"
+#~ msgstr "Palavra-chave populares de publicações"
+
+#~ msgid "All publication keywords"
+#~ msgstr "Todas as palavras-chave de publicações"
+
+#~ msgid "No publication keyword found"
+#~ msgstr "Não foi encontrada nenhuma palavra-chave de publicações"
+
+#~ msgid "No publication keywords were found on the recycle bin"
+#~ msgstr "Não foram encontrados palavras-chave de publicações na reciclagem"
+
+#~ msgid "Choose from the most used publication keywords"
+#~ msgstr "Escolha das palavras-chave de publicações mais utilizadas"
+
+#~ msgid "Publication Types"
+#~ msgstr "Tipos de Publicações"
+
+#~ msgid "Publication Type"
+#~ msgstr "Tipo de Publicação"
+
+#~ msgid "Add new publication type"
+#~ msgstr "Novo tipo de publicações"
+
+#~ msgid "Edit publication type"
+#~ msgstr "Editar tipo de publicações"
+
+#~ msgid "New publication type"
+#~ msgstr "Novo tipo de publicações"
+
+#~ msgid "View publication type"
+#~ msgstr "Ver tipo de publicações"
+
+#~ msgid "Search publication types"
+#~ msgstr "Procurar tipos de publicações"
+
+#~ msgid "Popular publication types"
+#~ msgstr "Tipos populares de publicações"
+
+#~ msgid "All publication types"
+#~ msgstr "Todos os tipos de publicações"
+
+#~ msgid "No publication type found"
+#~ msgstr "Nenhum tipo de publicação"
+
+#~ msgid "No publication types were found on the recycle bin"
+#~ msgstr "Não foram encontrados tipos de publicações na reciclagem"
+
+#~ msgid "Choose from the most used publication types"
+#~ msgstr "Escolha dos tipos de publicações mais utilizados"
+
+#~ msgid "Publication Authors"
+#~ msgstr "Autores de Publicações"
+
+#~ msgid "Publication Author"
+#~ msgstr "Autor da Publicações"
+
+#~ msgid "Add new publication author"
+#~ msgstr "Adicionar novo autor de publicações"
+
+#~ msgid "Edit publication author"
+#~ msgstr "Editar autor de publicações"
+
+#~ msgid "New publication author"
+#~ msgstr "Novo autor de publicações"
+
+#~ msgid "View publication author"
+#~ msgstr "Ver autor de publicações"
+
+#~ msgid "Search publication authors"
+#~ msgstr "Procurar por autores de publicações"
+
+#~ msgid "Popular publication authors"
+#~ msgstr "Autores populares de publicações"
+
+#~ msgid "All publication authors"
+#~ msgstr "Todos os autores de publicações"
+
+#~ msgid "No publication author found"
+#~ msgstr "Não foi encontrado nenhum autor de publicações"
+
+#~ msgid "No publication authors were found on the recycle bin"
+#~ msgstr "Não foram encontrados autores de publicações na reciclagem"
+
+#~ msgid "Choose from the most used publication authors"
+#~ msgstr "Escolha dos autores de publicações mais utilizados"
+
+#~ msgid "Information"
+#~ msgstr "Informação"
+
+#~ msgid "Interest areas:"
+#~ msgstr "Áreas de interesse:"
+
+#~ msgid "Project Information"
+#~ msgstr "Informação do Projecto"
+
+#~ msgid "Keywords:"
+#~ msgstr "Palavras-Chave:"
+
+#~ msgid "Participants:"
+#~ msgstr "Participantes:"
+
+#~ msgid "Summary:"
+#~ msgstr "Resumo:"
+
+#~ msgid "Public Presentations:"
+#~ msgstr "Apresentações Públicas:"
+
+#~ msgid "Press releases:"
+#~ msgstr "Notas de Imprensa:"
+
+#~ msgid "Founder member"
+#~ msgstr "Membro fundador"
+
+#~ msgid "Yes"
+#~ msgstr "Sim"
+
+#~ msgid "No"
+#~ msgstr "Não"
+
+#~ msgid "Publication Type(s)"
+#~ msgstr "Tipo(s) de Publicações"
+
+#~ msgid "Publication Author(s)"
+#~ msgstr "Autor(es) de Publicações"
+
+#~ msgid "Sidebar"
+#~ msgstr "Barra lateral"
+
+#~ msgid "Effective members"
+#~ msgstr "Membros efectivos"
+
+#~ msgid "Associated members"
+#~ msgstr "Membros associados"
+
+#~ msgid "Site Wide Activity RSS Feed"
+#~ msgstr "Fonte da Actividade RSS do site"
+
+#~ msgid "Activity RSS Feed"
+#~ msgstr "Fonte RSS da Actividade"
+
+#~ msgid "Group Activity RSS Feed"
+#~ msgstr "Fonte da Actividade RSS do Grupo"
+
+#~ msgid "A+"
+#~ msgstr "A+"
+
+#~ msgid "A"
+#~ msgstr "A"
+
+#~ msgid "A-"
+#~ msgstr "A-"
+
+#~ msgid "Group Forums Directory"
+#~ msgstr "Directório dos Fóruns de Grupo"
+
+#~ msgid "New Topic"
+#~ msgstr "Novo Tópico"
+
+#~ msgid "Post a New Topic:"
+#~ msgstr "Criar um Novo Tópico"
+
+#~ msgid "Tags (comma separated):"
+#~ msgstr "Tags (separadas por vírgulas):"
+
+#~ msgid "Post In Group Forum:"
+#~ msgstr "Colocar no Fórum do Grupo: "
+
+#~ msgid "Post Topic"
+#~ msgstr "Colocar Tópico"
+
+#~ msgid ""
+#~ "You are not a member of any groups so you don't have any group forums you "
+#~ "can post in. To start posting, first find a group that matches the topic "
+#~ "subject you'd like to start. If this group does not exist, why not <a "
+#~ "href='%s'>create a new group</a>? Once you have joined or created the "
+#~ "group you can post your topic in that group's forum."
+#~ msgstr ""
+#~ "Não é membro de qualquer grupo por isso não tem fóruns de grupo onde "
+#~ "colocar mensagens. Para começar a colocar mensagens, primeiro encontre um "
+#~ "grupo que se enquadre no tópico que gostaria de começar. Se esse grupo "
+#~ "não existe, por que não <a href='%s'>cria um novo grupo</a>? Uma vez "
+#~ "feita a adesão ou criação de um grupo poderá colocar o seu tópico no "
+#~ "fórum do grupo."
+
+#~ msgid "All Topics (%s)"
+#~ msgstr "Todos os Tópicos (%s)"
+
+#~ msgid "My Topics (%s)"
+#~ msgstr "Os meus tópicos (%s)"
+
+#~ msgid "Order By:"
+#~ msgstr "Ordenar por:"
+
+#~ msgid "Last Active"
+#~ msgstr "Último activo"
+
+#~ msgid "Unreplied"
+#~ msgstr "Por responder"
+
+#~ msgid "Topic Title"
+#~ msgstr "Título do Tópico"
+
+#~ msgid "Latest Poster"
+#~ msgstr "Último a colocar mensagem"
+
+#~ msgid "Posted In Group"
+#~ msgstr "Colocado No Grupo"
+
+#~ msgid "Posts"
+#~ msgstr "Entradas"
+
+#~ msgid "Freshness"
+#~ msgstr "Frescura"
+
+#~ msgid "Sorry, there were no forum topics found."
+#~ msgstr "Desculpe, não forma encontrados tópicos no fórum."
+
+#~ msgid "Groups Directory"
+#~ msgstr "Directório de Grupos"
+
+#~ msgid "Create a Group"
+#~ msgstr "Criar um Grupo"
+
+#~ msgid "All Groups (%s)"
+#~ msgstr "Todos os Grupos (%s)"
+
+#~ msgid "My Groups (%s)"
+#~ msgstr "Os meus Grupos (%s)"
+
+#~ msgid "Most Members"
+#~ msgstr "Maior parte dos Membros"
+
+#~ msgid "Newly Created"
+#~ msgstr "Recém criado"
+
+#~ msgid "Alphabetical"
+#~ msgstr "Alfabético"
+
+#~ msgid "active %s ago"
+#~ msgstr "activo %s atrás"
+
+#~ msgid "There were no groups found."
+#~ msgstr "Não foram encontrados grupos."
+
+#~ msgid "* Group Name"
+#~ msgstr "* Nome do Grupo"
+
+#~ msgid "(required)"
+#~ msgstr "(necessário)"
+
+#~ msgid "* Group Description"
+#~ msgstr "* Descrição do Grupo"
+
+#~ msgid "Enable comment wire"
+#~ msgstr "Activar fio de comentários"
+
+#~ msgid "Enable discussion forum"
+#~ msgstr "Activar fórum de discussão"
+
+#~ msgid ""
+#~ "<strong>Attention Site Admin:</strong> Group forums require the <a href="
+#~ "\"%s\">correct setup and configuration</a> of a bbPress installation."
+#~ msgstr ""
+#~ "<strong>Atenção Administradores do Site:</strong> Fóruns de grupo "
+#~ "necessitam de uma <a href=\"%s\">instalação e configuração correcta</a> "
+#~ "de uma instalação do bbPress."
+
+#~ msgid "Privacy Options"
+#~ msgstr "Opções de Privacidade"
+
+#~ msgid "This is a public group"
+#~ msgstr "Este é um grupo público"
+
+#~ msgid "Any site member can join this group."
+#~ msgstr "Qualquer membro do sítio pode aderir a este grupo."
+
+#~ msgid ""
+#~ "This group will be listed in the groups directory and in search results."
+#~ msgstr ""
+#~ "Este grupo será apresentado no directório de grupos e resultados de "
+#~ "pesquisas."
+
+#~ msgid "Group content and activity will be visible to any site member."
+#~ msgstr ""
+#~ "Os conteúdos e actividades do grupo ficarão visíveis a todos os membros "
+#~ "do sítio. "
+
+#~ msgid "This is a private group"
+#~ msgstr "Este é um grupo privado"
+
+#~ msgid ""
+#~ "Only users who request membership and are accepted can join the group."
+#~ msgstr ""
+#~ "Apenas os utilizadores que peçam para serem membros e sejam aceites podem "
+#~ "juntar-se ao grupo."
+
+#~ msgid ""
+#~ "Group content and activity will only be visible to members of the group."
+#~ msgstr ""
+#~ "Os conteúdos e actividades do grupo serão apenas visíveis pelos membros "
+#~ "do grupo."
+
+#~ msgid "This is a hidden group"
+#~ msgstr "Este é um grupo escondido"
+
+#~ msgid "Only users who are invited can join the group."
+#~ msgstr "Apenas os utilizadores convidados poderão aderir a este grupo."
+
+#~ msgid ""
+#~ "This group will not be listed in the groups directory or search results."
+#~ msgstr ""
+#~ "Este grupo não aparecerá no directório de grupos ou nos resultados de "
+#~ "busca."
+
+#~ msgid ""
+#~ "Upload an image to use as an avatar for this group. The image will be "
+#~ "shown on the main group page, and in search results."
+#~ msgstr ""
+#~ "Carregar uma imagem para usar como avatar do grupo. A imagem aparecerá na "
+#~ "página principal do grupo e nos resultados de pesquisa."
+
+#~ msgid "Upload Image"
+#~ msgstr "Carregar imagem"
+
+#~ msgid "To skip the avatar upload process, hit the \"Next Step\" button."
+#~ msgstr ""
+#~ "Para saltar o processo de envio de um avatar, pressione o botão \"Próximo "
+#~ "Passo\"."
+
+#~ msgid "Crop Group Avatar"
+#~ msgstr "Recortar o Avatar do Grupo"
+
+#~ msgid "Avatar to crop"
+#~ msgstr "Avatar a recortar"
+
+#~ msgid "Avatar preview"
+#~ msgstr "Previsão do avatar"
+
+#~ msgid "Crop Image"
+#~ msgstr "Recortar Imagem"
+
+#~ msgid "Select people to invite from your friends list."
+#~ msgstr "Selecionar pessoas a convidar da sua lista de amigos."
+
+#~ msgid "Remove Invite"
+#~ msgstr "Remover convite"
+
+#~ msgid ""
+#~ "Once you have built up friend connections you will be able to invite "
+#~ "others to your group. You can send invites any time in the future by "
+#~ "selecting the \"Send Invites\" option when viewing your new group."
+#~ msgstr ""
+#~ "Uma vez criadas ligações a amigos poderá convidar outros para o seu "
+#~ "grupo. Poderá enviar convites a qualquer altura no futuro seleccionando a "
+#~ "opção  \"Enviar Convites\" quando visitar o seu novo grupo. "
+
+#~ msgid "Previous Step"
+#~ msgstr "Passo Anterior"
+
+#~ msgid "Next Step"
+#~ msgstr "Próximo Passo"
+
+#~ msgid "Create Group and Continue"
+#~ msgstr "Criar Grupo e Continuar"
+
+#~ msgid "Finish"
+#~ msgstr "Terminar"
+
+#~ msgid "You are requesting to become a member of the group '%s'."
+#~ msgstr "Esta a pedir para tornar-se membro do grupo '%s'."
+
+#~ msgid "Comments (optional)"
+#~ msgstr "Comentários (opcional)"
+
+#~ msgid "Send Request"
+#~ msgstr "Enviar Pedido"
+
+#~ msgid "RSS Feed"
+#~ msgstr "Fonte RSS"
+
+#~ msgid "RSS"
+#~ msgstr "RSS"
+
+#~ msgid "No Filter"
+#~ msgstr "Sem Filtro"
+
+#~ msgid "Show Updates"
+#~ msgstr "Mostrar Actualizações"
+
+#~ msgid "Show New Forum Topics"
+#~ msgstr "Mostrar Tópicos Novos do Fórum"
+
+#~ msgid "Show Forum Replies"
+#~ msgstr "Mostrar Respostas do Fórum"
+
+#~ msgid "Show New Group Memberships"
+#~ msgstr "Mostrar novos membros do grupo"
+
+#~ msgid "You will auto join this group when you start a new topic."
+#~ msgstr ""
+#~ "Passará a integrar automaticamente este grupo ao iniciar um novo tópico."
+
+#~ msgid "This group has no members."
+#~ msgstr "Este grupo não tem membros"
+
+#~ msgid "Send Invites"
+#~ msgstr "Enviar Convites"
+
+#~ msgid "Group Name"
+#~ msgstr "Nome do Grupo"
+
+#~ msgid "Group Description"
+#~ msgstr "Descrição do Grupo"
+
+#~ msgid "Notify group members of changes via email"
+#~ msgstr "Notificar os membros do grupo das alterações através de email"
+
+#~ msgid "Save Changes"
+#~ msgstr "Guardar alterações"
+
+#~ msgid ""
+#~ "If you'd like to remove the existing avatar but not upload a new one, "
+#~ "please use the delete avatar button."
+#~ msgstr ""
+#~ "Se quiser remover o avatar existente sem carregar outro, por favor "
+#~ "utilize o botão apagar avatar."
+
+#~ msgid "Delete Avatar"
+#~ msgstr "Apagar Avatar"
+
+#~ msgid "Crop Avatar"
+#~ msgstr "Recortar Avatar"
+
+#~ msgid "Administrators"
+#~ msgstr "Administradores"
+
+#~ msgid "Moderators"
+#~ msgstr "Moderadores"
+
+#~ msgid "(banned)"
+#~ msgstr "(banido)"
+
+#~ msgid "Unban this member"
+#~ msgstr "Readmitir este membro"
+
+#~ msgid "Remove Ban"
+#~ msgstr "Remover Exclusão"
+
+#~ msgid "Kick and ban this member"
+#~ msgstr "Excluir e banir este membro"
+
+#~ msgid "Kick &amp; Ban"
+#~ msgstr "Excluir &amp; Banir"
+
+#~ msgid "Promote to Mod"
+#~ msgstr "Promover a Moderador"
+
+#~ msgid "Promote to Admin"
+#~ msgstr "Promover a Administrador"
+
+#~ msgid "Remove this member"
+#~ msgstr "Remover este membro"
+
+#~ msgid "Accept"
+#~ msgstr "Aceitar"
+
+#~ msgid "Reject"
+#~ msgstr "Rejeitar"
+
+#~ msgid "There are no pending membership requests."
+#~ msgstr "Não existem pedidos de adesão pendentes."
+
+#~ msgid ""
+#~ "WARNING: Deleting this group will completely remove ALL content "
+#~ "associated with it. There is no way back, please be careful with this "
+#~ "option."
+#~ msgstr ""
+#~ "ATENÇÂO: Ao apagar este grupo apagará TODO o conteúdo a ele associado. "
+#~ "Não há forma de voltar, tenha cuidado com esta opção."
+
+#~ msgid "I understand the consequences of deleting this group."
+#~ msgstr "Tenho consciência das implicações de apagar este grupo."
+
+#~ msgid "Delete Group"
+#~ msgstr "Apagar Grupo"
+
+#~ msgid "Administrator(s)"
+#~ msgstr "Administrador(es)"
+
+#~ msgid "%s friends"
+#~ msgstr "%s amigos"
+
+#~ msgid "Member(s)"
+#~ msgstr "Membro(s)"
+
+#~ msgid "Moderator(s)"
+#~ msgstr "Moderador(es)"
+
+#~ msgid "Group Forum"
+#~ msgstr "Fórum de Grupo"
+
+#~ msgid "Group Forum Directory"
+#~ msgstr "Directório de Fóruns de Grupo"
+
+#~ msgid "%s said %s ago:"
+#~ msgstr "%s disse à %s atrás:"
+
+#~ msgid "Permanent link to this post"
+#~ msgstr "Ligação permanente a esta mensagem"
+
+#~ msgid "You will auto join this group when you reply to this topic."
+#~ msgstr "Passará a pertencer a este grupo ao responder a este tópico."
+
+#~ msgid "Add a reply:"
+#~ msgstr "Adicionar uma resposta:"
+
+#~ msgid "Post Reply"
+#~ msgstr "Enviar resposta"
+
+#~ msgid "This topic is closed, replies are no longer accepted."
+#~ msgstr "Este tópico está fechado, não se aceitam mais respostas."
+
+#~ msgid "There are no posts for this topic."
+#~ msgstr "Não existem mensagens para este tópico"
+
+#~ msgid "Edit Topic:"
+#~ msgstr "Editar Tópico:"
+
+#~ msgid "Edit Post:"
+#~ msgstr "Editar Mensagem:"
+
+#~ msgid "This topic does not exist."
+#~ msgstr "Este tópico não existe."
+
+#~ msgid "Create an Account"
+#~ msgstr "Criar uma Conta"
+
+#~ msgid ""
+#~ "Registering for this site is easy, just fill in the fields below and "
+#~ "we'll get a new account set up for you in no time."
+#~ msgstr ""
+#~ "É fácil inscrever-se neste sítio. Preencha os campos abaixo para criar "
+#~ "rapidamente uma nova conta."
+
+#~ msgid "Account Details"
+#~ msgstr "Detalhes da Conta"
+
+#~ msgid "Email Address"
+#~ msgstr "Endereço de Correio Electrónico"
+
+#~ msgid "Choose a Password"
+#~ msgstr "Escolha uma Senha"
+
+#~ msgid "Profile Details"
+#~ msgstr "Detalhes do Perfil"
+
+#~ msgid "Clear"
+#~ msgstr "Limpar"
+
+#~ msgid "Blog Details"
+#~ msgstr "Detalhes do Blogue"
+
+#~ msgid "Yes, I'd like to create a new blog"
+#~ msgstr "Sim, quero criar um novo blogue"
+
+#~ msgid "Blog URL"
+#~ msgstr "Endereço do Blogue"
+
+#~ msgid "Blog Title"
+#~ msgstr "Título do Blogue"
+
+#~ msgid ""
+#~ "I would like my blog to appear in search engines, and in public listings "
+#~ "around this site"
+#~ msgstr ""
+#~ "Quero que o meu blogue apareça nos motores de busca e listagens públicas "
+#~ "em torno deste sítio"
+
+#~ msgid "Complete Sign Up"
+#~ msgstr "Concluir Registo"
+
+#~ msgid "Sign Up Complete!"
+#~ msgstr "Registo Completo!"
+
+#~ msgid ""
+#~ "You have successfully created your account! To begin using this site you "
+#~ "will need to activate your account via the email we have just sent to "
+#~ "your address."
+#~ msgstr ""
+#~ "Criou com sucesso a sua conta! Para começar a utilizar este site, "
+#~ "necessita de activar a sua conta através da mensagem de correio "
+#~ "electrónico que lhe enviámos à instantes para o seu endereço."
+
+#~ msgid ""
+#~ "You have successfully created your account! Please log in using the "
+#~ "username and password you have just created."
+#~ msgstr ""
+#~ "Criou com sucesso a sua conta! Por favor, autentique-se com nome de "
+#~ "utilizador e senha que especificou à instantes."
+
+#~ msgid "Your Current Avatar"
+#~ msgstr "O seu Avatar Actual"
+
+#~ msgid ""
+#~ "We've fetched an avatar for your new account. If you'd like to change "
+#~ "this, why not upload a new one?"
+#~ msgstr ""
+#~ "Transferimos um avatar para a sua nova conta. Se quiser modificar isto, "
+#~ "porque não enviar um novo?"
+
+#~ msgid "Crop Your New Avatar"
+#~ msgstr "Recortar o Seu Novo Avatar"
+
+#~ msgid "Account Activated"
+#~ msgstr "Conta Activada"
+
+#~ msgid ""
+#~ "Your account was activated successfully! Your account details have been "
+#~ "sent to you in a separate email."
+#~ msgstr ""
+#~ "A sua conta foi activada com sucesso! Os detalhes da sua conta foram "
+#~ "enviados em uma outra mensagem de correio electrónico."
+
+#~ msgid ""
+#~ "Your account was activated successfully! You can now log in with the "
+#~ "username and password you provided when you signed up."
+#~ msgstr ""
+#~ "A sua conta foi activada com sucesso! Pode autenticar-se com o nome de "
+#~ "utilizador e senha que forneceu quando se registou."
+
+#~ msgid "Activate your Account"
+#~ msgstr "Activar a sua Conta"
+
+#~ msgid "Please provide a valid activation key."
+#~ msgstr "Por favor, forneça uma chave de activação válida."
+
+#~ msgid "Activation Key:"
+#~ msgstr "Chave de Activação:"
+
+#~ msgid "Activate"
+#~ msgstr "Activar"
+
+#~ msgid "Members Directory"
+#~ msgstr "Directório de Membros"
+
+#~ msgid "All Members (%s)"
+#~ msgstr "Todos os Membros (%s)"
+
+#~ msgid "My Friends (%s)"
+#~ msgstr "Os meus Amigos (%s)"
+
+#~ msgid "Newest Registered"
+#~ msgstr "Novo Registo"
+
+#~ msgid "Sorry, no members were found."
+#~ msgstr "Lamentamos, mas não foram encontrados membros."
+
+#~ msgid "Newest"
+#~ msgstr "Recente"
+
+#~ msgid "Show Blog Posts"
+#~ msgstr "Mostra Entradas do Blogue"
+
+#~ msgid "Show Blog Comments"
+#~ msgstr "Mostrar Comentários do Blogue"
+
+#~ msgid "Show Friendship Connections"
+#~ msgstr "Mostrar Relações de Amizade"
+
+#~ msgid "Show New Groups"
+#~ msgstr "Mostrar Novos Grupos"
+
+#~ msgid "You have no pending friendship requests."
+#~ msgstr "Não tem pedidos de amizade pendentes."
+
+#~ msgid "Change Avatar"
+#~ msgstr "Alterar Avatar"
+
+#~ msgid ""
+#~ "Your avatar will be used on your profile and throughout the site. If "
+#~ "there is a <a href=\"http://gravatar.com\">Gravatar</a> associated with "
+#~ "your account email we will use that, or you can upload an image from your "
+#~ "computer."
+#~ msgstr ""
+#~ "O seu avatar será utilizado no seu perfil e um pouco por todo o site. Se "
+#~ "exisitr um <a href=\"http://gravatar.com\">Gravatar</a> associado com a "
+#~ "sua conta iremos utilizá-lo ou pode ainda enviar uma imagem do seu "
+#~ "computador."
+
+#~ msgid ""
+#~ "Click below to select a JPG, GIF or PNG format photo from your computer "
+#~ "and then click 'Upload Image' to proceed."
+#~ msgstr ""
+#~ "Clique em baixo para seleccionar uma fotografia no formato JPG, GIF ou "
+#~ "PNG do seu computador e clique em 'Enviar Imagem' para continuar."
+
+#~ msgid ""
+#~ "If you'd like to delete your current avatar but not upload a new one, "
+#~ "please use the delete avatar button."
+#~ msgstr ""
+#~ "Se quiser eliminar o seu avatar actual mas não enviar uma nova imagem, "
+#~ "por favor utilizar o botão para eliminar avatar."
+
+#~ msgid "Delete My Avatar"
+#~ msgstr "Eliminar o Meu Avatar"
+
+#~ msgid ""
+#~ "Your avatar will be used on your profile and throughout the site. To "
+#~ "change your avatar, please create an account with <a href=\"http://"
+#~ "gravatar.com\">Gravatar</a> using the same email address as you used to "
+#~ "register with this site."
+#~ msgstr ""
+#~ "O seu avatar será utilizado no seu perfil e um pouco por todo o site. "
+#~ "Para alterar o seu avatar, por favor crie uma conta no <a href=\"http://"
+#~ "gravatar.com\">Gravatar</a> utilizando o mesmo endereço de correio "
+#~ "electrónico que utilizou para se registar no site."
+
+#~ msgid "Editing '%s' Profile Group"
+#~ msgstr "A Editar o Perfil do Grupo '%s'"
+
+#~ msgid "%s members"
+#~ msgstr "%s membros"
+
+#~ msgid "You have no outstanding group invites."
+#~ msgstr "Não tem convites especiais para grupo."
+
+#~ msgid "From:"
+#~ msgstr "De:"
+
+#~ msgid "To:"
+#~ msgstr "Para:"
+
+#~ msgid "View Message"
+#~ msgstr "Ver Mensagem"
+
+#~ msgid "Delete Message"
+#~ msgstr "Eliminar Mensagem"
+
+#~ msgid "Sorry, no messages were found."
+#~ msgstr "Lamentamos, mas não foram encontradas mensagens."
+
+#~ msgid "Send To (Username or Friend's Name)"
+#~ msgstr "Enviar para (Nome de utilizador ou nome do amigo)"
+
+#~ msgid "This is a notice to all users."
+#~ msgstr "Este é um aviso para todos os utilizadores."
+
+#~ msgid "Subject"
+#~ msgstr "Assunto"
+
+#~ msgid "Send Message"
+#~ msgstr "Enviar Mensagem"
+
+#~ msgid "Sent between %s and %s"
+#~ msgstr "Enviar entre %s e %s"
+
+#~ msgid "Send a Reply"
+#~ msgstr "Enviar uma Resposta"
+
+#~ msgid "Send Reply"
+#~ msgstr "Enviar Resposta"
+
+#~ msgid "Sent:"
+#~ msgstr "Enviado:"
+
+#~ msgid "Sorry, no notices were found."
+#~ msgstr "Lamentamos, mas não foram encontrados avisos."
+
+#~ msgid "Founding member"
+#~ msgstr "Membro fundador"
+
+#, fuzzy
+#~ msgid "<p class=\"serif\">Read the rest of this entry &rarr;</p>"
+#~ msgstr "<p>Lesen Sie die gesamte Seite &raquo;</p>"
+
+#, fuzzy
+#~ msgid "<p><strong>Pages:</strong> "
+#~ msgstr "<p><strong>Seiten:</strong>"
+
+#, fuzzy
+#~ msgid "Sorry, no attachments matched your criteria."
+#~ msgstr ""
+#~ "Lamentamos, mas não foram encontrados artigos que se adequassem à sua "
+#~ "pesquisa. "
+
+#, fuzzy
+#~ msgid " You can also %s."
+#~ msgstr "Sie können außerdem"
+
+#, fuzzy
+#~ msgid "Log In"
+#~ msgstr "Terminar sessão"
+
+#, fuzzy
+#~ msgid "Other login options"
+#~ msgstr "Outros artigos"
+
+#~ msgid "Featured Categories"
+#~ msgstr "Categorias em destaque"
+
+#~ msgid "In this section:"
+#~ msgstr "Nesta secção:"
+
+#~ msgid "Category archive for %s"
+#~ msgstr "Arquivo da categoria %s"
+
+#~ msgid "Tag archive for %s"
+#~ msgstr "Arquivo de tag %s"
+
+#~ msgid "Date archive for %s"
+#~ msgstr "Arquivo de %s"
+
+#~ msgid "Author Archives %s"
+#~ msgstr "Arquivos do autor %s"
+
+#~ msgid "&laquo;Older Entries"
+#~ msgstr "&laquo;Entradas anteriores"
+
+#~ msgid "Newer Entries&raquo;"
+#~ msgstr "Entradas mais recentes&raquo;"
+
+#~ msgid "Error 404 - Not Found"
+#~ msgstr "Erro 404 - Não encontrado"
+
+#~ msgid "Author"
+#~ msgstr "Autor"
+
+#~ msgid "Archive for"
+#~ msgstr "Arquivo para"
+
+#~ msgid "Tag archive for"
+#~ msgstr "Arquivo de tag"
+
+#~ msgid "404 Error (Page Not Found)"
+#~ msgstr "Erro 404 (página não encontrada)"
+
+#~ msgid "Categories menu"
+#~ msgstr "Menu das categorias"
+
+#~ msgid "Options Saved"
+#~ msgstr "Opções guardadas"
+
+#~ msgid "Apply"
+#~ msgstr "Aplicar"
+
+#~ msgid "<cite class=\"fn\">%s</cite>"
+#~ msgstr "<cite class=\"fn\">%s</cite>"
+
+#~ msgid "%1$s &bull; %2$s"
+#~ msgstr "%1$s &bull; %2$s"
+
+#~ msgid "Posted by"
+#~ msgstr "Publicado por"
+
+#~ msgid "on"
+#~ msgstr "em"
+
+#~ msgid "Read the rest of this entry"
+#~ msgstr "Ler o resto da entrada"
+
+#~ msgid "Tagged as:"
+#~ msgstr "Marcado com a(s) tag(s): "
+
+#~ msgid "Edit this entry"
+#~ msgstr "Editar esta entrada"
+
+#~ msgid "Please do not load this page directly. Thanks!"
+#~ msgstr "Por favor, não carregue esta página directamente. Obrigado!"
+
+#~ msgid "1 Comment"
+#~ msgstr "1 Comentário"
+
+#~ msgid "&laquo;Older Comments"
+#~ msgstr "&laquo;Comentários mais antigos"
+
+#~ msgid "Newer Comments&raquo;"
+#~ msgstr "Comentários mais recentes&raquo;"
+
+#~ msgid "Comments are closed."
+#~ msgstr "Os comentários estão fechados."
+
+#~ msgid ""
+#~ "Please note: comment moderation is enabled and may delay your comment. "
+#~ "There is no need to resubmit your comment."
+#~ msgstr ""
+#~ "Note que a moderação de comentários está activa o que pode atrasar a "
+#~ "apresentação do seu comentário. Não é necessário submeter novamente o seu "
+#~ "comentário."
+
+#~ msgid "Submit Comment"
+#~ msgstr "Enviar comentário"
+
+#~ msgid "Older Entries"
+#~ msgstr "Ältere Eintragungen"
+
+#~ msgid "Newer Entries"
+#~ msgstr "Mehr Artikel"
+
+#~ msgid "Post a Comment"
+#~ msgstr "Meiste Kommentare"
+
+#~ msgid "Reply to"
+#~ msgstr "Treffen Sie zu"
+
+#, fuzzy
+#~ msgid "Edit this entry&raquo;"
+#~ msgstr "Lesen Sie den gesamten Eintrag"
+
+#~ msgid "Archives"
+#~ msgstr "Archiv"
+
+#~ msgid "Categories IDs for featured categories:"
+#~ msgstr "KategorienIDs für gekennzeichnete Kategorien:"
+
+#~ msgid "Ads & Sponsors"
+#~ msgstr "Reklameanzeigen"
+
+#~ msgid "% Comments"
+#~ msgstr "Kommentare"
+
+#, fuzzy
+#~ msgid "test Comments"
+#~ msgstr "0 Kommentare"
+
+#~ msgid "Apply &raquo;"
+#~ msgstr "treffen Sie zu &raquo;"
+
+#~ msgid "More in &lsquo;%s&rsquo;"
+#~ msgstr "Mehr Artikel &raquo;"
+
+#~ msgid ""
+#~ "Ooops, We cannot find you the page you are looking for. You may try to "
+#~ "search our site for another keyword or use the navigational tools in this "
+#~ "website."
+#~ msgstr ""
+#~ "Die gesuchte Seite konnte nicht gefunden werden. Sie können ein anderes "
+#~ "Suchwort für eine neue Suche oder das Menü der Seite benutzen."
+
+#~ msgid "Archive by Category"
+#~ msgstr "Archiv nach Kategorie"
+
+#~ msgid "Articles in "
+#~ msgstr "Artikel in"
+
+#~ msgid "Archive by Tags"
+#~ msgstr "Archiv nach Tags"
+
+#~ msgid "Articles tagged with: "
+#~ msgstr "Artikel mit dem Tag:"
+
+#~ msgid "Archive by Day"
+#~ msgstr "Archiv nach Tag"
+
+#~ msgid "Archive by Month"
+#~ msgstr "Archiv nach Monat"
+
+#~ msgid "Archive by Year"
+#~ msgstr "Archiv nach Jahr"
+
+#~ msgid "Year"
+#~ msgstr "Jahr"
+
+#~ msgid "Archive by Author"
+#~ msgstr "Archiv nach Autor"
+
+#~ msgid "Articles by"
+#~ msgstr "Artikel von"
+
+#~ msgid "said:"
+#~ msgstr "schreibt:"
+
+#~ msgid "at"
+#~ msgstr "auf"
+
+#~ msgid "Leave a comment!"
+#~ msgstr "Schreiben sie einen Kommentar!"
+
+#~ msgid "Add your comment below, or"
+#~ msgstr "Fügen sie unten ihren Kommentar hinzu, oder"
+
+#~ msgid "from your own site"
+#~ msgstr "von ihrer eigenen Seite."
+
+#~ msgid "subscribe to these comments"
+#~ msgstr "Abonnieren sie diese Kommentare"
+
+#~ msgid "via RSS."
+#~ msgstr "via RSS."
+
+#~ msgid "Be nice. Keep it clean. Stay on topic. No spam."
+#~ msgstr "Sei nett. Halt es sauber. Bleib beim Thema. Kein Spam."
+
+#~ msgid "(will not be published)"
+#~ msgstr "(wird nicht veröffentlicht)"
+
+#~ msgid "You can use these tags:"
+#~ msgstr "Sie können diese HTML-Tags benutzen:"
+
+#~ msgid ""
+#~ "This is a Gravatar-enabled weblog. To get your own globally-recognized-"
+#~ "avatar, please register at"
+#~ msgstr ""
+#~ "Dieser Blog hat Gravatar aktiviert. Um ihren eignen Avatar zu bekommen "
+#~ "registrieren sie sich bitte unter"
+
+#~ msgid "(refresh random posts)"
+#~ msgstr "(Zufällige Einträge aktualisieren)"
+
+#~ msgid "Entries (RSS)"
+#~ msgstr "Einträge (RSS)"
+
+#~ msgid "Comments (RSS)"
+#~ msgstr "Kommentare (RSS)"
+
+#~ msgid "by"
+#~ msgstr "von"
+
+#~ msgid "Read the full story &raquo;"
+#~ msgstr "Lesen sie den gesamten Beitrag &raquo;"
+
+#~ msgid "You have just searched for"
+#~ msgstr "Sie haben gesucht nach"
+
+#~ msgid "Here are the results:"
+#~ msgstr "Hier sind die Ergebnisse:"
+
+#~ msgid "Tag Cloud"
+#~ msgstr "Tag Cloud"

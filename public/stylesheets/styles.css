@@ -1,0 +1,52 @@
+html, body {
+    height: 100%;
+    width: 100%;
+    padding: 0px;
+    margin: 0px;
+}
+body{
+    background: -webkit-gradient(linear,left bottom,left top,color-stop(0, #202020),color-stop(1, #2F2F2F));
+    background: -moz-linear-gradient(center bottom,#202020 0%, #2F2F2F 100%);
+    font-family: Ubuntu, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-size:12px;
+    overflow: hidden;
+}
+body.new-authorization-key,
+body.new-user{
+    color: #FFFFFF;
+    line-height: 1.5em;
+}
+#loading{
+    background: url("/public/imgs/loader.gif") no-repeat;
+    display:block;
+    height:20px;
+}
+.dockheader {
+    position: relative;
+    background: -webkit-gradient(linear, center top, center bottom, from(#3E3F41), color-stop(1, #303132));
+    background: -moz-linear-gradient(center top , #3E3F41 0%, #303132 100%) repeat scroll 0 0 transparent;
+    height: 10px;
+    cursor: pointer;
+    border-bottom: 1px solid #38393B;
+    border-top: 1px solid #4F5052;
+}
+.dockheader span {
+    width: 9px;
+    height: 9px;
+    position: absolute;
+    display: block;
+    right: 2px;
+    top: 1px;
+    background: url("/public/imgs/toolbar-arrows.png") 0 0;
+}
+.expanded span {
+    background-position: 0 -10px;
+    right: 3px;
+}
+.dockheader .dockheader-footer {
+    border-bottom: 1px solid #1D1E1F;
+    bottom: 0;
+    left: 0;
+    position: absolute;
+    width: 100%;
+}

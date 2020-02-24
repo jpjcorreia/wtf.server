@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+    <head>
+	<meta http-equiv="content-type" content="text/html; charset=UTF-8"/>
+	<title><%= title %></title>
+	<link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Ubuntu:regular,bold&subset=Latin">
+	<link rel="stylesheet" type="text/css" href="/public/stylesheets/styles.css">
+    </head>
+    <body class="new-user">
+	<h3><%= message %></h3>
+	<div>
+	    <form method="post" action="/new-user">
+		<div><label><%= usernameLabel %></label><input type="text" name="user[name]" id="username" value=""/></div>
+		<div><label><%= passwordLabel %></label><input type="password" name="user[pass]" id="password" value=""/></div>
+		<div><label><%= emailLabel %></label><input type="text" name="user[email]" id="email" value=""/></div>
+		<div><input type="submit" value="<%= createUserLabel %>"></div>
+	    </form>
+	</div>
+    </body>
+</html>

@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+    <head>
+	<meta http-equiv="content-type" content="text/html; charset=UTF-8"/>
+	<title><%= title %></title>
+	<link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Ubuntu:regular,bold&subset=Latin">
+	<link rel="stylesheet" type="text/css" href="/public/stylesheets/styles.css">
+    </head>
+    <body class="new-authorization-key">
+	<h3><%= message %></h3>
+	<div>
+	    <div><strong><%= usernameLabel %></strong><span id="usernameHolder"><%= username %></div>
+	    <div><strong><%= passwordLabel %></strong><span id="passwordHolder"><%= password %></div>
+	    <div><a href="<%= url %>"><%= url %></a></div>
+	</div>
+    </body>
+</html>
