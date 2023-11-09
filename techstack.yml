@@ -1,0 +1,3237 @@
+repo_name: jpjcorreia/wtf.server
+report_id: bb62b13c0124f36db42dc69032a8688b
+repo_type: Public
+timestamp: '2023-11-09T16:28:26+00:00'
+requested_by: jpjcorreia
+provider: github
+branch: master
+detected_tools_count: 252
+tools:
+- name: CSS 3
+  description: The latest evolution of the Cascading Style Sheets language
+  website_url: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source: Repo Metadata
+- name: CoffeeScript
+  description: A little language that compiles into JavaScript
+  website_url: http://coffeescript.org/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1178/slQydAMv.png
+  detection_source: node_modules/gettext/deps/nodeunit/test/fixtures/coffee/mock_coffee_module.coffee
+  last_updated_by: João Correia
+  last_updated_on: 2020-02-24 15:31:31.000000000 Z
+- name: D
+  description: Modern convenience. Modeling power. Native efficiency.
+  website_url: http://dlang.org/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/3117/d-5.png
+  detection_source: node_modules/socket.io/package.json
+  last_updated_by: João Correia
+  last_updated_on: 2020-02-24 15:31:31.000000000 Z
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source: Repo Metadata
+- name: Python
+  description: A clear and powerful object-oriented programming language, comparable
+    to Perl, Ruby, Scheme, or Java.
+  website_url: https://www.python.org
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/993/pUBY5pVj.png
+  detection_source: node_modules/socket.io/node_modules/socket.io-client/node_modules/ws/package.json
+  last_updated_by: João Correia
+  last_updated_on: 2020-02-24 15:31:31.000000000 Z
+- name: Ruby
+  description: A dynamic, interpreted, open source programming language with a focus
+    on simplicity and productivity
+  website_url: https://www.ruby-lang.org
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/989/ruby.png
+  detection_source: node_modules/socket.io/node_modules/socket.io-client/node_modules/uglify-js/package.json
+  last_updated_by: João Correia
+  last_updated_on: 2020-02-24 15:31:31.000000000 Z
+- name: C3.js
+  description: A D3-based reusable chart library
+  website_url: http://c3js.org/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Charting Libraries
+  image_url: https://img.stackshare.io/no-img-open-source.png
+  detection_source: node_modules/mysql/node_modules/require-all/package.json
+  last_updated_by: João Correia
+  last_updated_on: 2020-02-24 15:31:31.000000000 Z
+- name: ExpressJS
+  description: Sinatra inspired web development framework for node.js -- insanely
+    fast, flexible, and simple
+  website_url: http://expressjs.com/
+  version: 3.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Microframeworks (Backend)
+  image_url: https://img.stackshare.io/service/1163/hashtag.png
+  detection_source_url: node_modules/socket.io/node_modules/socket.io-client/node_modules/ws/examples/serverstats-express_3/package.json
+  detection_source: testAndroidSocket/node_modules/socket.io/node_modules/socket.io-client/package.json
+  last_updated_by: João Correia
+  last_updated_on: 2020-02-24 15:31:31.000000000 Z
+- name: Less
+  description: The dynamic stylesheet language
+  website_url: http://lesscss.org/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: CSS Pre-processors / Extensions
+  image_url: https://img.stackshare.io/service/1170/default_957cbc0168b4d37265e264469c888f776e57f42c.png
+  detection_source: node_modules/socket.io/node_modules/socket.io-client/node_modules/uglify-js/package.json
+  last_updated_by: João Correia
+  last_updated_on: 2020-02-24 15:31:31.000000000 Z
+- name: Next.js
+  description: 'A small framework for server-rendered universal JavaScript apps '
+  website_url: https://nextjs.org/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/5936/nextjs.png
+  detection_source: node_modules/socket.io/node_modules/socket.io-client/package.json
+  last_updated_by: João Correia
+  last_updated_on: 2020-02-24 15:31:31.000000000 Z
+- name: Node.js
+  description: A platform built on Chrome's JavaScript runtime for easily building
+    fast, scalable network applications
+  website_url: http://nodejs.org/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png
+  detection_source: node_modules/socket.io/package.json
+  last_updated_by: João Correia
+  last_updated_on: 2020-02-24 15:31:31.000000000 Z
+- name: Prototype
+  description: Prototype JavaScript framework
+  website_url: http://prototypejs.org/
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript UI Libraries
+  image_url: https://img.stackshare.io/service/3597/o_bigger_400x400.png
+  detection_source: node_modules/socket.io/node_modules/socket.io-client/node_modules/uglify-js/package.json
+  last_updated_by: João Correia
+  last_updated_on: 2020-02-24 15:31:31.000000000 Z
+- name: jQuery
+  description: The Write Less, Do More, JavaScript Library.
+  website_url: http://jquery.com/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript UI Libraries
+  image_url: https://img.stackshare.io/service/1021/lxEKmMnB_400x400.jpg
+  detection_source: node_modules/socket.io/node_modules/socket.io-client/node_modules/uglify-js/package.json
+  last_updated_by: João Correia
+  last_updated_on: 2020-02-24 15:31:31.000000000 Z
+- name: Mentat
+  description: " persistent, relational store by Mozilla"
+  website_url: https://mozilla.github.io/mentat
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Databases
+  image_url: https://img.stackshare.io/no-img-open-source.png
+  detection_source: node_modules/socket.io/package.json
+  last_updated_by: João Correia
+  last_updated_on: 2020-02-24 15:31:31.000000000 Z
+- name: MySQL
+  description: The world's most popular open source database
+  website_url: http://www.mysql.com
+  version: 2.0.0
+  open_source: true
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Databases
+  image_url: https://img.stackshare.io/service/1025/logo-mysql-170x170.png
+  detection_source_url: package.json
+  detection_source: package.json
+  last_updated_by: João Correia
+  last_updated_on: 2020-02-24 15:31:31.000000000 Z
+- name: PostgreSQL
+  description: A powerful, open source object-relational database system
+  website_url: http://www.postgresql.org/
+  open_source: true
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Databases
+  image_url: https://img.stackshare.io/service/1028/ASOhU5xJ.png
+  detection_source: node_modules/socket.io/node_modules/redis/package.json
+  last_updated_by: João Correia
+  last_updated_on: 2020-02-24 15:31:31.000000000 Z
+- name: Redis
+  description: Open source (BSD licensed), in-memory data structure store
+  website_url: http://redis.io/
+  version: 0.7.3
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Data Stores
+  sub_category: In-Memory Databases
+  image_url: https://img.stackshare.io/service/1031/default_cbce472cd134adc6688572f999e9122b9657d4ba.png
+  detection_source_url: node_modules/socket.io/package.json
+  detection_source: testAndroidSocket/node_modules/socket.io/package.json
+  last_updated_by: João Correia
+  last_updated_on: 2020-02-24 15:31:31.000000000 Z
+- name: Socket.IO
+  description: Realtime application framework (Node.JS server)
+  website_url: http://socket.io/
+  version: 0.8.7
+  open_source: true
+  hosted_saas: false
+  category: Application Hosting
+  sub_category: Realtime Backend / API
+  image_url: https://img.stackshare.io/service/1161/vI0ZZlhZ_400x400.png
+  detection_source_url: node_modules/now/package.json
+  detection_source: testAndroidSocket/node_modules/socket.io/package.json
+  last_updated_by: João Correia
+  last_updated_on: 2020-02-24 15:31:31.000000000 Z
+- name: ent
+  description: An entity framework for Go
+  website_url: https://entgo.io/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Microframeworks (Backend)
+  image_url: https://img.stackshare.io/service/21146/default_3b393819f74c4cb10f98fa9e683fa28cf6cc85f5.png
+  detection_source: node_modules/socket.io/package.json
+  last_updated_by: João Correia
+  last_updated_on: 2020-02-24 15:31:31.000000000 Z
+- name: ws
+  description: A Node.js WebSocket library
+  website_url: https://github.com/websockets/ws
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Application Hosting
+  sub_category: Realtime Backend / API
+  image_url: https://img.stackshare.io/service/11381/no-img-open-source.png
+  detection_source: testAndroidSocket/node_modules/socket.io/node_modules/socket.io-client/package.json
+  last_updated_by: João Correia
+  last_updated_on: 2020-02-24 15:31:31.000000000 Z
+- name: Browserify
+  description: Browser-side require() the node.js way
+  website_url: http://browserify.org/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/849/9esmqty2.png
+  detection_source: node_modules/socket.io/node_modules/socket.io-client/package.json
+  last_updated_by: João Correia
+  last_updated_on: 2020-02-24 15:31:31.000000000 Z
+- name: Chai
+  description: A BDD / TDD assertion library
+  website_url: http://chaijs.com/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Javascript Testing Framework
+  image_url: https://img.stackshare.io/service/1725/chai.png
+  detection_source: node_modules/socket.io/node_modules/redis/package.json
+  last_updated_by: João Correia
+  last_updated_on: 2020-02-24 15:31:31.000000000 Z
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source: Repo Metadata
+- name: Microsoft IIS
+  description: A web server for Microsoft Windows
+  website_url: http://www.iis.net/
+  open_source: false
+  hosted_saas: false
+  category: Application Hosting
+  sub_category: Web Servers
+  image_url: https://img.stackshare.io/service/1056/J5gFiHbG.png
+  detection_source: node_modules/express/node_modules/cookie-signature/package.json
+  last_updated_by: João Correia
+  last_updated_on: 2020-02-24 15:31:31.000000000 Z
+- name: Mocha
+  description: Simple, flexible, fun javascript test framework for node.js &amp; the
+    browser
+  website_url: http://mochajs.org/
+  version: 1.2.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Javascript Testing Framework
+  image_url: https://img.stackshare.io/service/832/mocha.png
+  detection_source_url: node_modules/socket.io/node_modules/socket.io-client/node_modules/ws/package.json
+  detection_source: testAndroidSocket/node_modules/socket.io/node_modules/socket.io-client/node_modules/ws/package.json
+  last_updated_by: João Correia
+  last_updated_on: 2020-02-24 15:31:31.000000000 Z
+- name: Monit
+  description: 'A free, open-source process supervision tool '
+  website_url: https://mmonit.com
+  open_source: false
+  hosted_saas: false
+  category: Monitoring
+  sub_category: Monitoring Tools
+  image_url: https://img.stackshare.io/service/2986/MonitLogo.png
+  detection_source: node_modules/socket.io/node_modules/redis/package.json
+  last_updated_by: João Correia
+  last_updated_on: 2020-02-24 15:31:31.000000000 Z
+- name: PyPI
+  description: A repository of software for the Python programming language
+  website_url: https://pypi.org/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Hosted Package Repository
+  image_url: https://img.stackshare.io/service/12572/-RIWgodF_400x400.jpg
+  detection_source: node_modules/socket.io/node_modules/socket.io-client/node_modules/ws/package.json
+  last_updated_by: João Correia
+  last_updated_on: 2020-02-24 15:31:31.000000000 Z
+- name: RubyGems
+  description: Easily download, install, and use ruby software packages on your system
+  website_url: https://rubygems.org/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/service/12795/5jL6-BA5_400x400.jpeg
+  detection_source: node_modules/socket.io/node_modules/socket.io-client/node_modules/uglify-js/package.json
+  last_updated_by: João Correia
+  last_updated_on: 2020-02-24 15:31:31.000000000 Z
+- name: SuperTest
+  description: 'A library for testing node.js HTTP servers '
+  website_url: https://www.npmjs.com/package/supertest
+  version: 0.0.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Javascript Testing Framework
+  image_url: https://img.stackshare.io/no-img-open-source.png
+  detection_source_url: node_modules/express/node_modules/send/package.json
+  detection_source: node_modules/express/package.json
+  last_updated_by: João Correia
+  last_updated_on: 2020-02-24 15:31:31.000000000 Z
+- name: Travis CI
+  description: A hosted continuous integration service for open source and private
+    projects
+  website_url: http://travis-ci.com/
+  open_source: false
+  hosted_saas: true
+  category: Build, Test, Deploy
+  sub_category: Continuous Integration
+  image_url: https://img.stackshare.io/service/460/Lu6cGu0z_400x400.png
+  detection_source: testAndroidSocket/node_modules/socket.io/node_modules/socket.io-client/node_modules/ws/node_modules/commander/.travis.yml
+  last_updated_by: João Correia
+  last_updated_on: 2020-02-24 15:31:31.000000000 Z
+- name: hub
+  description: Wraps Git with extra features that make working with GitHub easier
+    (by GitHub)
+  website_url: http://hub.github.com/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Git Tools
+  image_url: https://img.stackshare.io/no-img-open-source.png
+  detection_source: node_modules/socket.io/package.json
+  last_updated_by: João Correia
+  last_updated_on: 2020-02-24 15:31:31.000000000 Z
+- name: npm
+  description: The package manager for JavaScript.
+  website_url: https://www.npmjs.com/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source: node_modules/socket.io/package.json
+  last_updated_by: João Correia
+  last_updated_on: 2020-02-24 15:31:31.000000000 Z
+- name: Apache Camel
+  description: A versatile open source integration framework
+  website_url: https://camel.apache.org/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Application Hosting
+  sub_category: Platform as a Service
+  image_url: https://img.stackshare.io/service/3276/xWt1RFo6_400x400.jpg
+  detection_source: node_modules/socket.io/node_modules/socket.io-client/node_modules/ws/node_modules/commander/package.json
+  last_updated_by: João Correia
+  last_updated_on: 2020-02-24 15:31:31.000000000 Z
+- name: Buffer
+  description: The easiest way to schedule tweets, Facebook posts and more
+  website_url: https://bufferapp.com/
+  open_source: false
+  hosted_saas: true
+  category: Support, Sales, and Marketing
+  sub_category: Social Media Tools
+  image_url: https://img.stackshare.io/service/825/hnc3q-7x.jpg
+  detection_source: node_modules/socket.io/node_modules/redis/package.json
+  last_updated_by: João Correia
+  last_updated_on: 2020-02-24 15:31:31.000000000 Z
+- name: Chartio
+  description: A powerful Business Intelligence tool anyone can use
+  website_url: https://chartio.com
+  open_source: false
+  hosted_saas: true
+  category: Analytics
+  sub_category: Business Intelligence
+  image_url: https://img.stackshare.io/service/9/TtrFaQ3j_400x400.png
+  detection_source: node_modules/socket.io/package.json
+  last_updated_by: João Correia
+  last_updated_on: 2020-02-24 15:31:31.000000000 Z
+- name: Poli
+  description: 'An easy-to-use SQL reporting application '
+  website_url: https://github.com/shzlw/poli
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Analytics
+  sub_category: Business Intelligence
+  image_url: https://img.stackshare.io/service/11232/no-img-open-source.png
+  detection_source: testAndroidSocket/node_modules/socket.io/package.json
+  last_updated_by: João Correia
+  last_updated_on: 2020-02-24 15:31:31.000000000 Z
+- name: Alt
+  description: A library for managing data within JavaScript applications
+  website_url: https://alt.js.org/
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript Utilities & Libraries
+  image_url: https://img.stackshare.io/service/3649/default_01276c9c0c79674b16f9b29216bd8cc7ce9b894d.png
+  detection_source: node_modules/socket.io/package.json
+  last_updated_by: João Correia
+  last_updated_on: 2020-02-24 15:31:31.000000000 Z
+- name: OpenLayers
+  description: A high-performance, feature-packed library for all your mapping needs
+  website_url: http://openlayers.org/
+  license: BSD-2-Clause
+  open_source: true
+  hosted_saas: false
+  category: Application Utilities
+  sub_category: Mapping APIs
+  image_url: https://img.stackshare.io/service/3208/397ce8027eb036960f00dd5153d41993.png
+  detection_source: node_modules/socket.io/package.json
+  last_updated_by: João Correia
+  last_updated_on: 2020-02-24 15:31:31.000000000 Z
+- name: Q
+  description: A promise library for JavaScript
+  website_url: https://github.com/kriskowal/q
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript Utilities & Libraries
+  image_url: https://img.stackshare.io/service/4697/default_2d5a1d7c5eb520cdeb7db120e767345004a1d0d4.png
+  detection_source: node_modules/socket.io/node_modules/socket.io-client/node_modules/uglify-js/package.json
+  last_updated_by: João Correia
+  last_updated_on: 2020-02-24 15:31:31.000000000 Z
+- name: React Navigation
+  description: Flexible navigation library for React Native and web. Learn once, navigate
+    anywhere.
+  website_url: https://reactnavigation.org/
+  open_source: false
+  hosted_saas: false
+  category: Mobile
+  sub_category: Cross-Platform Mobile Tools
+  image_url: https://img.stackshare.io/service/6422/react-navigation.png
+  detection_source: node_modules/socket.io/node_modules/socket.io-client/node_modules/uglify-js/package.json
+  last_updated_by: João Correia
+  last_updated_on: 2020-02-24 15:31:31.000000000 Z
+- name: Requests
+  description: Elegant and simple HTTP library for Python
+  website_url: http://docs.python-requests.org/en/latest/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Application Utilities
+  sub_category: Data Transfer
+  image_url: https://img.stackshare.io/service/10242/default_10e3fd58c910dc0c4241bc273a7235a0aa4197dd.png
+  detection_source: node_modules/socket.io/node_modules/socket.io-client/package.json
+  last_updated_by: João Correia
+  last_updated_on: 2020-02-24 15:31:31.000000000 Z
+- name: Timezone
+  description: Keep track of where and when your team is
+  website_url: https://timezone.io/
+  open_source: false
+  hosted_saas: false
+  category: Collaboration
+  sub_category: Time Tracking
+  image_url: https://img.stackshare.io/service/9576/default_7b6755d014b3e39c3149d5a18bc3a75d3817f421.png
+  detection_source: node_modules/mysql/package.json
+  last_updated_by: João Correia
+  last_updated_on: 2020-02-24 15:31:31.000000000 Z
+- name: Twitter API
+  description: Build bots that communicate smartly.
+  website_url: https://twitter.com/
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/2466/twitterdev_gear.png
+  detection_source: node_modules/socket.io/node_modules/socket.io-client/node_modules/uglify-js/package.json
+  last_updated_by: João Correia
+  last_updated_on: 2020-02-24 15:31:31.000000000 Z
+- name: auto
+  description: Making the Car buying process easier
+  website_url: http://autoportal.com/
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/2634/quvIzEn2_normal.jpg
+  detection_source: node_modules/socket.io/package.json
+  last_updated_by: João Correia
+  last_updated_on: 2020-02-24 15:31:31.000000000 Z
+- name: js
+  website_url: www.js.com
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/5588/jscom.png
+  detection_source: node_modules/socket.io/package.json
+  last_updated_by: João Correia
+  last_updated_on: 2020-02-24 15:31:31.000000000 Z
+- name: navi
+  description: An interactive cheatsheet tool for the command-line
+  website_url: https://github.com/denisidoro/navi
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Shell Utilities
+  image_url: https://img.stackshare.io/service/11380/no-img-open-source.png
+  detection_source: node_modules/socket.io/node_modules/socket.io-client/node_modules/uglify-js/package.json
+  last_updated_by: João Correia
+  last_updated_on: 2020-02-24 15:31:31.000000000 Z
+- name: test
+  website_url: test
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/5477/no-img-open-source.png
+  detection_source: node_modules/socket.io/package.json
+  last_updated_by: João Correia
+  last_updated_on: 2020-02-24 15:31:31.000000000 Z
+- name: three.js
+  description: A JavaScript 3D library
+  website_url: https://threejs.org/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Game Development
+  image_url: https://img.stackshare.io/service/5883/preview.png
+  detection_source: node_modules/socket.io/node_modules/redis/package.json
+  last_updated_by: João Correia
+  last_updated_on: 2020-02-24 15:31:31.000000000 Z
+- name: "@octokit/rest"
+  description: GitHub REST API client for Node.js
+  package_url: https://www.npmjs.com/@octokit/rest
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16999/default_43f23668e39c9b3381720c9c76540776b8a49167.png
+  detection_source: node_modules/socket.io/package.json
+  last_updated_by: João Correia
+  last_updated_on: 2020-02-24 15:31:31.000000000 Z
+- name: accepts
+  description: Higher-level content negotiation
+  package_url: https://www.npmjs.com/accepts
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17723/default_552addbbff67ec0ef62ce1d229e112d14ca818f5.png
+  detection_source: node_modules/socket.io/node_modules/policyfile/package.json
+  last_updated_by: João Correia
+  last_updated_on: 2020-02-24 15:31:31.000000000 Z
+- name: after
+  description: After - tiny flow control
+  package_url: https://www.npmjs.com/after
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17934/default_c741d08ac1035482640dcd4a57c59231d0ce4858.png
+  detection_source: node_modules/socket.io/node_modules/socket.io-client/package.json
+  last_updated_by: João Correia
+  last_updated_on: 2020-02-24 15:31:31.000000000 Z
+- name: ansi
+  description: Advanced ANSI formatting tool for Node.js
+  package_url: https://www.npmjs.com/ansi
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18744/default_a0c218dcb961fccae1cb03e431692daad86f7866.png
+  detection_source: testAndroidSocket/node_modules/socket.io/node_modules/socket.io-client/node_modules/ws/package.json
+  last_updated_by: João Correia
+  last_updated_on: 2020-02-24 15:31:31.000000000 Z
+- name: arg
+  description: Another simple argument parser
+  package_url: https://www.npmjs.com/arg
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17564/default_99afdc7126f8a31ae778ef58d50c93ae3dd88880.png
+  detection_source: node_modules/socket.io/package.json
+  last_updated_by: João Correia
+  last_updated_on: 2020-02-24 15:31:31.000000000 Z
+- name: args
+  description: Minimal toolkit for building CLIs
+  package_url: https://www.npmjs.com/args
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18244/default_b102609c7a7fb86f3c2ca3ec026f3011d275978b.png
+  detection_source: node_modules/socket.io/package.json
+  last_updated_by: João Correia
+  last_updated_on: 2020-02-24 15:31:31.000000000 Z
+- name: argv
+  description: CLI Argument Parser
+  package_url: https://www.npmjs.com/argv
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17591/default_3a2c894d178d46e5b78f3e41ac6b2ced48b414c8.png
+  detection_source: node_modules/socket.io/node_modules/socket.io-client/node_modules/ws/node_modules/commander/package.json
+  last_updated_by: João Correia
+  last_updated_on: 2020-02-24 15:31:31.000000000 Z
+- name: assert
+  description: The assert module from Node.js, for the browser
+  package_url: https://www.npmjs.com/assert
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16188/default_9a7a7dcd69c12c746dc4000dc4d1b75758079c9f.png
+  detection_source: node_modules/express/node_modules/range-parser/package.json
+  last_updated_by: João Correia
+  last_updated_on: 2020-02-24 15:31:31.000000000 Z
+- name: assume
+  description: Expect-like assertions that works seamlessly in node and browsers
+  package_url: https://www.npmjs.com/assume
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18326/default_b0d06180669cf53f2469ea77b53b5911d72482d5.png
+  detection_source: node_modules/socket.io/node_modules/socket.io-client/node_modules/uglify-js/package.json
+  last_updated_by: João Correia
+  last_updated_on: 2020-02-24 15:31:31.000000000 Z
+- name: async
+  description: Higher-order functions and common patterns for asynchronous code
+  package_url: https://www.npmjs.com/async
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15851/default_a2f722724df977d0f7752839e5d8845ab41f69d5.png
+  detection_source: node_modules/socket.io/node_modules/socket.io-client/node_modules/xmlhttprequest/package.json
+  last_updated_by: João Correia
+  last_updated_on: 2020-02-24 15:31:31.000000000 Z
+- name: ava
+  description: Testing can be a drag. AVA helps you get it done
+  package_url: https://www.npmjs.com/ava
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15883/default_0b10af8ca19c215f781dc07442e75bdc831089d0.png
+  detection_source: node_modules/socket.io/node_modules/socket.io-client/node_modules/uglify-js/package.json
+  last_updated_by: João Correia
+  last_updated_on: 2020-02-24 15:31:31.000000000 Z
+- name: benchmark
+  description: A benchmarking library that supports high-resolution timers &amp; returns
+    statistically significant results
+  package_url: https://www.npmjs.com/benchmark
+  version: 0.2.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16241/default_cbc604730ab04341982d806fe402cd0706cc8bf4.png
+  detection_source_url: node_modules/socket.io/package.json
+  detection_source: testAndroidSocket/node_modules/socket.io/package.json
+  last_updated_by: João Correia
+  last_updated_on: 2020-02-24 15:31:31.000000000 Z
+- name: bili
+  description: A zero configuration library bundler
+  package_url: https://www.npmjs.com/bili
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16771/default_6e51a44775c61dcb2888547ad406a2f0cf2c344e.png
+  detection_source: node_modules/socket.io/package.json
+  last_updated_by: João Correia
+  last_updated_on: 2020-02-24 15:31:31.000000000 Z
+- name: bl
+  description: 'Buffer List: collect buffers and access with a standard readable Buffer
+    interface'
+  package_url: https://www.npmjs.com/bl
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17221/default_183829c5079b84333a720d8590a328efc043ba0e.png
+  detection_source: node_modules/socket.io/package.json
+  last_updated_by: João Correia
+  last_updated_on: 2020-02-24 15:31:31.000000000 Z
+- name: bytes
+  description: Utility to parse a string bytes to bytes and vice-versa
+  package_url: https://www.npmjs.com/bytes
+  version: 0.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17201/default_37d9ccc57ae4d32e7ff46614e4f8bb2c4ddc7964.png
+  detection_source_url: node_modules/express/node_modules/connect/package.json
+  detection_source: node_modules/socket.io/node_modules/socket.io-client/node_modules/uglify-js/package.json
+  last_updated_by: João Correia
+  last_updated_on: 2020-02-24 15:31:31.000000000 Z
+- name: cac
+  description: Simple yet powerful framework for building command-line apps
+  package_url: https://www.npmjs.com/cac
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18731/default_896e971e78d35d9228342aa32100298402d2473b.png
+  detection_source: node_modules/socket.io/node_modules/socket.io-client/node_modules/uglify-js/package.json
+  last_updated_by: João Correia
+  last_updated_on: 2020-02-24 15:31:31.000000000 Z
+- name: camel-case
+  description: Transform into a string with the separator denoted by the next word
+    capitalized
+  package_url: https://www.npmjs.com/camel-case
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17736/default_552addbbff67ec0ef62ce1d229e112d14ca818f5.png
+  detection_source: node_modules/socket.io/node_modules/socket.io-client/node_modules/ws/node_modules/commander/package.json
+  last_updated_by: João Correia
+  last_updated_on: 2020-02-24 15:31:31.000000000 Z
+- name: capitalize
+  description: Capitalize the first letter of a string
+  package_url: https://www.npmjs.com/capitalize
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18750/default_7e40392bb89e66abf2d9bb2cf29912f77369c119.png
+  detection_source: node_modules/ejs/package.json
+  last_updated_by: João Correia
+  last_updated_on: 2020-02-24 15:31:31.000000000 Z
+- name: clear
+  description: Clear the terminal screen if possible
+  package_url: https://www.npmjs.com/clear
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17068/default_88e2e076a71afdc1de87ad42c80c1606f2689af1.png
+  detection_source: node_modules/socket.io/package.json
+  last_updated_by: João Correia
+  last_updated_on: 2020-02-24 15:31:31.000000000 Z
+- name: cli
+  description: A tool for rapidly building command line apps
+  package_url: https://www.npmjs.com/cli
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17384/default_b39374c3a74b433364bfdbff07be26214bf186fd.png
+  detection_source: node_modules/socket.io/package.json
+  last_updated_by: João Correia
+  last_updated_on: 2020-02-24 15:31:31.000000000 Z
+- name: cli-table
+  description: Pretty unicode tables for the CLI
+  package_url: https://www.npmjs.com/cli-table
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16477/default_2e7c1d6d94467a56325f7c984571015e8713a450.png
+  detection_source: node_modules/socket.io/node_modules/socket.io-client/node_modules/ws/node_modules/commander/package.json
+  last_updated_by: João Correia
+  last_updated_on: 2020-02-24 15:31:31.000000000 Z
+- name: clone
+  description: Deep cloning of objects and arrays
+  package_url: https://www.npmjs.com/clone
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16398/default_9ae0e75ed749aca83d89f7e1ccb309be2bfc610e.png
+  detection_source: node_modules/socket.io/node_modules/socket.io-client/node_modules/uglify-js/package.json
+  last_updated_by: João Correia
+  last_updated_on: 2020-02-24 15:31:31.000000000 Z
+- name: co
+  description: Generator async control flow goodness
+  package_url: https://www.npmjs.com/co
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16007/default_f8be85789693a9901dbcfa43c135c60525ae49a1.png
+  detection_source: node_modules/socket.io/package.json
+  last_updated_by: João Correia
+  last_updated_on: 2020-02-24 15:31:31.000000000 Z
+- name: code
+  description: Assertion library
+  package_url: https://www.npmjs.com/code
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16417/default_89ba91277e3434b03295bb11d22736632df1d04f.png
+  detection_source: node_modules/socket.io/package.json
+  last_updated_by: João Correia
+  last_updated_on: 2020-02-24 15:31:31.000000000 Z
+- name: color
+  description: Color conversion and manipulation with CSS string support
+  package_url: https://www.npmjs.com/color
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16600/default_9d292a50abc76f1f74581b311ad930a616b1785c.png
+  detection_source: node_modules/socket.io/package.json
+  last_updated_by: João Correia
+  last_updated_on: 2020-02-24 15:31:31.000000000 Z
+- name: colors
+  description: Get colors in your node.js console
+  package_url: https://www.npmjs.com/colors
+  version: 0.5.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15908/default_7c39a83d4acd952df89b1ebfdb94c8646324fbf1.png
+  detection_source_url: node_modules/socket.io/package.json
+  detection_source: testAndroidSocket/node_modules/socket.io/package.json
+  last_updated_by: João Correia
+  last_updated_on: 2020-02-24 15:31:31.000000000 Z
+- name: commander
+  description: The complete solution for node.js command-line programs
+  package_url: https://www.npmjs.com/commander
+  version: 0.6.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15829/default_50135978d26eba7c09093ceb23b96d522898e4eb.png
+  detection_source_url: node_modules/express/package.json
+  detection_source: testAndroidSocket/node_modules/socket.io/node_modules/socket.io-client/node_modules/ws/package.json
+  last_updated_by: João Correia
+  last_updated_on: 2020-02-24 15:31:31.000000000 Z
+- name: component
+  description: Component package manager consuming git repositories
+  package_url: https://www.npmjs.com/component
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18220/default_46cc7e5b7a8c78af11a3ee7db2fc5fe39f295a6e.png
+  detection_source: node_modules/express/node_modules/debug/package.json
+  last_updated_by: João Correia
+  last_updated_on: 2020-02-24 15:31:31.000000000 Z
+- name: compression
+  description: Node.js compression middleware
+  package_url: https://www.npmjs.com/compression
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16187/default_9a7a7dcd69c12c746dc4000dc4d1b75758079c9f.png
+  detection_source: node_modules/socket.io/node_modules/socket.io-client/node_modules/uglify-js/package.json
+  last_updated_by: João Correia
+  last_updated_on: 2020-02-24 15:31:31.000000000 Z
+- name: conf
+  description: Simple config handling for your app or module
+  package_url: https://www.npmjs.com/conf
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17998/default_fc5f66cf44024e173fd07c415d4f30ca58b4cbad.png
+  detection_source: node_modules/socket.io/package.json
+  last_updated_by: João Correia
+  last_updated_on: 2020-02-24 15:31:31.000000000 Z
+- name: config
+  description: Configuration control for production node deployments
+  package_url: https://www.npmjs.com/config
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16353/default_b5c8f3c8e46d368f74a982d06d7f13291fe651ea.png
+  detection_source: node_modules/socket.io/package.json
+  last_updated_by: João Correia
+  last_updated_on: 2020-02-24 15:31:31.000000000 Z
+- name: connect
+  description: High performance middleware framework
+  package_url: https://www.npmjs.com/connect
+  version: 2.7.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16202/default_2c2f2c7b016f84c0fad2576cb986cb14a5dbbc2f.png
+  detection_source_url: node_modules/express/package.json
+  detection_source: node_modules/socket.io/package.json
+  last_updated_by: João Correia
+  last_updated_on: 2020-02-24 15:31:31.000000000 Z
+  vulnerabilities:
+  - name: Node Connect Reflected Cross-Site Scripting in Sencha Labs Connect middleware
+    cve_id: CVE-2013-7371
+    cve_url: https://github.com/advisories/GHSA-6w62-83g6-rfhj
+    detected_date: Aug 18
+    severity: moderate
+    first_patched: 2.8.2
+  - name: Cross-Site Scripting in connect
+    cve_id: CVE-2018-3717
+    cve_url: https://github.com/advisories/GHSA-rch9-xh7r-mqgw
+    detected_date: May 31
+    severity: moderate
+    first_patched: 2.14.0
+  - name: methodOverride Middleware Reflected Cross-Site Scripting in connect
+    cve_id: CVE-2013-7370
+    cve_url: https://github.com/advisories/GHSA-3fw8-66wf-pr7m
+    detected_date: Aug 22
+    severity: low
+    first_patched: 2.8.1
+- name: connect-redis
+  description: Redis session store for Connect
+  package_url: https://www.npmjs.com/connect-redis
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17325/default_6afdd1bc7e3815a18b56c31d0b4acf372c00f6e2.png
+  detection_source: node_modules/express/package.json
+  last_updated_by: João Correia
+  last_updated_on: 2020-02-24 15:31:31.000000000 Z
+- name: consolidate
+  description: Template engine consolidation library
+  package_url: https://www.npmjs.com/consolidate
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16791/default_661bbd7f9556b6c5c0b8be11cd13e1813fc5c977.png
+  detection_source: node_modules/express/package.json
+  last_updated_by: João Correia
+  last_updated_on: 2020-02-24 15:31:31.000000000 Z
+- name: content-type
+  description: Create and parse HTTP Content-Type header
+  package_url: https://www.npmjs.com/content-type
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17887/default_788839e3786ca1ccd5da69cc550f25d0129fb180.png
+  detection_source: node_modules/express/node_modules/connect/node_modules/formidable/package.json
+  last_updated_by: João Correia
+  last_updated_on: 2020-02-24 15:31:31.000000000 Z
+- name: cookie
+  description: HTTP server cookie parsing and serialization
+  package_url: https://www.npmjs.com/cookie
+  version: 0.0.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16660/default_e654289254bcb9b55e3dca992739e962dc0c7297.png
+  detection_source_url: node_modules/express/node_modules/connect/package.json
+  detection_source: node_modules/express/package.json
+  last_updated_by: João Correia
+  last_updated_on: 2020-02-24 15:31:31.000000000 Z
+- name: cookie-signature
+  description: Sign and unsign cookies
+  package_url: https://www.npmjs.com/cookie-signature
+  version: 0.0.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18266/default_7f9b12bbc55824c0dff067aa1286b7d2699852f9.png
+  detection_source_url: node_modules/express/node_modules/connect/package.json
+  detection_source: node_modules/express/package.json
+  last_updated_by: João Correia
+  last_updated_on: 2020-02-24 15:31:31.000000000 Z
+  vulnerabilities:
+  - name: cookie-signature Timing Attack
+    cve_id: CVE-2016-1000236
+    cve_url: https://github.com/advisories/GHSA-92vm-wfm5-mxvv
+    detected_date: Aug 22
+    severity: moderate
+    first_patched: 1.0.4
+- name: cookies
+  description: Cookies, optionally signed using Keygrip
+  package_url: https://www.npmjs.com/cookies
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17767/default_a53af9d6b5a4c8c6e8d5f8494d76a8d2efd3e660.png
+  detection_source: node_modules/express/node_modules/cookie/package.json
+  last_updated_by: João Correia
+  last_updated_on: 2020-02-24 15:31:31.000000000 Z
+- name: copy
+  description: Copy files or directories using globs
+  package_url: https://www.npmjs.com/copy
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17538/default_1922051267fa78212ab6eb1238cdf6aab8771493.png
+  detection_source: node_modules/socket.io/package.json
+  last_updated_by: João Correia
+  last_updated_on: 2020-02-24 15:31:31.000000000 Z
+- name: crc
+  description: Module for calculating Cyclic Redundancy Check
+  package_url: https://www.npmjs.com/crc
+  version: 0.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17810/default_2a0f136cfb588dd9053268b73a18a953e8d65590.png
+  detection_source_url: node_modules/express/node_modules/connect/package.json
+  detection_source: node_modules/express/package.json
+  last_updated_by: João Correia
+  last_updated_on: 2020-02-24 15:31:31.000000000 Z
+- name: crypto
+  description: This package is no longer supported and has been deprecated
+  package_url: https://www.npmjs.com/crypto
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16387/default_000ae7ee50b56e0ecdb07d3662d4b3fa7f4cbdcc.png
+  detection_source: node_modules/pwd/package.json
+  last_updated_by: João Correia
+  last_updated_on: 2020-02-24 15:31:31.000000000 Z
+- name: css
+  description: CSS parser / stringifier
+  package_url: https://www.npmjs.com/css
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17017/default_824835a71140f223a333a5e10225c10368f12857.png
+  detection_source: node_modules/socket.io/node_modules/socket.io-client/node_modules/uglify-js/package.json
+  last_updated_by: João Correia
+  last_updated_on: 2020-02-24 15:31:31.000000000 Z
+- name: d3
+  description: Data-Driven Documents
+  package_url: https://www.npmjs.com/d3
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16224/default_fef27d1523ac1844fc00e83e47bddd8898ff8a89.png
+  detection_source: node_modules/now/package.json
+  last_updated_by: João Correia
+  last_updated_on: 2020-02-24 15:31:31.000000000 Z
+- name: debug
+  description: Small debugging utility
+  package_url: https://www.npmjs.com/debug
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15852/default_a2f722724df977d0f7752839e5d8845ab41f69d5.png
+  detection_source: node_modules/socket.io/node_modules/socket.io-client/node_modules/ws/package.json
+  last_updated_by: João Correia
+  last_updated_on: 2020-02-24 15:31:31.000000000 Z
+- name: defaults
+  description: Merge single level defaults over a config object
+  package_url: https://www.npmjs.com/defaults
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17830/default_dc034f75f103514d23b4d1a7fe578415d63216ee.png
+  detection_source: node_modules/socket.io/node_modules/socket.io-client/package.json
+  last_updated_by: João Correia
+  last_updated_on: 2020-02-24 15:31:31.000000000 Z
+- name: defined
+  description: Return the first argument that is `!== undefined`
+  package_url: https://www.npmjs.com/defined
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18095/image.png
+  detection_source: node_modules/socket.io/node_modules/socket.io-client/node_modules/ws/node_modules/commander/package.json
+  last_updated_by: João Correia
+  last_updated_on: 2020-02-24 15:31:31.000000000 Z
+- name: del
+  description: Delete files and directories
+  package_url: https://www.npmjs.com/del
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15907/default_a582b9fecca65f37fe68520c8f84d3bcae35db24.png
+  detection_source: node_modules/socket.io/node_modules/socket.io-client/package.json
+  last_updated_by: João Correia
+  last_updated_on: 2020-02-24 15:31:31.000000000 Z
+- name: delay
+  description: Delay a promise a specified amount of time
+  package_url: https://www.npmjs.com/delay
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16897/default_143d92b1fc944107cf48a3ab42a2a347bf3d91b5.png
+  detection_source: node_modules/socket.io/node_modules/socket.io-client/package.json
+  last_updated_by: João Correia
+  last_updated_on: 2020-02-24 15:31:31.000000000 Z
+- name: diff
+  description: A javascript text diff implementation
+  package_url: https://www.npmjs.com/diff
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16509/default_0a704f5fac0bffcf529c9a61658d0b9ddbf7504e.png
+  detection_source: node_modules/socket.io/node_modules/socket.io-client/node_modules/ws/package.json
+  last_updated_by: João Correia
+  last_updated_on: 2020-02-24 15:31:31.000000000 Z
+- name: documentation
+  description: A documentation generator
+  package_url: https://www.npmjs.com/documentation
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16311/default_f130429ee56156823c8c6e94da6fb7aa07f07ba5.png
+  detection_source: node_modules/socket.io/package.json
+  last_updated_by: João Correia
+  last_updated_on: 2020-02-24 15:31:31.000000000 Z
+- name: download
+  description: Download and extract files
+  package_url: https://www.npmjs.com/download
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16861/default_89212c2fcd02701c275bb6c77ae7dd538cd4b9f2.png
+  detection_source: node_modules/socket.io/node_modules/socket.io-client/node_modules/active-x-obfuscator/package.json
+  last_updated_by: João Correia
+  last_updated_on: 2020-02-24 15:31:31.000000000 Z
+- name: dox
+  description: Markdown / JSdoc documentation generator
+  package_url: https://www.npmjs.com/dox
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17560/default_3c6aa8b4297562bfc2a090966a5bc0fad1d0b678.png
+  detection_source: node_modules/express/node_modules/connect/package.json
+  last_updated_by: João Correia
+  last_updated_on: 2020-02-24 15:31:31.000000000 Z
+- name: dva
+  description: React and redux based, lightweight and elm-style framework
+  package_url: https://www.npmjs.com/dva
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18248/default_1eedbed1139f856cf8b6a9bb5ecca3ae386b8bde.png
+  detection_source: node_modules/socket.io/node_modules/socket.io-client/node_modules/uglify-js/package.json
+  last_updated_by: João Correia
+  last_updated_on: 2020-02-24 15:31:31.000000000 Z
+- name: ejs
+  description: Embedded JavaScript templates
+  package_url: https://www.npmjs.com/ejs
+  version: 0.0.1
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16045/default_a9b6ac3c2fe43713f9a8e43d4668d0352ad0d247.png
+  detection_source_url: package.json
+  detection_source: package.json
+  last_updated_by: João Correia
+  last_updated_on: 2020-02-24 15:31:31.000000000 Z
+  vulnerabilities:
+  - name: ejs template injection vulnerability
+    cve_id: CVE-2022-29078
+    cve_url: https://github.com/advisories/GHSA-phwq-j96m-2c2q
+    detected_date: Apr 28
+    severity: critical
+    first_patched: 3.1.7
+  - name: ejs is vulnerable to remote code execution due to weak input validation
+    cve_id: CVE-2017-1000228
+    cve_url: https://github.com/advisories/GHSA-3w5v-p54c-f74x
+    detected_date: Aug 22
+    severity: critical
+    first_patched: 2.5.5
+  - name: ejs vulnerable to DoS due to weak input validation
+    cve_id: CVE-2017-1000189
+    cve_url: https://github.com/advisories/GHSA-6x77-rpqf-j6mw
+    detected_date: Aug 22
+    severity: high
+    first_patched: 2.5.5
+  - name: mde ejs vulnerable to XSS
+    cve_id: CVE-2017-1000188
+    cve_url: https://github.com/advisories/GHSA-hwcf-pp87-7x6p
+    detected_date: Aug 22
+    severity: moderate
+    first_patched: 2.5.5
+- name: esm
+  description: Tomorrow's ECMAScript modules today!
+  package_url: https://www.npmjs.com/esm
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16371/default_17385ab3aa01d4c295c08d4a9736140df691c5e9.png
+  detection_source: node_modules/socket.io/node_modules/redis/package.json
+  last_updated_by: João Correia
+  last_updated_on: 2020-02-24 15:31:31.000000000 Z
+- name: etag
+  description: Create simple HTTP ETags
+  package_url: https://www.npmjs.com/etag
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17743/default_552addbbff67ec0ef62ce1d229e112d14ca818f5.png
+  detection_source: node_modules/express/node_modules/fresh/package.json
+  last_updated_by: João Correia
+  last_updated_on: 2020-02-24 15:31:31.000000000 Z
+- name: events
+  description: Node's event emitter for all engines
+  package_url: https://www.npmjs.com/events
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16435/default_aa91da3cee4d961f0eea8ca5de77f399ec7ec794.png
+  detection_source: node_modules/socket.io/package.json
+  last_updated_by: João Correia
+  last_updated_on: 2020-02-24 15:31:31.000000000 Z
+- name: expect
+  description: This package exports the `expect` function used in [Jest]
+  package_url: https://www.npmjs.com/expect
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16110/default_efe4f0184d007a28e793d89a59e058b742bc9177.png
+  detection_source: node_modules/socket.io/node_modules/socket.io-client/package.json
+  last_updated_by: João Correia
+  last_updated_on: 2020-02-24 15:31:31.000000000 Z
+- name: expect.js
+  description: BDD style assertions for node and the browser
+  package_url: https://www.npmjs.com/expect.js
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16029/default_261820f5687b4c88a3e8f95c71b5e8dccd34c1d7.png
+  detection_source: testAndroidSocket/node_modules/socket.io/node_modules/socket.io-client/node_modules/ws/package.json
+  last_updated_by: João Correia
+  last_updated_on: 2020-02-24 15:31:31.000000000 Z
+- name: expo
+  description: The Expo SDK
+  package_url: https://www.npmjs.com/expo
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17801/default_78858facb60c08d15198eb69a6c7f48463f2c09f.png
+  detection_source: node_modules/socket.io/node_modules/socket.io-client/package.json
+  last_updated_by: João Correia
+  last_updated_on: 2020-02-24 15:31:31.000000000 Z
+- name: express
+  description: Fast, unopinionated, minimalist web framework
+  package_url: https://www.npmjs.com/express
+  version: 3.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15818/default_db4a7791d2f1174547374b9b587bc10fec088a5a.png
+  detection_source_url: node_modules/socket.io/node_modules/socket.io-client/node_modules/ws/examples/serverstats-express_3/package.json
+  detection_source: testAndroidSocket/node_modules/socket.io/node_modules/socket.io-client/package.json
+  last_updated_by: João Correia
+  last_updated_on: 2020-02-24 15:31:31.000000000 Z
+  vulnerabilities:
+  - name: qs vulnerable to Prototype Pollution
+    cve_id: CVE-2022-24999
+    cve_url: https://github.com/advisories/GHSA-hrpp-h998-j3pp
+    detected_date: Dec 7
+    severity: high
+    first_patched: 4.17.3
+  - name: No Charset in Content-Type Header in express
+    cve_id: CVE-2014-6393
+    cve_url: https://github.com/advisories/GHSA-gpvr-g6gh-9mc2
+    detected_date: Aug 22
+    severity: moderate
+    first_patched: 3.11.0
+- name: expresso
+  description: TDD framework, light-weight, fast, CI-friendly
+  package_url: https://www.npmjs.com/expresso
+  version: 0.9.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17646/default_b06ec1ccf403dac1459596b8571a4fb6a46577e1.png
+  detection_source_url: node_modules/i18n/package.json
+  detection_source: testAndroidSocket/node_modules/socket.io/package.json
+  last_updated_by: João Correia
+  last_updated_on: 2020-02-24 15:31:31.000000000 Z
+- name: extend
+  description: Port of jQuery.extend for node.js and the browser
+  package_url: https://www.npmjs.com/extend
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16161/default_77b54a203c743d16eddb6b6390cba17218454fa0.png
+  detection_source: node_modules/socket.io/node_modules/socket.io-client/node_modules/active-x-obfuscator/node_modules/zeparser/package.json
+  last_updated_by: João Correia
+  last_updated_on: 2020-02-24 15:31:31.000000000 Z
+- name: ffi
+  description: A foreign function interface
+  package_url: https://www.npmjs.com/ffi
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17812/default_2a0f136cfb588dd9053268b73a18a953e8d65590.png
+  detection_source: node_modules/socket.io/node_modules/socket.io-client/node_modules/uglify-js/package.json
+  last_updated_by: João Correia
+  last_updated_on: 2020-02-24 15:31:31.000000000 Z
+- name: findit
+  description: Walk a directory tree recursively with events
+  package_url: https://www.npmjs.com/findit
+  version: 0.1.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18071/image.png
+  detection_source_url: node_modules/express/node_modules/connect/node_modules/formidable/package.json
+  detection_source: node_modules/express/node_modules/connect/node_modules/formidable/package.json
+  last_updated_by: João Correia
+  last_updated_on: 2020-02-24 15:31:31.000000000 Z
+- name: flow
+  description: Flow-JS makes it easy to express multi-step asynchronous logic in Node
+    or the browser
+  package_url: https://www.npmjs.com/flow
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17844/default_99a4718ac3f2beccb28962b727b0a38010c9b496.png
+  detection_source: node_modules/socket.io/node_modules/socket.io-client/node_modules/uglify-js/package.json
+  last_updated_by: João Correia
+  last_updated_on: 2020-02-24 15:31:31.000000000 Z
+- name: form-data
+  description: A library to create readable "multipart/form-data" streams
+  package_url: https://www.npmjs.com/form-data
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16415/default_aa91da3cee4d961f0eea8ca5de77f399ec7ec794.png
+  detection_source: node_modules/express/node_modules/connect/node_modules/formidable/package.json
+  last_updated_by: João Correia
+  last_updated_on: 2020-02-24 15:31:31.000000000 Z
+- name: formidable
+  description: A node.js module for parsing form data
+  package_url: https://www.npmjs.com/formidable
+  version: 1.0.11
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16761/default_c11d90814ded8fcd305b22fdc42b42a3111f1f6d.png
+  detection_source_url: node_modules/express/node_modules/connect/package.json
+  detection_source: node_modules/express/node_modules/connect/package.json
+  last_updated_by: João Correia
+  last_updated_on: 2020-02-24 15:31:31.000000000 Z
+- name: fresh
+  description: HTTP response freshness testing
+  package_url: https://www.npmjs.com/fresh
+  version: 0.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18037/default_d8756eea8d13a271fb42437ffb36c0a116d72925.png
+  detection_source_url: node_modules/express/node_modules/connect/package.json
+  detection_source: node_modules/express/package.json
+  last_updated_by: João Correia
+  last_updated_on: 2020-02-24 15:31:31.000000000 Z
+  vulnerabilities:
+  - name: Regular Expression Denial of Service in fresh
+    cve_id: CVE-2017-16119
+    cve_url: https://github.com/advisories/GHSA-9qj9-36jm-prpv
+    detected_date: Aug 22
+    severity: high
+    first_patched: 0.5.2
+- name: fs
+  description: This package name is not currently in use, but was formerly occupied
+    by another package
+  package_url: https://www.npmjs.com/fs
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16098/default_63a34654baee757196ddff2457bd1c9a0dfb7287.png
+  detection_source: node_modules/socket.io/node_modules/socket.io-client/node_modules/active-x-obfuscator/node_modules/zeparser/package.json
+  last_updated_by: João Correia
+  last_updated_on: 2020-02-24 15:31:31.000000000 Z
+- name: glob
+  description: A little globber
+  package_url: https://www.npmjs.com/glob
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15875/default_7c39a83d4acd952df89b1ebfdb94c8646324fbf1.png
+  detection_source: node_modules/socket.io/node_modules/socket.io-client/package.json
+  last_updated_by: João Correia
+  last_updated_on: 2020-02-24 15:31:31.000000000 Z
+- name: global
+  description: Require global variables
+  package_url: https://www.npmjs.com/global
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16772/default_661bbd7f9556b6c5c0b8be11cd13e1813fc5c977.png
+  detection_source: node_modules/socket.io/node_modules/socket.io-client/package.json
+  last_updated_by: João Correia
+  last_updated_on: 2020-02-24 15:31:31.000000000 Z
+- name: gm
+  description: GraphicsMagick and ImageMagick for node.js
+  package_url: https://www.npmjs.com/gm
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16804/default_55e3ea76a7929df1b71c5ea0c9b4130cc87323a4.png
+  detection_source: node_modules/socket.io/package.json
+  last_updated_by: João Correia
+  last_updated_on: 2020-02-24 15:31:31.000000000 Z
+- name: good
+  description: Server and process monitoring plugin
+  package_url: https://www.npmjs.com/good
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18704/default_b7722b4e5521f0dd20a42437bb338a5e2c190441.png
+  detection_source: node_modules/socket.io/node_modules/socket.io-client/node_modules/uglify-js/package.json
+  last_updated_by: João Correia
+  last_updated_on: 2020-02-24 15:31:31.000000000 Z
+- name: got
+  description: Human-friendly and powerful HTTP request library for Node.js
+  package_url: https://www.npmjs.com/got
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16258/default_ab17554b7e80af3d234b14168ed61e75d43f8eee.png
+  detection_source: node_modules/socket.io/node_modules/socket.io-client/node_modules/ws/node_modules/commander/package.json
+  last_updated_by: João Correia
+  last_updated_on: 2020-02-24 15:31:31.000000000 Z
+- name: has
+  description: Object.prototype.hasOwnProperty.call shortcut
+  package_url: https://www.npmjs.com/has
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18039/image.png
+  detection_source: node_modules/socket.io/package.json
+  last_updated_by: João Correia
+  last_updated_on: 2020-02-24 15:31:31.000000000 Z
+- name: hat
+  description: Generate random IDs and avoid collisions
+  package_url: https://www.npmjs.com/hat
+  license: MIT,X11
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18457/default_1ee30bb84bfc1558e9a2c7e21dfb728addee0444.png
+  detection_source: node_modules/socket.io/package.json
+  last_updated_by: João Correia
+  last_updated_on: 2020-02-24 15:31:31.000000000 Z
+- name: he
+  description: A robust HTML entities encoder/decoder with full Unicode support
+  package_url: https://www.npmjs.com/he
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17059/default_31b594d049ba66ce98c924544ccc4329a3f2d530.png
+  detection_source: node_modules/socket.io/package.json
+  last_updated_by: João Correia
+  last_updated_on: 2020-02-24 15:31:31.000000000 Z
+- name: hiredis
+  description: Wrapper for reply processing code in hiredis
+  package_url: https://www.npmjs.com/hiredis
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17276/default_116e98e237458e603feb81cfbf628c00544be692.png
+  detection_source: node_modules/socket.io/node_modules/redis/package.json
+  last_updated_by: João Correia
+  last_updated_on: 2020-02-24 15:31:31.000000000 Z
+- name: http
+  package_url: https://www.npmjs.com/http
+  license: BSD-2-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16874/default_768abdabb94806c932ace6262b6bbc8241907245.png
+  detection_source: node_modules/socket.io/package.json
+  last_updated_by: João Correia
+  last_updated_on: 2020-02-24 15:31:31.000000000 Z
+- name: https
+  description: Https mediation
+  package_url: https://www.npmjs.com/https
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17546/default_8d32936cb624bf7f51657c1540463db0a3c4106e.png
+  detection_source: node_modules/socket.io/package.json
+  last_updated_by: João Correia
+  last_updated_on: 2020-02-24 15:31:31.000000000 Z
+- name: i
+  description: Custom inflections for nodejs
+  package_url: https://www.npmjs.com/i
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17326/default_66bbb2a75a0234b1bfceaa99b8e82825fa7b8284.png
+  detection_source: node_modules/socket.io/package.json
+  last_updated_by: João Correia
+  last_updated_on: 2020-02-24 15:31:31.000000000 Z
+- name: i18n
+  description: Lightweight translation module with dynamic json storage
+  package_url: https://www.npmjs.com/i18n
+  version: 0.3.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17931/default_72dbba22ca96f25f78f55f8ea5393222efca5494.png
+  detection_source_url: package.json
+  detection_source: package.json
+  last_updated_by: João Correia
+  last_updated_on: 2020-02-24 15:31:31.000000000 Z
+- name: ignore
+  description: Ignore is a manager and filter for .gitignore rules
+  package_url: https://www.npmjs.com/ignore
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17744/default_b527ab15473225ca7c2e9b197c9726e92ac97de8.png
+  detection_source: node_modules/socket.io/node_modules/socket.io-client/node_modules/uglify-js/package.json
+  last_updated_by: João Correia
+  last_updated_on: 2020-02-24 15:31:31.000000000 Z
+- name: immer
+  description: Create your next immutable state by mutating the current one
+  package_url: https://www.npmjs.com/immer
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16937/default_7b9968788548874538c601457e8dcd9c74bd2051.png
+  detection_source: node_modules/express/node_modules/connect/package.json
+  last_updated_by: João Correia
+  last_updated_on: 2020-02-24 15:31:31.000000000 Z
+- name: ini
+  description: An ini encoder/decoder for node
+  package_url: https://www.npmjs.com/ini
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16594/default_ebd83b4f0415be108d977ea72558b13fd7c5283d.png
+  detection_source: node_modules/socket.io/package.json
+  last_updated_by: João Correia
+  last_updated_on: 2020-02-24 15:31:31.000000000 Z
+- name: ink
+  description: React for CLI
+  package_url: https://www.npmjs.com/ink
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17838/default_abcc2eea82e62d338a749f334647866df76198b8.png
+  detection_source: node_modules/socket.io/package.json
+  last_updated_by: João Correia
+  last_updated_on: 2020-02-24 15:31:31.000000000 Z
+- name: intern
+  description: Intern. A next-generation code testing stack for JavaScript
+  package_url: https://www.npmjs.com/intern
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18437/default_7c0bc528b9c47f5cc09b0c87021a81c8d72b33f3.png
+  detection_source: node_modules/socket.io/node_modules/socket.io-client/node_modules/uglify-js/package.json
+  last_updated_by: João Correia
+  last_updated_on: 2020-02-24 15:31:31.000000000 Z
+- name: ip
+  description: "[![]"
+  package_url: https://www.npmjs.com/ip
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16483/default_fc6e1fc17e404d936593b5b901d67abb3386daa3.png
+  detection_source: node_modules/socket.io/package.json
+  last_updated_by: João Correia
+  last_updated_on: 2020-02-24 15:31:31.000000000 Z
+- name: is
+  description: The definitive JavaScript type testing library
+  package_url: https://www.npmjs.com/is
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17544/default_e665c133253b5cd434c1991167ebd25dc68f1c17.png
+  detection_source: node_modules/socket.io/package.json
+  last_updated_by: João Correia
+  last_updated_on: 2020-02-24 15:31:31.000000000 Z
+- name: is-ci
+  description: Detect if the current environment is a CI server
+  package_url: https://www.npmjs.com/is-ci
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18090/image.png
+  detection_source: node_modules/socket.io/node_modules/socket.io-client/node_modules/ws/package.json
+  last_updated_by: João Correia
+  last_updated_on: 2020-02-24 15:31:31.000000000 Z
+- name: jade
+  description: A clean
+  package_url: https://www.npmjs.com/jade
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16163/default_73326c44fbfa7369fd17573edb113e5d849468bc.png
+  detection_source: testAndroidSocket/node_modules/socket.io/node_modules/socket.io-client/package.json
+  last_updated_by: João Correia
+  last_updated_on: 2020-02-24 15:31:31.000000000 Z
+- name: joi
+  description: Object schema validation
+  package_url: https://www.npmjs.com/joi
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16173/default_351a89f21bfb241e8dabeb1444cf56f529948708.png
+  detection_source: node_modules/socket.io/package.json
+  last_updated_by: João Correia
+  last_updated_on: 2020-02-24 15:31:31.000000000 Z
+- name: json
+  description: A 'json' command for massaging and processing JSON on the command line
+  package_url: https://www.npmjs.com/json
+  license: Other
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17859/default_dc034f75f103514d23b4d1a7fe578415d63216ee.png
+  detection_source: node_modules/socket.io/package.json
+  last_updated_by: João Correia
+  last_updated_on: 2020-02-24 15:31:31.000000000 Z
+- name: jsonp
+  description: A sane JSONP implementation
+  package_url: https://www.npmjs.com/jsonp
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18044/image.png
+  detection_source: node_modules/socket.io/node_modules/socket.io-client/package.json
+  last_updated_by: João Correia
+  last_updated_on: 2020-02-24 15:31:31.000000000 Z
+- name: lab
+  description: Test utility
+  package_url: https://www.npmjs.com/lab
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16367/default_22cf6cee54c697b5a223902962cc57a55ee80be9.png
+  detection_source: node_modules/socket.io/package.json
+  last_updated_by: João Correia
+  last_updated_on: 2020-02-24 15:31:31.000000000 Z
+- name: level
+  description: Fast &amp; simple storage - a Node.js-style LevelDB wrapper
+  package_url: https://www.npmjs.com/level
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16948/default_3740a7ec4487cb5332a821b353451c008aa3d4ae.png
+  detection_source: node_modules/socket.io/node_modules/socket.io-client/node_modules/uglify-js/package.json
+  last_updated_by: João Correia
+  last_updated_on: 2020-02-24 15:31:31.000000000 Z
+- name: log
+  description: Universal pluggable logging utility
+  package_url: https://www.npmjs.com/log
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17960/default_e0b07170ab7d7ea66954ff35fdeaae5255c4c0aa.png
+  detection_source: node_modules/socket.io/package.json
+  last_updated_by: João Correia
+  last_updated_on: 2020-02-24 15:31:31.000000000 Z
+- name: long
+  description: A Long class for representing a 64-bit two's-complement integer value
+  package_url: https://www.npmjs.com/long
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17418/default_bdd3cbd2ffd904a2fe09048437badf6984450361.png
+  detection_source: node_modules/socket.io/package.json
+  last_updated_by: João Correia
+  last_updated_on: 2020-02-24 15:31:31.000000000 Z
+- name: markdown
+  description: A sensible Markdown parser for javascript
+  package_url: https://www.npmjs.com/markdown
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17001/default_0e6669b56ffe7d68d8118eb8e85d024215fd5906.png
+  detection_source: node_modules/express/package.json
+  last_updated_by: João Correia
+  last_updated_on: 2020-02-24 15:31:31.000000000 Z
+- name: md5
+  description: Js function for hashing messages with MD5
+  package_url: https://www.npmjs.com/md5
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16342/default_c47f6a56d74fae4d4404d77067b2fa35da6f1924.png
+  detection_source: node_modules/express/node_modules/connect/node_modules/formidable/package.json
+  last_updated_by: João Correia
+  last_updated_on: 2020-02-24 15:31:31.000000000 Z
+- name: meow
+  description: CLI app helper
+  package_url: https://www.npmjs.com/meow
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16181/default_1f3a2fc7d882e29a43394ecdf491b8989ea3f0fa.png
+  detection_source: node_modules/express/node_modules/cookie/package.json
+  last_updated_by: João Correia
+  last_updated_on: 2020-02-24 15:31:31.000000000 Z
+- name: merge
+  description: Merge multiple objects into one, optionally creating a new cloned object
+  package_url: https://www.npmjs.com/merge
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16534/default_2d1a470f86144a45b7e94185b9a5aecb5ebb69f4.png
+  detection_source: node_modules/socket.io/package.json
+  last_updated_by: João Correia
+  last_updated_on: 2020-02-24 15:31:31.000000000 Z
+- name: methods
+  description: HTTP methods that node supports
+  package_url: https://www.npmjs.com/methods
+  version: 0.0.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17145/default_0ffbf6d9ee2940fe94be8424fd9afff068fff458.png
+  detection_source_url: node_modules/express/package.json
+  detection_source: node_modules/socket.io/node_modules/socket.io-client/package.json
+  last_updated_by: João Correia
+  last_updated_on: 2020-02-24 15:31:31.000000000 Z
+- name: micro
+  description: Asynchronous HTTP microservices
+  package_url: https://www.npmjs.com/micro
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17573/default_4627bd50a25f9a490243683fabcc5c97d552aa2a.png
+  detection_source: node_modules/socket.io/package.json
+  last_updated_by: João Correia
+  last_updated_on: 2020-02-24 15:31:31.000000000 Z
+- name: microtime
+  description: Get the current time in microseconds
+  package_url: https://www.npmjs.com/microtime
+  version: 0.1.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17626/default_e98b11d23d67b728bd1f3e02eba62d97a55febbd.png
+  detection_source_url: node_modules/socket.io/package.json
+  detection_source: testAndroidSocket/node_modules/socket.io/package.json
+  last_updated_by: João Correia
+  last_updated_on: 2020-02-24 15:31:31.000000000 Z
+- name: mime
+  description: A comprehensive library for mime-type mapping
+  package_url: https://www.npmjs.com/mime
+  version: 1.2.6
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16182/default_ac04a744873b460c4ef30a7450ed0c83223640ab.png
+  detection_source_url: node_modules/express/node_modules/send/package.json
+  detection_source: node_modules/express/node_modules/send/package.json
+  last_updated_by: João Correia
+  last_updated_on: 2020-02-24 15:31:31.000000000 Z
+  vulnerabilities:
+  - name: mime Regular Expression Denial of Service when MIME lookup performed on
+      untrusted user input
+    cve_id: CVE-2017-16138
+    cve_url: https://github.com/advisories/GHSA-wrvr-8mpx-r7pp
+    detected_date: Aug 22
+    severity: high
+    first_patched: 1.4.1
+- name: minify
+  description: Minifier of js, css, html and img
+  package_url: https://www.npmjs.com/minify
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18688/default_97b689c91e523aad5ccec45c3b88d1f9b7cb4b6f.png
+  detection_source: node_modules/socket.io/node_modules/socket.io-client/node_modules/uglify-js/package.json
+  last_updated_by: João Correia
+  last_updated_on: 2020-02-24 15:31:31.000000000 Z
+- name: mitt
+  description: Tiny 200b functional Event Emitter / pubsub
+  package_url: https://www.npmjs.com/mitt
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18719/default_88ba18730de3c1cd8c358a23343f72c83971e808.png
+  detection_source: node_modules/socket.io/package.json
+  last_updated_by: João Correia
+  last_updated_on: 2020-02-24 15:31:31.000000000 Z
+- name: mkdirp
+  description: Recursively mkdir, like `mkdir -p`
+  package_url: https://www.npmjs.com/mkdirp
+  version: 0.3.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15881/default_6743ba96cf149a3c3c68a185199f9705d6eff80e.png
+  detection_source_url: node_modules/express/package.json
+  detection_source: node_modules/express/package.json
+  last_updated_by: João Correia
+  last_updated_on: 2020-02-24 15:31:31.000000000 Z
+- name: most
+  description: Monadic streams
+  package_url: https://www.npmjs.com/most
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18712/default_7ae3192ab02ed4c0f8eb62f145e160fed70e5ac8.png
+  detection_source: node_modules/socket.io/node_modules/socket.io-client/node_modules/uglify-js/package.json
+  last_updated_by: João Correia
+  last_updated_on: 2020-02-24 15:31:31.000000000 Z
+- name: ms
+  description: Tiny millisecond conversion utility
+  package_url: https://www.npmjs.com/ms
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16565/default_536789d2630ed352dc721a1c915ab456b7660201.png
+  detection_source: node_modules/socket.io/package.json
+  last_updated_by: João Correia
+  last_updated_on: 2020-02-24 15:31:31.000000000 Z
+- name: must
+  description: Testing and assertion library with friendly BDD syntax — awesome.must.be.true
+  package_url: https://www.npmjs.com/must
+  license: Other
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17512/default_e5adc22c59a44962e41dfaec51edeb42c083f2f4.png
+  detection_source: node_modules/socket.io/node_modules/socket.io-client/node_modules/ws/node_modules/commander/package.json
+  last_updated_by: João Correia
+  last_updated_on: 2020-02-24 15:31:31.000000000 Z
+- name: nan
+  description: 'Native Abstractions for Node.js: C++ header for Node 0.8 -&gt; 11
+    compatibility'
+  package_url: https://www.npmjs.com/nan
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16178/default_0d450fcd03a0343bb89c9b7c3a8cf092daa8c3b9.png
+  detection_source: node_modules/socket.io/node_modules/socket.io-client/node_modules/uglify-js/package.json
+  last_updated_by: João Correia
+  last_updated_on: 2020-02-24 15:31:31.000000000 Z
+- name: nconf
+  description: Hierarchical node.js configuration with files
+  package_url: https://www.npmjs.com/nconf
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16591/default_50c9ed1615a25628505ab53def64d82450ced26b.png
+  detection_source: node_modules/i18n/package.json
+  last_updated_by: João Correia
+  last_updated_on: 2020-02-24 15:31:31.000000000 Z
+- name: node
+  description: Node
+  package_url: https://www.npmjs.com/node
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17983/default_fc5f66cf44024e173fd07c415d4f30ca58b4cbad.png
+  detection_source: node_modules/socket.io/package.json
+  last_updated_by: João Correia
+  last_updated_on: 2020-02-24 15:31:31.000000000 Z
+- name: node-gyp
+  description: Node.js native addon build tool
+  package_url: https://www.npmjs.com/node-gyp
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16669/default_6dad4e42e12d47cc6edfbdea036dae12f91abebb.png
+  detection_source: node_modules/now/node_modules/node-proxy/package.json
+  last_updated_by: João Correia
+  last_updated_on: 2020-02-24 15:31:31.000000000 Z
+- name: nodeunit
+  description: Easy unit testing for node.js and the browser
+  package_url: https://www.npmjs.com/nodeunit
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16216/default_180418c6fa6cdb8f7a3500f84a8fedb884fcb3fa.png
+  detection_source: node_modules/gettext/deps/nodeunit/package.json
+  last_updated_by: João Correia
+  last_updated_on: 2020-02-24 15:31:31.000000000 Z
+- name: np
+  description: A better `npm publish`
+  package_url: https://www.npmjs.com/np
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16247/default_5dfc1810d0882ab844578a326bb8bf19e45e7227.png
+  detection_source: node_modules/socket.io/package.json
+  last_updated_by: João Correia
+  last_updated_on: 2020-02-24 15:31:31.000000000 Z
+- name: npm
+  description: A package manager for JavaScript
+  package_url: https://www.npmjs.com/npm
+  license: Artistic-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16105/default_5a461d436012a0c4024534aaba303dcdb0297d24.png
+  detection_source: node_modules/socket.io/package.json
+  last_updated_by: João Correia
+  last_updated_on: 2020-02-24 15:31:31.000000000 Z
+- name: nsp
+  description: The Node Security
+  package_url: https://www.npmjs.com/nsp
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16235/default_180418c6fa6cdb8f7a3500f84a8fedb884fcb3fa.png
+  detection_source: node_modules/socket.io/package.json
+  last_updated_by: João Correia
+  last_updated_on: 2020-02-24 15:31:31.000000000 Z
+- name: nyc
+  description: The Istanbul command line interface
+  package_url: https://www.npmjs.com/nyc
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15837/default_1d65e37e65b7f80761374f0202776043277d505d.png
+  detection_source: node_modules/socket.io/node_modules/socket.io-client/node_modules/ws/package.json
+  last_updated_by: João Correia
+  last_updated_on: 2020-02-24 15:31:31.000000000 Z
+- name: ol
+  description: OpenLayers mapping library
+  package_url: https://www.npmjs.com/ol
+  license: BSD-2-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18695/default_ba22650903e999378ab35f8093d2d808f0a46039.png
+  detection_source: node_modules/socket.io/package.json
+  last_updated_by: João Correia
+  last_updated_on: 2020-02-24 15:31:31.000000000 Z
+- name: once
+  description: Run a function exactly one time
+  package_url: https://www.npmjs.com/once
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16859/default_884deeafc4d4b680b6d9cb7e3759ba2db025e8e7.png
+  detection_source: node_modules/socket.io/node_modules/socket.io-client/package.json
+  last_updated_by: João Correia
+  last_updated_on: 2020-02-24 15:31:31.000000000 Z
+- name: open
+  description: Open stuff like URLs, files, executables. Cross-platform
+  package_url: https://www.npmjs.com/open
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16245/default_5dfc1810d0882ab844578a326bb8bf19e45e7227.png
+  detection_source: node_modules/socket.io/node_modules/socket.io-client/node_modules/xmlhttprequest/package.json
+  last_updated_by: João Correia
+  last_updated_on: 2020-02-24 15:31:31.000000000 Z
+- name: ora
+  description: Elegant terminal spinner
+  package_url: https://www.npmjs.com/ora
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15937/default_ac622bc364a601d766b9a6f6039f191492f54d65.png
+  detection_source: node_modules/socket.io/node_modules/socket.io-client/package.json
+  last_updated_by: João Correia
+  last_updated_on: 2020-02-24 15:31:31.000000000 Z
+- name: os
+  description: NodeJS Core Module Extended
+  package_url: https://www.npmjs.com/os
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17784/default_b760b4f955878b0055c02bde0608c2f01e7d4f4f.png
+  detection_source: node_modules/socket.io/package.json
+  last_updated_by: João Correia
+  last_updated_on: 2020-02-24 15:31:31.000000000 Z
+- name: pad
+  description: Left and right string padding
+  package_url: https://www.npmjs.com/pad
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18387/default_443ead48d03f7b1fc57a05db4ff2c559c3e54f5e.png
+  detection_source: node_modules/socket.io/node_modules/socket.io-client/node_modules/uglify-js/package.json
+  last_updated_by: João Correia
+  last_updated_on: 2020-02-24 15:31:31.000000000 Z
+- name: parse
+  description: The Parse JavaScript SDK
+  package_url: https://www.npmjs.com/parse
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18631/default_9435962787d899b43c107b26a450d4a5a0784dc8.png
+  detection_source: node_modules/socket.io/node_modules/socket.io-client/node_modules/ws/package.json
+  last_updated_by: João Correia
+  last_updated_on: 2020-02-24 15:31:31.000000000 Z
+- name: path
+  description: Node.JS path module
+  package_url: https://www.npmjs.com/path
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16082/default_924b66c04aa848a4028c1a5753a23dae0f835f86.png
+  detection_source: node_modules/socket.io/node_modules/socket.io-client/node_modules/ws/package.json
+  last_updated_by: João Correia
+  last_updated_on: 2020-02-24 15:31:31.000000000 Z
+- name: pg
+  description: PostgreSQL client - pure javascript &amp; libpq with the same API
+  package_url: https://www.npmjs.com/pg
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16197/default_3d197518f6bb529bfcc1b685e2cefbdfe83ff108.png
+  detection_source: node_modules/socket.io/node_modules/redis/package.json
+  last_updated_by: João Correia
+  last_updated_on: 2020-02-24 15:31:31.000000000 Z
+- name: platform
+  description: A platform detection library that works on nearly all JavaScript platforms
+  package_url: https://www.npmjs.com/platform
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18335/default_cef8b737c55fccc3604e91ce246aef30fc604c73.png
+  detection_source: node_modules/socket.io/node_modules/socket.io-client/node_modules/uglify-js/package.json
+  last_updated_by: João Correia
+  last_updated_on: 2020-02-24 15:31:31.000000000 Z
+- name: poi
+  description: A zero-config bundler for JavaScript applications
+  package_url: https://www.npmjs.com/poi
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17761/default_a53af9d6b5a4c8c6e8d5f8494d76a8d2efd3e660.png
+  detection_source: node_modules/socket.io/node_modules/socket.io-client/package.json
+  last_updated_by: João Correia
+  last_updated_on: 2020-02-24 15:31:31.000000000 Z
+- name: pretty
+  description: Some tweaks for beautifying HTML with js-beautify according to my preferences
+  package_url: https://www.npmjs.com/pretty
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18398/default_f4061389234135da82c3938a911e52969aa2abae.png
+  detection_source: node_modules/socket.io/node_modules/socket.io-client/node_modules/uglify-js/package.json
+  last_updated_by: João Correia
+  last_updated_on: 2020-02-24 15:31:31.000000000 Z
+- name: process
+  description: Process information for node.js and browsers
+  package_url: https://www.npmjs.com/process
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17866/default_99a4718ac3f2beccb28962b727b0a38010c9b496.png
+  detection_source: node_modules/socket.io/node_modules/socket.io-client/node_modules/ws/node_modules/commander/package.json
+  last_updated_by: João Correia
+  last_updated_on: 2020-02-24 15:31:31.000000000 Z
+- name: progress
+  description: Flexible ascii progress bar
+  package_url: https://www.npmjs.com/progress
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16410/default_536789d2630ed352dc721a1c915ab456b7660201.png
+  detection_source: node_modules/socket.io/node_modules/socket.io-client/node_modules/ws/node_modules/commander/package.json
+  last_updated_by: João Correia
+  last_updated_on: 2020-02-24 15:31:31.000000000 Z
+- name: prompt
+  description: A beautiful command-line prompt for node.js
+  package_url: https://www.npmjs.com/prompt
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16207/default_41f04716a804e853d5c38a5b81ee0ea8a842ad82.png
+  detection_source: node_modules/socket.io/package.json
+  last_updated_by: João Correia
+  last_updated_on: 2020-02-24 15:31:31.000000000 Z
+- name: publish
+  description: Npm auto publishing of your modules
+  package_url: https://www.npmjs.com/publish
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18190/default_b56a957d927d2e40d2c7cf9f3588b95c4df2c97c.png
+  detection_source: node_modules/socket.io/package.json
+  last_updated_by: João Correia
+  last_updated_on: 2020-02-24 15:31:31.000000000 Z
+- name: qs
+  description: A querystring parser that supports nesting and arrays
+  package_url: https://www.npmjs.com/qs
+  version: 0.5.1
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16125/default_def3edb85d7fbd20200a5cd7d0a1679e31bc8b3d.png
+  detection_source_url: node_modules/express/node_modules/connect/package.json
+  detection_source: node_modules/socket.io/node_modules/socket.io-client/node_modules/uglify-js/package.json
+  last_updated_by: João Correia
+  last_updated_on: 2020-02-24 15:31:31.000000000 Z
+  vulnerabilities:
+  - name: qs vulnerable to Prototype Pollution
+    cve_id: CVE-2022-24999
+    cve_url: https://github.com/advisories/GHSA-hrpp-h998-j3pp
+    detected_date: Dec 7
+    severity: high
+    first_patched: 6.2.4
+  - name: High severity vulnerability that affects qs
+    cve_id: 
+    cve_url: https://github.com/advisories/GHSA-crvj-3gj9-gm2p
+    detected_date: Aug 22
+    severity: high
+    first_patched: 1.0.0
+  - name: Denial-of-Service Memory Exhaustion in qs
+    cve_id: CVE-2014-7191
+    cve_url: https://github.com/advisories/GHSA-jjv7-qpx3-h62q
+    detected_date: Aug 22
+    severity: high
+    first_patched: 1.0.0
+  - name: Denial-of-Service Extended Event Loop Blocking in qs
+    cve_id: CVE-2014-10064
+    cve_url: https://github.com/advisories/GHSA-f9cm-p3w6-xvr3
+    detected_date: Aug 22
+    severity: high
+    first_patched: 1.0.0
+  - name: Prototype Pollution Protection Bypass in qs
+    cve_id: CVE-2017-1000048
+    cve_url: https://github.com/advisories/GHSA-gqgv-6jq5-jjj9
+    detected_date: Aug 22
+    severity: high
+    first_patched: 6.0.4
+- name: querystring
+  description: Node's querystring module for all engines
+  package_url: https://www.npmjs.com/querystring
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16418/default_d73092129e1cde5ea9f47f22e2d7c3db7bd6da8d.png
+  detection_source: node_modules/express/node_modules/connect/node_modules/qs/package.json
+  last_updated_by: João Correia
+  last_updated_on: 2020-02-24 15:31:31.000000000 Z
+- name: raf
+  description: RequestAnimationFrame polyfill for node and the browser
+  package_url: https://www.npmjs.com/raf
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16199/default_fef27d1523ac1844fc00e83e47bddd8898ff8a89.png
+  detection_source: node_modules/socket.io/node_modules/socket.io-client/node_modules/ws/package.json
+  last_updated_by: João Correia
+  last_updated_on: 2020-02-24 15:31:31.000000000 Z
+- name: range-parser
+  description: Range header field string parser
+  package_url: https://www.npmjs.com/range-parser
+  version: 0.0.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18315/default_f1e168ebe0f124084b9a0acbe78bc5cdba7b4575.png
+  detection_source_url: node_modules/express/node_modules/send/package.json
+  detection_source: node_modules/express/package.json
+  last_updated_by: João Correia
+  last_updated_on: 2020-02-24 15:31:31.000000000 Z
+- name: rc
+  description: Hardwired configuration loader
+  package_url: https://www.npmjs.com/rc
+  license: BSD-2-Clause,MIT,Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16813/default_5c6919c5e02b8e6c83f3a2b23db5b6962e3caca0.png
+  detection_source: node_modules/socket.io/package.json
+  last_updated_by: João Correia
+  last_updated_on: 2020-02-24 15:31:31.000000000 Z
+- name: read
+  description: Read
+  package_url: https://www.npmjs.com/read
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17342/default_66bbb2a75a0234b1bfceaa99b8e82825fa7b8284.png
+  detection_source: node_modules/socket.io/package.json
+  last_updated_by: João Correia
+  last_updated_on: 2020-02-24 15:31:31.000000000 Z
+- name: ref
+  description: Turn Buffer instances into "pointers"
+  package_url: https://www.npmjs.com/ref
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18418/default_4d27e57a415c059481cbe1fd0734523c261d311a.png
+  detection_source: node_modules/socket.io/node_modules/socket.io-client/package.json
+  last_updated_by: João Correia
+  last_updated_on: 2020-02-24 15:31:31.000000000 Z
+- name: replace
+  description: Command line search and replace utility
+  package_url: https://www.npmjs.com/replace
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16890/default_143d92b1fc944107cf48a3ab42a2a347bf3d91b5.png
+  detection_source: node_modules/socket.io/node_modules/socket.io-client/node_modules/uglify-js/package.json
+  last_updated_by: João Correia
+  last_updated_on: 2020-02-24 15:31:31.000000000 Z
+- name: request
+  description: Simplified HTTP request client
+  package_url: https://www.npmjs.com/request
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15823/default_5e5e8ac63beda29f31f1844df64d4b8247570a66.png
+  detection_source: node_modules/socket.io/package.json
+  last_updated_by: João Correia
+  last_updated_on: 2020-02-24 15:31:31.000000000 Z
+- name: require-all
+  description: An easy way to require all files within a directory
+  package_url: https://www.npmjs.com/require-all
+  version: 0.0.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17414/default_bdd3cbd2ffd904a2fe09048437badf6984450361.png
+  detection_source_url: node_modules/mysql/package.json
+  detection_source: node_modules/mysql/package.json
+  last_updated_by: João Correia
+  last_updated_on: 2020-02-24 15:31:31.000000000 Z
+- name: resolve
+  description: Resolve like require.resolve
+  package_url: https://www.npmjs.com/resolve
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16128/default_63a34654baee757196ddff2457bd1c9a0dfb7287.png
+  detection_source: node_modules/socket.io/node_modules/socket.io-client/node_modules/uglify-js/package.json
+  last_updated_by: João Correia
+  last_updated_on: 2020-02-24 15:31:31.000000000 Z
+- name: retry
+  description: Abstraction for exponential and custom retry strategies for failed
+    operations
+  package_url: https://www.npmjs.com/retry
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18127/image.png
+  detection_source: node_modules/socket.io/node_modules/redis/package.json
+  last_updated_by: João Correia
+  last_updated_on: 2020-02-24 15:31:31.000000000 Z
+- name: send
+  description: Better streaming static file server with Range and conditional-GET
+    support
+  package_url: https://www.npmjs.com/send
+  version: 0.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17093/default_1dbf402c11ef653fcaedc84e608a244e30ebfb87.png
+  detection_source_url: node_modules/express/node_modules/connect/package.json
+  detection_source: node_modules/socket.io/package.json
+  last_updated_by: João Correia
+  last_updated_on: 2020-02-24 15:31:31.000000000 Z
+  vulnerabilities:
+  - name: Root Path Disclosure in send
+    cve_id: CVE-2015-8859
+    cve_url: https://github.com/advisories/GHSA-jgqf-hwc5-hh37
+    detected_date: Aug 22
+    severity: moderate
+    first_patched: 0.11.1
+  - name: Moderate severity vulnerability that affects send
+    cve_id: 
+    cve_url: https://github.com/advisories/GHSA-pgv6-jrvv-75jp
+    detected_date: Aug 22
+    severity: moderate
+    first_patched: 0.8.4
+  - name: Directory Traversal in send
+    cve_id: CVE-2014-6394
+    cve_url: https://github.com/advisories/GHSA-xwg4-93c6-3h42
+    detected_date: Aug 22
+    severity: low
+    first_patched: 0.8.4
+- name: serve
+  description: Static file serving and directory listing
+  package_url: https://www.npmjs.com/serve
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16484/default_73c88a18b684e01cbdbf945631a40a44aff5a777.png
+  detection_source: node_modules/socket.io/package.json
+  last_updated_by: João Correia
+  last_updated_on: 2020-02-24 15:31:31.000000000 Z
+- name: sha1
+  description: Native js function for hashing messages with SHA-1
+  package_url: https://www.npmjs.com/sha1
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17695/default_148ef251371a47f69a7acad9f3b25e2ec2ee4aa4.png
+  detection_source: node_modules/express/node_modules/connect/node_modules/formidable/package.json
+  last_updated_by: João Correia
+  last_updated_on: 2020-02-24 15:31:31.000000000 Z
+- name: should
+  description: Test framework agnostic BDD-style assertions
+  package_url: https://www.npmjs.com/should
+  version: 0.0.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15871/default_6743ba96cf149a3c3c68a185199f9705d6eff80e.png
+  detection_source_url: node_modules/express/node_modules/commander/package.json
+  detection_source: testAndroidSocket/node_modules/socket.io/package.json
+  last_updated_by: João Correia
+  last_updated_on: 2020-02-24 15:31:31.000000000 Z
+- name: slate
+  description: A completely customizable framework for building rich text editors
+  package_url: https://www.npmjs.com/slate
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17582/default_3a2c894d178d46e5b78f3e41ac6b2ced48b414c8.png
+  detection_source: node_modules/socket.io/node_modules/socket.io-client/node_modules/uglify-js/package.json
+  last_updated_by: João Correia
+  last_updated_on: 2020-02-24 15:31:31.000000000 Z
+- name: socket.io-client
+  description: "[![Build Status]"
+  package_url: https://www.npmjs.com/socket.io-client
+  version: 0.9.11
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16164/default_ac04a744873b460c4ef30a7450ed0c83223640ab.png
+  detection_source_url: node_modules/socket.io/node_modules/socket.io-client/package.json
+  detection_source: testAndroidSocket/node_modules/socket.io/package.json
+  last_updated_by: João Correia
+  last_updated_on: 2020-02-24 15:31:31.000000000 Z
+- name: split
+  description: Split a Text Stream into a Line Stream
+  package_url: https://www.npmjs.com/split
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16847/default_9a5182350af29cb82b3344853e865051f508ac6c.png
+  detection_source: node_modules/socket.io/node_modules/socket.io-client/node_modules/ws/node_modules/commander/package.json
+  last_updated_by: João Correia
+  last_updated_on: 2020-02-24 15:31:31.000000000 Z
+- name: sprintf
+  description: Sprintf
+  package_url: https://www.npmjs.com/sprintf
+  version: 0.1.1
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17597/default_3a2c894d178d46e5b78f3e41ac6b2ced48b414c8.png
+  detection_source_url: node_modules/i18n/package.json
+  detection_source: node_modules/i18n/package.json
+  last_updated_by: João Correia
+  last_updated_on: 2020-02-24 15:31:31.000000000 Z
+- name: st
+  description: A module for serving static files. Does etags, caching, etc
+  package_url: https://www.npmjs.com/st
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18455/default_d8e945bfec4c4a608fb0493abf73c9ec1cffc9a2.png
+  detection_source: node_modules/socket.io/package.json
+  last_updated_by: João Correia
+  last_updated_on: 2020-02-24 15:31:31.000000000 Z
+- name: standard
+  description: JavaScript Standard Style
+  package_url: https://www.npmjs.com/standard
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15878/default_7c39a83d4acd952df89b1ebfdb94c8646324fbf1.png
+  detection_source: node_modules/socket.io/node_modules/socket.io-client/node_modules/xmlhttprequest/package.json
+  last_updated_by: João Correia
+  last_updated_on: 2020-02-24 15:31:31.000000000 Z
+- name: step
+  description: A simple control-flow library for node.JS that makes parallel execution
+  package_url: https://www.npmjs.com/step
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18191/default_b56a957d927d2e40d2c7cf9f3588b95c4df2c97c.png
+  detection_source: node_modules/socket.io/node_modules/socket.io-client/node_modules/uglify-js/package.json
+  last_updated_by: João Correia
+  last_updated_on: 2020-02-24 15:31:31.000000000 Z
+- name: store
+  description: A localStorage wrapper for all browsers without using cookies or flash
+  package_url: https://www.npmjs.com/store
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18478/default_6441f53d6a389f92c1e16b01717cd1d37a1809fd.png
+  detection_source: node_modules/socket.io/package.json
+  last_updated_by: João Correia
+  last_updated_on: 2020-02-24 15:31:31.000000000 Z
+- name: stream
+  description: Node.js streams in the browser
+  package_url: https://www.npmjs.com/stream
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18008/default_d8756eea8d13a271fb42437ffb36c0a116d72925.png
+  detection_source: node_modules/socket.io/node_modules/socket.io-client/node_modules/active-x-obfuscator/node_modules/zeparser/package.json
+  last_updated_by: João Correia
+  last_updated_on: 2020-02-24 15:31:31.000000000 Z
+- name: string
+  description: String contains methods that aren't included in the vanilla JavaScript
+    string such as escaping html
+  package_url: https://www.npmjs.com/string
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16825/default_dc62f5e9b636403c2d19676924f5b6b881abcac8.png
+  detection_source: node_modules/socket.io/node_modules/socket.io-client/package.json
+  last_updated_by: João Correia
+  last_updated_on: 2020-02-24 15:31:31.000000000 Z
+- name: stringify
+  description: Browserify middleware to be able to require
+  package_url: https://www.npmjs.com/stringify
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18492/default_9c45ef918d27804fb2a0b2f31e341286bc3bc5d7.png
+  detection_source: node_modules/express/node_modules/connect/node_modules/qs/package.json
+  last_updated_by: João Correia
+  last_updated_on: 2020-02-24 15:31:31.000000000 Z
+- name: stylus
+  description: Robust, expressive, and feature-rich CSS superset
+  package_url: https://www.npmjs.com/stylus
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16131/default_def3edb85d7fbd20200a5cd7d0a1679e31bc8b3d.png
+  detection_source: testAndroidSocket/node_modules/socket.io/node_modules/socket.io-client/package.json
+  last_updated_by: João Correia
+  last_updated_on: 2020-02-24 15:31:31.000000000 Z
+- name: table
+  description: Formats data into a string table
+  package_url: https://www.npmjs.com/table
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17937/default_40b5ae806e118a20c1717c75a46652a7358d8b42.png
+  detection_source: node_modules/socket.io/node_modules/socket.io-client/node_modules/xmlhttprequest/package.json
+  last_updated_by: João Correia
+  last_updated_on: 2020-02-24 15:31:31.000000000 Z
+- name: tap
+  description: A Test-Anything-Protocol library for JavaScript
+  package_url: https://www.npmjs.com/tap
+  version: 0.2.4
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16027/default_af9df0bc9fa88191d2fe609204c5bd7599c1a797.png
+  detection_source_url: node_modules/express/node_modules/mkdirp/package.json
+  detection_source: node_modules/i18n/package.json
+  last_updated_by: João Correia
+  last_updated_on: 2020-02-24 15:31:31.000000000 Z
+- name: tape
+  description: Tap-producing test harness for node and browsers
+  package_url: https://www.npmjs.com/tape
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15856/default_6743ba96cf149a3c3c68a185199f9705d6eff80e.png
+  detection_source: node_modules/gettext/deps/nodeunit/package.json
+  last_updated_by: João Correia
+  last_updated_on: 2020-02-24 15:31:31.000000000 Z
+- name: tar
+  description: Tar for node
+  package_url: https://www.npmjs.com/tar
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16466/default_fc6e1fc17e404d936593b5b901d67abb3386daa3.png
+  detection_source: node_modules/socket.io/package.json
+  last_updated_by: João Correia
+  last_updated_on: 2020-02-24 15:31:31.000000000 Z
+- name: temp
+  description: Temporary files and directories
+  package_url: https://www.npmjs.com/temp
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16400/default_9ae0e75ed749aca83d89f7e1ccb309be2bfc610e.png
+  detection_source: node_modules/socket.io/node_modules/socket.io-client/package.json
+  last_updated_by: João Correia
+  last_updated_on: 2020-02-24 15:31:31.000000000 Z
+- name: text-table
+  description: Borderless text tables with alignment
+  package_url: https://www.npmjs.com/text-table
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17277/default_03da3f7f53e439ab3b23ec47828b2f3229885efd.png
+  detection_source: node_modules/socket.io/node_modules/socket.io-client/node_modules/uglify-js/package.json
+  last_updated_by: João Correia
+  last_updated_on: 2020-02-24 15:31:31.000000000 Z
+- name: three
+  description: JavaScript 3D library
+  package_url: https://www.npmjs.com/three
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16653/default_cc0f40a737548852d2ee666c132c258c9a2c0cad.png
+  detection_source: node_modules/socket.io/node_modules/redis/package.json
+  last_updated_by: João Correia
+  last_updated_on: 2020-02-24 15:31:31.000000000 Z
+- name: through
+  description: Simplified stream construction
+  package_url: https://www.npmjs.com/through
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16309/default_8b65a873fd3277d73483d6846fa38192391abf23.png
+  detection_source: node_modules/socket.io/package.json
+  last_updated_by: João Correia
+  last_updated_on: 2020-02-24 15:31:31.000000000 Z
+- name: tmp
+  description: Temporary file and directory creator
+  package_url: https://www.npmjs.com/tmp
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16251/default_380ae3d73e22c7ca1f42b96479bcd0095dabc0d3.png
+  detection_source: node_modules/express/package.json
+  last_updated_by: João Correia
+  last_updated_on: 2020-02-24 15:31:31.000000000 Z
+- name: touch
+  description: Like touch
+  package_url: https://www.npmjs.com/touch
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17029/default_8ef738cb63f629c8e87903029b82b45840ab75a3.png
+  detection_source: node_modules/socket.io/node_modules/socket.io-client/node_modules/uglify-js/package.json
+  last_updated_by: João Correia
+  last_updated_on: 2020-02-24 15:31:31.000000000 Z
+- name: traverse
+  description: Traverse and transform objects by visiting every node on a recursive
+    walk
+  package_url: https://www.npmjs.com/traverse
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16901/default_3772c3833c88109974c994fa9f9548ac8ad59f11.png
+  detection_source: node_modules/socket.io/node_modules/socket.io-client/node_modules/uglify-js/package.json
+  last_updated_by: João Correia
+  last_updated_on: 2020-02-24 15:31:31.000000000 Z
+- name: twit
+  description: Twitter API client for node
+  package_url: https://www.npmjs.com/twit
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18372/default_6da9f8de2035c7ad69ecf412df9fe80b73f9797a.png
+  detection_source: node_modules/socket.io/node_modules/socket.io-client/node_modules/uglify-js/package.json
+  last_updated_by: João Correia
+  last_updated_on: 2020-02-24 15:31:31.000000000 Z
+- name: twitter
+  description: Twitter API client library for node.js
+  package_url: https://www.npmjs.com/twitter
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18617/default_556cbbde03c4b61e43fa7de374efed6927510d08.png
+  detection_source: node_modules/socket.io/node_modules/socket.io-client/node_modules/uglify-js/package.json
+  last_updated_by: João Correia
+  last_updated_on: 2020-02-24 15:31:31.000000000 Z
+- name: uglify
+  description: A simple tool to uglify javascript &amp; css files
+  package_url: https://www.npmjs.com/uglify
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18097/image.png
+  detection_source: node_modules/socket.io/node_modules/socket.io-client/package.json
+  last_updated_by: João Correia
+  last_updated_on: 2020-02-24 15:31:31.000000000 Z
+- name: uglify-js
+  description: JavaScript parser
+  package_url: https://www.npmjs.com/uglify-js
+  version: 1.2.5
+  license: BSD-2-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15900/default_1d65e37e65b7f80761374f0202776043277d505d.png
+  detection_source_url: node_modules/socket.io/node_modules/socket.io-client/package.json
+  detection_source: testAndroidSocket/node_modules/socket.io/node_modules/socket.io-client/package.json
+  last_updated_by: João Correia
+  last_updated_on: 2020-02-24 15:31:31.000000000 Z
+  vulnerabilities:
+  - name: Incorrect Handling of Non-Boolean Comparisons During Minification in uglify-js
+    cve_id: CVE-2015-8857
+    cve_url: https://github.com/advisories/GHSA-34r7-q49f-h37c
+    detected_date: Aug 22
+    severity: critical
+    first_patched: 2.4.24
+  - name: High severity vulnerability that affects uglify-js
+    cve_id: 
+    cve_url: https://github.com/advisories/GHSA-g6f4-j6c2-w3p3
+    detected_date: Aug 22
+    severity: high
+    first_patched: 2.4.24
+  - name: Regular Expression Denial of Service in uglify-js
+    cve_id: CVE-2015-8858
+    cve_url: https://github.com/advisories/GHSA-c9f4-xj24-8jqx
+    detected_date: Aug 22
+    severity: high
+    first_patched: 2.6.0
+- name: uglifyjs
+  description: Use 'uglify-js' instead - https://github.com/mishoo/UglifyJS2
+  package_url: https://www.npmjs.com/uglifyjs
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16624/default_f7592cb347fae67ce7c7f221ddd5fd2cb0afc28f.png
+  detection_source: node_modules/socket.io/node_modules/socket.io-client/node_modules/uglify-js/package.json
+  last_updated_by: João Correia
+  last_updated_on: 2020-02-24 15:31:31.000000000 Z
+- name: uid
+  description: Generate unique ids of variable length
+  package_url: https://www.npmjs.com/uid
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18239/default_b102609c7a7fb86f3c2ca3ec026f3011d275978b.png
+  detection_source: node_modules/now/package.json
+  last_updated_by: João Correia
+  last_updated_on: 2020-02-24 15:31:31.000000000 Z
+- name: underscore
+  description: JavaScript's functional programming helper library
+  package_url: https://www.npmjs.com/underscore
+  version: 1.3.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15882/default_0b10af8ca19c215f781dc07442e75bdc831089d0.png
+  detection_source_url: node_modules/mysql/package.json
+  detection_source: node_modules/mysql/package.json
+  last_updated_by: João Correia
+  last_updated_on: 2020-02-24 15:31:31.000000000 Z
+- name: unexpected
+  description: Extensible BDD assertion toolkit
+  package_url: https://www.npmjs.com/unexpected
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17197/default_37d9ccc57ae4d32e7ff46614e4f8bb2c4ddc7964.png
+  detection_source: node_modules/socket.io/node_modules/socket.io-client/node_modules/xmlhttprequest/package.json
+  last_updated_by: João Correia
+  last_updated_on: 2020-02-24 15:31:31.000000000 Z
+- name: url
+  description: The core `url` packaged standalone for use with Browserify
+  package_url: https://www.npmjs.com/url
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16462/default_89ba91277e3434b03295bb11d22736632df1d04f.png
+  detection_source: node_modules/socket.io/package.json
+  last_updated_by: João Correia
+  last_updated_on: 2020-02-24 15:31:31.000000000 Z
+- name: user
+  description: Users use your site
+  package_url: https://www.npmjs.com/user
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17329/default_33c3173e7d0e91f7cea0eab9883ca83b157bd4a5.png
+  detection_source: node_modules/socket.io/package.json
+  last_updated_by: João Correia
+  last_updated_on: 2020-02-24 15:31:31.000000000 Z
+- name: utf8
+  description: A well-tested UTF-8 encoder/decoder written in JavaScript
+  package_url: https://www.npmjs.com/utf8
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17864/default_99a4718ac3f2beccb28962b727b0a38010c9b496.png
+  detection_source: node_modules/express/node_modules/connect/node_modules/formidable/package.json
+  last_updated_by: João Correia
+  last_updated_on: 2020-02-24 15:31:31.000000000 Z
+- name: util
+  description: Node.js's util module for all engines
+  package_url: https://www.npmjs.com/util
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16507/default_55f3303d620c93eecbee69c43373d484f2be492f.png
+  detection_source: node_modules/socket.io/node_modules/socket.io-client/package.json
+  last_updated_by: João Correia
+  last_updated_on: 2020-02-24 15:31:31.000000000 Z
+- name: validator
+  description: String validation and sanitization
+  package_url: https://www.npmjs.com/validator
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16255/default_fef27d1523ac1844fc00e83e47bddd8898ff8a89.png
+  detection_source: node_modules/socket.io/node_modules/socket.io-client/node_modules/uglify-js/package.json
+  last_updated_by: João Correia
+  last_updated_on: 2020-02-24 15:31:31.000000000 Z
+- name: verb
+  description: Documentation generator for GitHub projects
+  package_url: https://www.npmjs.com/verb
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17845/default_7e49ed9d84206a0a241a2a0e7e3f63b8f9585401.png
+  detection_source: node_modules/socket.io/node_modules/socket.io-client/node_modules/ws/package.json
+  last_updated_by: João Correia
+  last_updated_on: 2020-02-24 15:31:31.000000000 Z
+- name: vision
+  description: Templates rendering plugin support for hapi.js
+  package_url: https://www.npmjs.com/vision
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18118/image.png
+  detection_source: node_modules/socket.io/node_modules/socket.io-client/node_modules/ws/node_modules/commander/package.json
+  last_updated_by: João Correia
+  last_updated_on: 2020-02-24 15:31:31.000000000 Z
+- name: vow
+  description: DOM Promise and Promises/A+ implementation for Node.js and browsers
+  package_url: https://www.npmjs.com/vow
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18557/default_b194e7abb8eea1cda9454a0cdbfe61a67834d183.png
+  detection_source: node_modules/i18n/package.json
+  last_updated_by: João Correia
+  last_updated_on: 2020-02-24 15:31:31.000000000 Z
+- name: vows
+  description: Asynchronous BDD &amp; continuous integration for node.js
+  package_url: https://www.npmjs.com/vows
+  version: 0.6.2
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16365/default_4cc3f31b8c64a6268fc123f0965a09d1b11180af.png
+  detection_source_url: node_modules/i18n/package.json
+  detection_source: node_modules/i18n/package.json
+  last_updated_by: João Correia
+  last_updated_on: 2020-02-24 15:31:31.000000000 Z
+- name: wd
+  description: WebDriver/Selenium 2 node.js client
+  package_url: https://www.npmjs.com/wd
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17450/default_8c4651c288471a00b2fd6f2055b6de29cb9a049d.png
+  detection_source: node_modules/socket.io/node_modules/socket.io-client/node_modules/uglify-js/package.json
+  last_updated_by: João Correia
+  last_updated_on: 2020-02-24 15:31:31.000000000 Z
+- name: websocket
+  description: Websocket Client &amp; Server Library implementing the WebSocket protocol
+    as specified in RFC 6455
+  package_url: https://www.npmjs.com/websocket
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16782/default_6e51a44775c61dcb2888547ad406a2f0cf2c344e.png
+  detection_source: node_modules/socket.io/package.json
+  last_updated_by: João Correia
+  last_updated_on: 2020-02-24 15:31:31.000000000 Z
+- name: when
+  description: A lightweight Promises/A+ and when
+  package_url: https://www.npmjs.com/when
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16550/default_50be6a65e5f7390c20dda2f19371abc1271db012.png
+  detection_source: node_modules/socket.io/package.json
+  last_updated_by: João Correia
+  last_updated_on: 2020-02-24 15:31:31.000000000 Z
+- name: which
+  description: Like which
+  package_url: https://www.npmjs.com/which
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16482/default_482cf308e8fc087eee8e154f29cc142c834abc51.png
+  detection_source: node_modules/socket.io/package.json
+  last_updated_by: João Correia
+  last_updated_on: 2020-02-24 15:31:31.000000000 Z
+- name: write
+  description: Write data to a file, replacing the file if it already exists and creating
+    any intermediate directories if they don't already exist
+  package_url: https://www.npmjs.com/write
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18762/default_b057657dca80f65f97b5bbe8ba405ffa92071739.png
+  detection_source: node_modules/socket.io/node_modules/socket.io-client/node_modules/ws/package.json
+  last_updated_by: João Correia
+  last_updated_on: 2020-02-24 15:31:31.000000000 Z
+- name: xhr
+  description: Small xhr abstraction
+  package_url: https://www.npmjs.com/xhr
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17598/default_ce23f9fa63028502fe46082904fea3786d97bed3.png
+  detection_source: node_modules/socket.io/package.json
+  last_updated_by: João Correia
+  last_updated_on: 2020-02-24 15:31:31.000000000 Z
+- name: xml
+  description: Fast and simple xml generator
+  package_url: https://www.npmjs.com/xml
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18460/default_5ff724c0ff89bb42698aa80ef3403008cb0d8f72.png
+  detection_source: node_modules/socket.io/node_modules/socket.io-client/package.json
+  last_updated_by: João Correia
+  last_updated_on: 2020-02-24 15:31:31.000000000 Z
+- name: xmlhttprequest
+  description: XMLHttpRequest for Node
+  package_url: https://www.npmjs.com/xmlhttprequest
+  version: 1.4.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16759/default_aa2369d4412b5a2c6812de3c666299e0ccd25ea2.png
+  detection_source_url: node_modules/socket.io/node_modules/socket.io-client/package.json
+  detection_source: testAndroidSocket/node_modules/socket.io/node_modules/socket.io-client/package.json
+  last_updated_by: João Correia
+  last_updated_on: 2020-02-24 15:31:31.000000000 Z
+  vulnerabilities:
+  - name: xmlhttprequest and xmlhttprequest-ssl vulnerable to Arbitrary Code Injection
+    cve_id: CVE-2020-28502
+    cve_url: https://github.com/advisories/GHSA-h4j5-c7cj-74xg
+    detected_date: Aug 22
+    severity: critical
+    first_patched: 1.7.0
+- name: xtend
+  description: Extend like a boss
+  package_url: https://www.npmjs.com/xtend
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16315/default_aa91da3cee4d961f0eea8ca5de77f399ec7ec794.png
+  detection_source: node_modules/socket.io/node_modules/socket.io-client/node_modules/active-x-obfuscator/node_modules/zeparser/package.json
+  last_updated_by: João Correia
+  last_updated_on: 2020-02-24 15:31:31.000000000 Z
+- name: yo
+  description: CLI tool for running Yeoman generators
+  package_url: https://www.npmjs.com/yo
+  license: BSD-2-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17899/default_3bc64391130859f94a137a7dc6cb87cd54da546b.png
+  detection_source: node_modules/socket.io/package.json
+  last_updated_by: João Correia
+  last_updated_on: 2020-02-24 15:31:31.000000000 Z
