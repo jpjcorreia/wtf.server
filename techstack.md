@@ -1,7 +1,8 @@
 <!--
---- Readme.md Snippet without images Start ---
+&lt;--- Readme.md Snippet without images Start ---&gt;
 ## Tech Stack
 jpjcorreia/wtf.server is built on the following main stack:
+
 - [Chartio](https://chartio.com) – Business Intelligence
 - [Buffer](https://bufferapp.com/) – Social Media Tools
 - [Mocha](http://mochajs.org/) – Javascript Testing Framework
@@ -43,11 +44,13 @@ jpjcorreia/wtf.server is built on the following main stack:
 - [Travis CI](http://travis-ci.com/) – Continuous Integration
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet without images End ---
 
---- Readme.md Snippet with images Start ---
+&lt;--- Readme.md Snippet without images End ---&gt;
+
+&lt;--- Readme.md Snippet with images Start ---&gt;
 ## Tech Stack
 jpjcorreia/wtf.server is built on the following main stack:
+
 - <img width='25' height='25' src='https://img.stackshare.io/service/9/TtrFaQ3j_400x400.png' alt='Chartio'/> [Chartio](https://chartio.com) – Business Intelligence
 - <img width='25' height='25' src='https://img.stackshare.io/service/825/hnc3q-7x.jpg' alt='Buffer'/> [Buffer](https://bufferapp.com/) – Social Media Tools
 - <img width='25' height='25' src='https://img.stackshare.io/service/832/mocha.png' alt='Mocha'/> [Mocha](http://mochajs.org/) – Javascript Testing Framework
@@ -89,14 +92,15 @@ jpjcorreia/wtf.server is built on the following main stack:
 - <img width='25' height='25' src='https://img.stackshare.io/service/460/Lu6cGu0z_400x400.png' alt='Travis CI'/> [Travis CI](http://travis-ci.com/) – Continuous Integration
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet with images End ---
+
+&lt;--- Readme.md Snippet with images End ---&gt;
 -->
 <div align="center">
 
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [jpjcorreia/wtf.server](https://github.com/jpjcorreia/wtf.server)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|252<br/>Tools used|11/09/23 <br/>Report generated|
+|253<br/>Tools used|01/04/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -524,9 +528,9 @@ Full tech stack [here](/techstack.md)
 </table>
 
 
-## <img src='https://img.stackshare.io/group.svg' /> Open source packages (204)</h2>
+## <img src='https://img.stackshare.io/group.svg' /> Open source packages (205)</h2>
 
-## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (204)
+## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (205)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
@@ -701,6 +705,7 @@ Full tech stack [here](/techstack.md)
 |[tape](https://www.npmjs.com/tape)|N/A|02/24/20|João Correia |MIT|N/A|
 |[tar](https://www.npmjs.com/tar)|N/A|02/24/20|João Correia |ISC|N/A|
 |[temp](https://www.npmjs.com/temp)|N/A|02/24/20|João Correia |MIT|N/A|
+|[test](https://www.npmjs.com/test)|N/A|02/24/20|João Correia |MIT|N/A|
 |[text-table](https://www.npmjs.com/text-table)|N/A|02/24/20|João Correia |MIT|N/A|
 |[three](https://www.npmjs.com/three)|N/A|02/24/20|João Correia |MIT|N/A|
 |[through](https://www.npmjs.com/through)|N/A|02/24/20|João Correia |MIT|N/A|
@@ -738,4 +743,4 @@ Full tech stack [here](/techstack.md)
 <br/>
 <div align='center'>
 
-Generated via [Stack File](https://github.com/apps/stack-file)
+Generated via [Stack File](https://github.com/marketplace/stack-file)
