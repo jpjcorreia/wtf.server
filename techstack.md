@@ -3,45 +3,45 @@
 ## Tech Stack
 jpjcorreia/wtf.server is built on the following main stack:
 
-- [Chartio](https://chartio.com) – Business Intelligence
-- [Buffer](https://bufferapp.com/) – Social Media Tools
-- [Mocha](http://mochajs.org/) – Javascript Testing Framework
-- [Browserify](http://browserify.org/) – Front End Package Manager
-- [Ruby](https://www.ruby-lang.org) – Languages
+- [CoffeeScript](http://coffeescript.org/) – Languages
+- [D](http://dlang.org/) – Languages
+- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
 - [Python](https://www.python.org) – Languages
+- [Ruby](https://www.ruby-lang.org) – Languages
+- [C3.js](http://c3js.org/) – Charting Libraries
+- [ExpressJS](http://expressjs.com/) – Microframeworks (Backend)
+- [Less](http://lesscss.org/) – CSS Pre-processors / Extensions
+- [Next.js](https://nextjs.org/) – Frameworks (Full Stack)
 - [Node.js](http://nodejs.org/) – Frameworks (Full Stack)
+- [Prototype](http://prototypejs.org/) – Javascript UI Libraries
 - [jQuery](http://jquery.com/) – Javascript UI Libraries
+- [Mentat](https://mozilla.github.io/mentat) – Databases
 - [MySQL](http://www.mysql.com) – Databases
 - [PostgreSQL](http://www.postgresql.org/) – Databases
 - [Redis](http://redis.io/) – In-Memory Databases
-- [Microsoft IIS](http://www.iis.net/) – Web Servers
 - [Socket.IO](http://socket.io/) – Realtime Backend / API
-- [ExpressJS](http://expressjs.com/) – Microframeworks (Backend)
-- [Less](http://lesscss.org/) – CSS Pre-processors / Extensions
-- [CoffeeScript](http://coffeescript.org/) – Languages
-- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
-- [C3.js](http://c3js.org/) – Charting Libraries
-- [Chai](http://chaijs.com/) – Javascript Testing Framework
-- [Monit](https://mmonit.com) – Monitoring Tools
-- [D](http://dlang.org/) – Languages
-- [OpenLayers](http://openlayers.org/) – Mapping APIs
-- [Apache Camel](https://camel.apache.org/) – Platform as a Service
-- [Prototype](http://prototypejs.org/) – Javascript UI Libraries
-- [Alt](https://alt.js.org/) – Javascript Utilities & Libraries
-- [SuperTest](https://www.npmjs.com/package/supertest) – Javascript Testing Framework
-- [Q](https://github.com/kriskowal/q) – Javascript Utilities & Libraries
-- [three.js](https://threejs.org/) – Game Development
-- [Next.js](https://nextjs.org/) – Frameworks (Full Stack)
-- [React Navigation](https://reactnavigation.org/) – Cross-Platform Mobile Tools
-- [hub](http://hub.github.com/) – Git Tools
-- [Mentat](https://mozilla.github.io/mentat) – Databases
-- [Timezone](https://timezone.io/) – Time Tracking
-- [Requests](http://docs.python-requests.org/en/latest/) – Data Transfer
-- [Poli](https://github.com/shzlw/poli) – Business Intelligence
-- [navi](https://github.com/denisidoro/navi) – Shell Utilities
-- [ws](https://github.com/websockets/ws) – Realtime Backend / API
 - [ent](https://entgo.io/) – Object Relational Mapper (ORM)
+- [ws](https://github.com/websockets/ws) – Realtime Backend / API
+- [Browserify](http://browserify.org/) – Front End Package Manager
+- [Chai](http://chaijs.com/) – Javascript Testing Framework
+- [Microsoft IIS](http://www.iis.net/) – Web Servers
+- [Mocha](http://mochajs.org/) – Javascript Testing Framework
+- [Monit](https://mmonit.com) – Monitoring Tools
+- [SuperTest](https://www.npmjs.com/package/supertest) – Javascript Testing Framework
 - [Travis CI](http://travis-ci.com/) – Continuous Integration
+- [hub](http://hub.github.com/) – Git Tools
+- [Apache Camel](https://camel.apache.org/) – Platform as a Service
+- [Buffer](https://bufferapp.com/) – Social Media Tools
+- [Chartio](https://chartio.com) – Business Intelligence
+- [Poli](https://github.com/shzlw/poli) – Business Intelligence
+- [Alt](https://alt.js.org/) – Javascript Utilities & Libraries
+- [OpenLayers](http://openlayers.org/) – Mapping APIs
+- [Q](https://github.com/kriskowal/q) – Javascript Utilities & Libraries
+- [React Navigation](https://reactnavigation.org/) – Cross-Platform Mobile Tools
+- [Requests](http://docs.python-requests.org/en/latest/) – Data Transfer
+- [Timezone](https://timezone.io/) – Time Tracking
+- [navi](https://github.com/denisidoro/navi) – Shell Utilities
+- [three.js](https://threejs.org/) – Game Development
 
 Full tech stack [here](/techstack.md)
 
@@ -51,45 +51,45 @@ Full tech stack [here](/techstack.md)
 ## Tech Stack
 jpjcorreia/wtf.server is built on the following main stack:
 
-- <img width='25' height='25' src='https://img.stackshare.io/service/9/TtrFaQ3j_400x400.png' alt='Chartio'/> [Chartio](https://chartio.com) – Business Intelligence
-- <img width='25' height='25' src='https://img.stackshare.io/service/825/hnc3q-7x.jpg' alt='Buffer'/> [Buffer](https://bufferapp.com/) – Social Media Tools
-- <img width='25' height='25' src='https://img.stackshare.io/service/832/mocha.png' alt='Mocha'/> [Mocha](http://mochajs.org/) – Javascript Testing Framework
-- <img width='25' height='25' src='https://img.stackshare.io/service/849/9esmqty2.png' alt='Browserify'/> [Browserify](http://browserify.org/) – Front End Package Manager
-- <img width='25' height='25' src='https://img.stackshare.io/service/989/ruby.png' alt='Ruby'/> [Ruby](https://www.ruby-lang.org) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/1178/slQydAMv.png' alt='CoffeeScript'/> [CoffeeScript](http://coffeescript.org/) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/3117/d-5.png' alt='D'/> [D](http://dlang.org/) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/1209/javascript.jpeg' alt='JavaScript'/> [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/993/pUBY5pVj.png' alt='Python'/> [Python](https://www.python.org) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/989/ruby.png' alt='Ruby'/> [Ruby](https://www.ruby-lang.org) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/no-img-open-source.png' alt='C3.js'/> [C3.js](http://c3js.org/) – Charting Libraries
+- <img width='25' height='25' src='https://img.stackshare.io/service/1163/hashtag.png' alt='ExpressJS'/> [ExpressJS](http://expressjs.com/) – Microframeworks (Backend)
+- <img width='25' height='25' src='https://img.stackshare.io/service/1170/default_957cbc0168b4d37265e264469c888f776e57f42c.png' alt='Less'/> [Less](http://lesscss.org/) – CSS Pre-processors / Extensions
+- <img width='25' height='25' src='https://img.stackshare.io/service/5936/nextjs.png' alt='Next.js'/> [Next.js](https://nextjs.org/) – Frameworks (Full Stack)
 - <img width='25' height='25' src='https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png' alt='Node.js'/> [Node.js](http://nodejs.org/) – Frameworks (Full Stack)
+- <img width='25' height='25' src='https://img.stackshare.io/service/3597/o_bigger_400x400.png' alt='Prototype'/> [Prototype](http://prototypejs.org/) – Javascript UI Libraries
 - <img width='25' height='25' src='https://img.stackshare.io/service/1021/lxEKmMnB_400x400.jpg' alt='jQuery'/> [jQuery](http://jquery.com/) – Javascript UI Libraries
+- <img width='25' height='25' src='https://img.stackshare.io/no-img-open-source.png' alt='Mentat'/> [Mentat](https://mozilla.github.io/mentat) – Databases
 - <img width='25' height='25' src='https://img.stackshare.io/service/1025/logo-mysql-170x170.png' alt='MySQL'/> [MySQL](http://www.mysql.com) – Databases
 - <img width='25' height='25' src='https://img.stackshare.io/service/1028/ASOhU5xJ.png' alt='PostgreSQL'/> [PostgreSQL](http://www.postgresql.org/) – Databases
 - <img width='25' height='25' src='https://img.stackshare.io/service/1031/default_cbce472cd134adc6688572f999e9122b9657d4ba.png' alt='Redis'/> [Redis](http://redis.io/) – In-Memory Databases
-- <img width='25' height='25' src='https://img.stackshare.io/service/1056/J5gFiHbG.png' alt='Microsoft IIS'/> [Microsoft IIS](http://www.iis.net/) – Web Servers
 - <img width='25' height='25' src='https://img.stackshare.io/service/1161/vI0ZZlhZ_400x400.png' alt='Socket.IO'/> [Socket.IO](http://socket.io/) – Realtime Backend / API
-- <img width='25' height='25' src='https://img.stackshare.io/service/1163/hashtag.png' alt='ExpressJS'/> [ExpressJS](http://expressjs.com/) – Microframeworks (Backend)
-- <img width='25' height='25' src='https://img.stackshare.io/service/1170/default_957cbc0168b4d37265e264469c888f776e57f42c.png' alt='Less'/> [Less](http://lesscss.org/) – CSS Pre-processors / Extensions
-- <img width='25' height='25' src='https://img.stackshare.io/service/1178/slQydAMv.png' alt='CoffeeScript'/> [CoffeeScript](http://coffeescript.org/) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/1209/javascript.jpeg' alt='JavaScript'/> [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/no-img-open-source.png' alt='C3.js'/> [C3.js](http://c3js.org/) – Charting Libraries
-- <img width='25' height='25' src='https://img.stackshare.io/service/1725/chai.png' alt='Chai'/> [Chai](http://chaijs.com/) – Javascript Testing Framework
-- <img width='25' height='25' src='https://img.stackshare.io/service/2986/MonitLogo.png' alt='Monit'/> [Monit](https://mmonit.com) – Monitoring Tools
-- <img width='25' height='25' src='https://img.stackshare.io/service/3117/d-5.png' alt='D'/> [D](http://dlang.org/) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/3208/397ce8027eb036960f00dd5153d41993.png' alt='OpenLayers'/> [OpenLayers](http://openlayers.org/) – Mapping APIs
-- <img width='25' height='25' src='https://img.stackshare.io/service/3276/xWt1RFo6_400x400.jpg' alt='Apache Camel'/> [Apache Camel](https://camel.apache.org/) – Platform as a Service
-- <img width='25' height='25' src='https://img.stackshare.io/service/3597/o_bigger_400x400.png' alt='Prototype'/> [Prototype](http://prototypejs.org/) – Javascript UI Libraries
-- <img width='25' height='25' src='https://img.stackshare.io/service/3649/default_01276c9c0c79674b16f9b29216bd8cc7ce9b894d.png' alt='Alt'/> [Alt](https://alt.js.org/) – Javascript Utilities & Libraries
-- <img width='25' height='25' src='https://img.stackshare.io/no-img-open-source.png' alt='SuperTest'/> [SuperTest](https://www.npmjs.com/package/supertest) – Javascript Testing Framework
-- <img width='25' height='25' src='https://img.stackshare.io/service/4697/default_2d5a1d7c5eb520cdeb7db120e767345004a1d0d4.png' alt='Q'/> [Q](https://github.com/kriskowal/q) – Javascript Utilities & Libraries
-- <img width='25' height='25' src='https://img.stackshare.io/service/5883/preview.png' alt='three.js'/> [three.js](https://threejs.org/) – Game Development
-- <img width='25' height='25' src='https://img.stackshare.io/service/5936/nextjs.png' alt='Next.js'/> [Next.js](https://nextjs.org/) – Frameworks (Full Stack)
-- <img width='25' height='25' src='https://img.stackshare.io/service/6422/react-navigation.png' alt='React Navigation'/> [React Navigation](https://reactnavigation.org/) – Cross-Platform Mobile Tools
-- <img width='25' height='25' src='https://img.stackshare.io/no-img-open-source.png' alt='hub'/> [hub](http://hub.github.com/) – Git Tools
-- <img width='25' height='25' src='https://img.stackshare.io/no-img-open-source.png' alt='Mentat'/> [Mentat](https://mozilla.github.io/mentat) – Databases
-- <img width='25' height='25' src='https://img.stackshare.io/service/9576/default_7b6755d014b3e39c3149d5a18bc3a75d3817f421.png' alt='Timezone'/> [Timezone](https://timezone.io/) – Time Tracking
-- <img width='25' height='25' src='https://img.stackshare.io/service/10242/default_10e3fd58c910dc0c4241bc273a7235a0aa4197dd.png' alt='Requests'/> [Requests](http://docs.python-requests.org/en/latest/) – Data Transfer
-- <img width='25' height='25' src='https://img.stackshare.io/service/11232/no-img-open-source.png' alt='Poli'/> [Poli](https://github.com/shzlw/poli) – Business Intelligence
-- <img width='25' height='25' src='https://img.stackshare.io/service/11380/no-img-open-source.png' alt='navi'/> [navi](https://github.com/denisidoro/navi) – Shell Utilities
-- <img width='25' height='25' src='https://img.stackshare.io/service/11381/no-img-open-source.png' alt='ws'/> [ws](https://github.com/websockets/ws) – Realtime Backend / API
 - <img width='25' height='25' src='https://img.stackshare.io/service/21146/default_3b393819f74c4cb10f98fa9e683fa28cf6cc85f5.png' alt='ent'/> [ent](https://entgo.io/) – Object Relational Mapper (ORM)
+- <img width='25' height='25' src='https://img.stackshare.io/service/11381/no-img-open-source.png' alt='ws'/> [ws](https://github.com/websockets/ws) – Realtime Backend / API
+- <img width='25' height='25' src='https://img.stackshare.io/service/849/9esmqty2.png' alt='Browserify'/> [Browserify](http://browserify.org/) – Front End Package Manager
+- <img width='25' height='25' src='https://img.stackshare.io/service/1725/chai.png' alt='Chai'/> [Chai](http://chaijs.com/) – Javascript Testing Framework
+- <img width='25' height='25' src='https://img.stackshare.io/service/1056/J5gFiHbG.png' alt='Microsoft IIS'/> [Microsoft IIS](http://www.iis.net/) – Web Servers
+- <img width='25' height='25' src='https://img.stackshare.io/service/832/mocha.png' alt='Mocha'/> [Mocha](http://mochajs.org/) – Javascript Testing Framework
+- <img width='25' height='25' src='https://img.stackshare.io/service/2986/MonitLogo.png' alt='Monit'/> [Monit](https://mmonit.com) – Monitoring Tools
+- <img width='25' height='25' src='https://img.stackshare.io/no-img-open-source.png' alt='SuperTest'/> [SuperTest](https://www.npmjs.com/package/supertest) – Javascript Testing Framework
 - <img width='25' height='25' src='https://img.stackshare.io/service/460/Lu6cGu0z_400x400.png' alt='Travis CI'/> [Travis CI](http://travis-ci.com/) – Continuous Integration
+- <img width='25' height='25' src='https://img.stackshare.io/no-img-open-source.png' alt='hub'/> [hub](http://hub.github.com/) – Git Tools
+- <img width='25' height='25' src='https://img.stackshare.io/service/3276/xWt1RFo6_400x400.jpg' alt='Apache Camel'/> [Apache Camel](https://camel.apache.org/) – Platform as a Service
+- <img width='25' height='25' src='https://img.stackshare.io/service/825/hnc3q-7x.jpg' alt='Buffer'/> [Buffer](https://bufferapp.com/) – Social Media Tools
+- <img width='25' height='25' src='https://img.stackshare.io/service/9/TtrFaQ3j_400x400.png' alt='Chartio'/> [Chartio](https://chartio.com) – Business Intelligence
+- <img width='25' height='25' src='https://img.stackshare.io/service/11232/no-img-open-source.png' alt='Poli'/> [Poli](https://github.com/shzlw/poli) – Business Intelligence
+- <img width='25' height='25' src='https://img.stackshare.io/service/3649/default_01276c9c0c79674b16f9b29216bd8cc7ce9b894d.png' alt='Alt'/> [Alt](https://alt.js.org/) – Javascript Utilities & Libraries
+- <img width='25' height='25' src='https://img.stackshare.io/service/3208/397ce8027eb036960f00dd5153d41993.png' alt='OpenLayers'/> [OpenLayers](http://openlayers.org/) – Mapping APIs
+- <img width='25' height='25' src='https://img.stackshare.io/service/4697/default_2d5a1d7c5eb520cdeb7db120e767345004a1d0d4.png' alt='Q'/> [Q](https://github.com/kriskowal/q) – Javascript Utilities & Libraries
+- <img width='25' height='25' src='https://img.stackshare.io/service/6422/react-navigation.png' alt='React Navigation'/> [React Navigation](https://reactnavigation.org/) – Cross-Platform Mobile Tools
+- <img width='25' height='25' src='https://img.stackshare.io/service/10242/default_10e3fd58c910dc0c4241bc273a7235a0aa4197dd.png' alt='Requests'/> [Requests](http://docs.python-requests.org/en/latest/) – Data Transfer
+- <img width='25' height='25' src='https://img.stackshare.io/service/9576/default_7b6755d014b3e39c3149d5a18bc3a75d3817f421.png' alt='Timezone'/> [Timezone](https://timezone.io/) – Time Tracking
+- <img width='25' height='25' src='https://img.stackshare.io/service/11380/no-img-open-source.png' alt='navi'/> [navi](https://github.com/denisidoro/navi) – Shell Utilities
+- <img width='25' height='25' src='https://img.stackshare.io/service/5883/preview.png' alt='three.js'/> [three.js](https://threejs.org/) – Game Development
 
 Full tech stack [here](/techstack.md)
 
@@ -100,7 +100,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [jpjcorreia/wtf.server](https://github.com/jpjcorreia/wtf.server)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|253<br/>Tools used|01/05/24 <br/>Report generated|
+|253<br/>Tools used|02/29/24 <br/>Report generated|
 |------|------|
 </div>
 
